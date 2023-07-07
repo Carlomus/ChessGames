@@ -1,0 +1,611 @@
+black to play and find the don't say it
+nobody say it
+nobody say it black to play and find the
+only winning move
+this is your your your like mouth is
+going to drop open i'll be right back
+[Music]
+oh i have the craziest example to show
+you guys of a move
+that
+you know those engine moves where you're
+like
+what the hell is the point of that move
+then you go through a line and on move
+like eight of that line
+this ridiculous pawn move is somehow
+useful you know what i'm talking about
+an engine proactive i have the greatest
+example of that i gave to a group of
+like 2300s i could show you guys if you
+wanted honestly like stunning idea and i
+could walk you through why this engine
+move is made i would give people a
+thousand attempts to find this move and
+you wouldn't be able to
+okay
+so this is a completely obscure game
+totally obscure
+don't ask me how i found it i have my
+methods
+this is the world team championship
+under 26 from 1993 paraguay against
+bolivia
+so i mean this is not a not a well-known
+game at all so white has just played
+queen
+f1 e1 to f1
+so let's take a moment before we do
+anything
+and just adjust yourself to this
+position because we have to figure out
+it's not going to be fun if you don't
+know what's going on
+right and i have to walk you through
+very very methodically
+exactly what's happening in this
+position so what observations can we
+make about this position okay well
+before you look at any moves it's good
+practice to start with material
+start by making observations about the
+way pieces are placed and then you'll go
+into the moves so
+black is down a rook
+for two pawns black is down to work for
+two pawns so it's very clear
+that either we deliver checkmate or we
+win back at least a minor piece or else
+we will be lost
+now
+we can also see that there is a battle
+going on around the king side like the
+king side is where is happening
+right
+and it's where black has to make happen
+or else black is going to
+but white is going to consolidate and
+white is probably going to win
+so now we can start looking at moves and
+the obvious first move the move that you
+know
+that
+everybody and their brother would play
+and black played this in the game as
+queen h3 check
+all right
+now this is not as hard to calculate as
+it may appear
+if white plays king f2 then white gets
+checkmated in one move queen g3
+so white has to play the move king
+q1
+okay
+now
+in this position the queens are staring
+at each other and a queen trade is
+devastating for black unless black can
+at least get a minor piece right
+so
+black has a couple of tempting moves
+here but i will save you the trouble and
+i will say
+that the only serious way of continuing
+the attack
+and if you have any specific questions
+you can ask
+but queen e3 check is the best move
+we need three check is the best move
+yeah no if you play f3 here which i know
+some of you are tempted by white's just
+gonna take the queen
+white's just gonna take the queen and uh
+you can only take one piece at a time
+right
+so there's a nice line here
+bishop e3 check you can say oh i have an
+intermediate move
+and then i win i can take the bishop
+what does white do in this position
+unfortunately this does not work out for
+black if white takes the pawn i need to
+then okay white is up in exchange but
+it's a game unfortunately there's king
+g2
+and white takes the rook in h3 and
+you're down a gazillion pieces
+so
+f3 queen takes h3 fails
+um knight takes f3 guys blunders mate i
+mean like bishop e3 check and then queen
+takes h1 is made so it's actually quite
+important that the queens are staring at
+each other
+so for that reason you need to move your
+queen
+and so you should move it to e3 check
+first
+if king g2 then you get mated
+if queen f2
+then it appears that black's attack has
+reached a cul-de-sac but now it's time
+for f3
+now it's time for f3
+now let's go through the lines
+if
+white plays queen takes e3 now we have
+the same exact position as in the line
+we just looked at with the exception
+with the exception
+that uh here the rook is there is no
+queen on h3 i mean we've literally gone
+the same position with no queen on h3 so
+if white plays king g2 black does not
+have a queen that he needs to take
+so white plays king takes e2
+but at this position we should realize
+that now black has a bishop for the rook
+as well as a pawn and you can take a
+second pawn hey
+a bishop in two pawns for the rook is
+essentially extra material for black
+black is doing totally fine here let
+alone let alone the fact that white's
+king is really weak and the rooks are
+discombobulated this is fine right
+hopefully everyone's following so far
+but there is a problem in this position
+white has another move white does not
+need to take the queen immediately
+can anybody name
+what you what you think might be
+another
+calm very calm move for for white
+so i'll give you a hint it's taking on
+f3 but which piece should take on f3
+calculate
+yes very good the bishop
+because if the knight takes then the
+king is overloaded it's defending
+both the rook and the queen so we take
+the rook and white is busted white loses
+the the queen right
+so bishop takes f3 happens
+but black plays knight takes f3 check
+right
+okay
+now if knight takes f3 well then we
+already know the drill we take the rook
+on h1 and we win the game
+but the problem is that white suddenly
+doesn't have to take on f3 queen f3 is
+illegal queen f3 is illegal king g2
+now the line goes on the line goes on
+you might look at this and say well wait
+a second
+black is good we take the queen with
+check
+king takes f2
+and uh
+we're in
+fantastic shape we play
+knight takes h2
+and we have two pieces for a rook
+but still the line goes on
+here
+white plays the move king g3
+and wins the knight on h2 that knight is
+trapped
+and if you rewind for a second
+in addition to playing queen takes f2
+black can start with rook takes h2 check
+rook takes h2 queen takes f2 and then
+knight takes h2 and who can remind me
+sorry who can remind me of white's move
+in this position
+what is white's move in this position
+this is the important line this is the
+line you should pay attention to
+king g3 and the knight is trapped the
+knight is trapped and in the resulting
+position white is a bit better now
+remember
+we are not talking here about like a win
+for white black is winning in the
+initial position but with an only move
+this is an incredible line so to recap
+to recap
+we have been calculating the following
+line queen h3 check king g1
+queen e3 check queen f2
+f3 bishop f3 knight f3 check king g2 now
+either either queen takes f2 check and
+knight takes h2 or more pertinently rook
+takes h2 check
+something like this was played and white
+lost very quickly white uh blundered
+into mate
+uh knight takes h2 and it looks like
+black is home free but king g3 traps the
+knight
+now in order to solve the problem
+we need to figure out under what
+circumstances
+under what circumstances and i know some
+of you are good at plugging the position
+to the engine
+under what circumstances this final
+position would be winning
+under what circumstances what needs to
+be the case
+what button needs to be pressed for this
+to be winning for black well
+the knight has to be able to move back
+to g4
+and so we go all the way back to the
+start
+the only winning move and i will prove
+this to you by turning on stockfish is
+h5
+and the entire point is that white has
+no effective move white white's only
+move here is to go something like rook
+to d1
+ever i know schuman said every other
+move loses so let me give you a couple
+examples
+if white goes knight f3
+then queen g4 and queen g3 is checkmate
+if y tries to run with king f2 then we
+go at it from the other side we go queen
+d2 and this is winning
+if white goes queen f2 then we give a
+check
+and we go f3 and we are winning
+why are we winning here because after
+bishop takes f3 knight takes f3 queen
+after we have this check on e3 and we
+win the game
+so trust me on this i'll show this to
+you with an engine but rook d1 is the
+only move what do we do now we already
+know what to do check
+check
+f3
+bishop takes f3 knight takes f3 king g2
+rook takes h2 the same exact line but
+after king g3 there is knight g4 we
+extricate the knight we have two pieces
+for the rook and we have the past spawn
+and we have another extra pawn this is
+completely winning
+this is chess
+i think i actually did a pretty decent
+job of walking you through this i feel
+like
+i mean i was able to explain the
+uh the significance of the move h5 this
+is unfindable over the board completely
+unfindable
+but this is beautiful and what's you
+know what what the most beautiful thing
+about this is it's that it's the only
+winning move
+what i love the most about this is that
+it is the only winning move there are no
+other moves that even come close to
+doing anything good look
+here's the proof
+here is the proof
+h5 is the only winning move at a high
+depth i would never find h5 i don't
+think magnus would find h5
+with that and and the only way you can
+find such a move
+is to reverse engineer
+the final position and also to realize
+remember what's so hard about this is
+that it's a slow move you might think
+you're giving white an entire tempo like
+am i really saying that there is nothing
+white can do against that combination
+well that's exactly what i'm saying but
+to determine that is incredibly hard you
+have to see this line
+and by the way there's some ridiculous
+lines in other positions too here rook
+takes h2 rook takes h2 and f3 is winning
+this is amazing and i have some other
+examples of this if you want i could
+show you other like i i did an entire
+lecture in my last chess camp
+about these types of moves and like
+basically how to try to find them
+and i think this is i think this is a
+lot of fun so i can show you guys
+another really really cool example
+so as you can see this is quite a
+well-known game kamskin anon played a
+candidate's match in uh india in 1994.
+that's how long kymski has been good
+analog bishop has been good
+so this is a martial attack very good
+anonymous savant this is not the moment
+yet guys the in this in this position of
+ishii found or sorry kamsky found a
+beautiful tactic this tactic is
+beautiful but it's not
+you know so beautiful that
+it's something to write home about
+so
+he finds an interception and
+interception tactic he notices that the
+knight on hf3 is a type 2 undefended
+piece the queen is aiming at it
+and he says okay
+if i can intercept the connection
+between the queen and the knight and my
+queen gets to f3 oh there will be hell
+to pay and he finds the move rook 8 to
+e3
+now the reason knight e3 does the same
+thing but doesn't work is because it
+blunders the rook on e2
+so 93 doesn't work you have to play
+rookie we have to keep the connection
+between the rooks
+here's how this works
+if white plays f takes e3 it's very easy
+you play queen takes f3 check uh sorry
+not check but but mate is unstoppable
+one thing i want you guys to notice rook
+a8
+is totally innocuous just king f7
+right there are no more checks
+if if if if if bishop takes e3
+then black plays queen takes f3 and
+what's unstoppable here thank you lazy
+for the two month two years
+what's unstoppable here is the move
+knight takes e3
+i want this to make sense to everybody
+otherwise the rest of it won't be fun
+this is winning on the spot you're going
+to play knight takes e3 and there's
+going to be a gazillion mate threats
+okay
+so
+in this position anand plays a move and
+all of the people annotating this game
+assumed that it was the only move he
+plays rook a8 check
+and after king f7 he finds a very
+beautiful defensive idea it's wrong but
+it's still beautiful he finds the move
+knight g5 check
+distracting the queen from h5 and if
+queen takes h5 happens white takes the
+rook on e2
+and because of this pin white emerges up
+in exchange rook takes e2 bishop takes
+g5 and it's an end game white is winning
+so this drives the king out of its shell
+and leads to a bunch of complications
+that we'll get to in a second
+yeah kamsky plays king g6 and the game
+continues we'll get to that in a moment
+as it turns out rook a check is a losing
+move
+and there was an incredible sequence
+an incredible move for white
+that leads to a draw
+what's so crazy about this move is that
+it comes absolutely out of nowhere
+out of nowhere and the defensive concept
+behind it is absolutely stunning
+i'll let you guys think about it for a
+second
+okay
+so
+i could give you a hint ooh knight g5 is
+close but no
+it's not knight
+g5 it is 95. hans in the chat yeah this
+will be actually interesting to han
+since this is like
+craig and and we haven't even reached we
+haven't even reached the pinnacle of it
+this is just the start 95.
+now what is the purpose of this well if
+rick takes d3 you get checkmated no not
+like that you get checkmate in a a
+but you might say well wait a second i
+don't get it just bishop takes c5 this
+doesn't change anything unless it turns
+out it does
+because now white plays bishop takes e3
+and in fact black is an only move that
+draws the game
+it is now black who has to be careful
+here's where the point is revealed
+you might say okay well wait a minute
+wait a minute we discussed this line
+right we discussed this line we said
+black is winning so how can 95 possibly
+change anything
+we just play queen f3 and we're winning
+but here was the point of knight e5 now
+white takes on e5
+and if you play knight takes c3 what's
+the difference between this position
+and uh
+this position
+well the difference is only that the d
+file is open and that's all white needs
+queen d a check is winning for white
+because this leads to a checkmating
+attack
+this leads to a checkmating attack
+so in order to draw the game black has
+to basically say i cannot allow d-take
+c5 to happen on the board which means i
+need to give this bishop up but you need
+to give it up in a way that forces white
+to respond and so the only drawing move
+is bishop takes g3
+h takes g3 queen f3
+and now rook a check and rook a7 check
+yields a draw and the cherry on top
+is that if black tries to run away from
+the checks
+rook takes g7 check
+king takes g7 bishop h6 check wins the
+queen
+and if this is not beautiful i don't
+know what is so
+a draw by repetition is forced white
+cannot make any progress and neither can
+black because knight takes e3 is the
+threat this is a draw
+rook takes g7 check by the way i think
+it might even lose to king h8
+black cannot take the rook
+okay
+so
+what else do i have to say about this
+position 95 is the only drawing move
+instead rook a check
+knight g5 check we go back to the game
+continuation king g6 and now we get to
+the second stunning position
+bishop takes e3
+knight takes e3
+now
+anand finds a really really cool move
+he plays rook d1 to f1
+rook d1 to f1
+and in this position godakamsky takes
+the knight on g5 the position gets
+complicated and the game eventually ends
+in a draw
+okay
+now what black is a winning move here
+that is
+probably equally as stunning as the 95
+resource that white had
+and here's how i would spell out this
+position
+now essentially essentially
+uh we need to figure out what's wrong
+with king takes g5 because king takes g5
+creates a gazillion threats it creates
+the threat of queen f3
+but to the rescue comes the move rook a8
+to e8
+all of a sudden the knight on e3 is
+attacked just in time
+and if you play queen f3 then rook takes
+c3 holds everything together if you take
+the rook on e8 then white takes the rook
+on e2 and white wins
+so kamsky was forced to play f4 queen e4
+and then things get wild like things get
+crazy here in the game it's in a draw
+so what you need to do
+is figure out a way to get rid of this
+knight
+but without disrupting the coordination
+of all of your pieces
+so the question therefore becomes what
+is the only piece that is currently
+unemployed what is the only piece that
+isn't doing anything that could be doing
+something the king the queen the knight
+the rook are all
+doing something they're all holding
+together
+this
+attacking mechanism the only piece
+that's not doing it is the bishop and
+bishop f4 is the only winning move
+bishop f4
+and here's the crazy part
+if gf4 you get checkmated
+queen g4 queen g2
+there's nothing white can do
+if white goes knight e6
+then you calmly drop the bishop back to
+h6 thank you anonymous for the sub the
+whole point is that f4 is now protected
+the next move is queen f3 and you win
+the game
+um
+yeah totally obvious
+if hg you take the bishop and you win
+anonymous gifting to sausalito
+there is nothing that can be done at all
+to bishop f4
+so the whole point is that you need to
+do this without allowing this rookie 8
+resource if white plays rookie 8 here
+then obviously you play bishop takes g5
+and
+white cannot take on e3 because if
+bishop takes c3
+so
+you recruit the only piece that's not
+doing something
+and this is why by the way h6 does not
+work white still has rookie a and again
+the knight on e3 hangs
+so bishop f what do you mean this game
+antique like what do you mean by
+antiquated
+yeah bishop f4 is the only winning move
+so these two moments i think
+are incredible the annotators in this
+game didn't find it
+maybe it was discovered elsewhere i
+don't know i haven't read every book
+where this game was annotated
+but uh just 95 might be even more
+beautiful because 95 is such a crazy
+move you just
+you know to not take the rook here to
+not give a check on a8
+is crazy and look at this line take
+stakes and then bishop g3
+and then a perpetual because you can't
+go to g6
+and then of course you have this crazy
+moment
+where the only winning move is bishop c7
+to f4 but the logic is perfectly clear
+like you should now understand exactly
+why this move is made this move is made
+because
+you need to get rid of the knight why do
+you need to get rid of the knight in
+order to play queen f3 why do you need
+to play queen f3 in order to checkmate
+on g2
+so we do the recursion all the way back
+so why can't we get rid of the knight
+well it's because after rookie 8 our
+pieces are overloaded and the knight is
+going to be captured so we have to do it
+in a way that also preserves the knight
+on e3 and you play bishop f4
+and if you get coached by me then you
+can find moves like bishop f4 and you
+can find move like bishop before you
+become as good as hans pretty quickly
+if you've become as good as hans you get
+invites top tournaments and then you
+conquer the world
+[Music]
+thanks hans for participating by the way
+i really appreciate it i hope you
+enjoyed this
+[Music]
+you

@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.11.09"]
+[Round "-"]
+[White "Sumit2099"]
+[Black "SenseiDanya"]
+[Result "0-1"]
+[CurrentPosition "r2qr1k1/ppp2ppp/8/2b5/2n5/3P1N2/PPPK2PP/RN5R w - -"]
+[Timezone "UTC"]
+[ECO "C20"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Napoleon-Attack"]
+[UTCDate "2020.11.09"]
+[UTCTime "03:00:20"]
+[WhiteElo "1119"]
+[BlackElo "1064"]
+[TimeControl "300"]
+[Termination "SenseiDanya won by resignation"]
+[StartTime "03:00:20"]
+[EndDate "2020.11.09"]
+[EndTime "03:06:14"]
+[Link "https://www.chess.com/game/live/5710916249"]
+
+1. e4 {[%clk 0:04:59.9]} 1... e5 {[%clk 0:04:57.4]} 2. Qf3 {[%clk 0:04:58.2]} 2... Nc6 {[%clk 0:04:54]} 3. Bc4 {[%clk 0:04:55.8]} 3... Nf6 {[%clk 0:04:42.6]} 4. Qb3 {[%clk 0:04:53.5]} 4... Nd4 {[%clk 0:04:02.6]} 5. Qd3 {[%clk 0:04:19.7]} 5... d5 {[%clk 0:03:37.3]} 6. exd5 {[%clk 0:04:02.8]} 6... Bf5 {[%clk 0:03:25.6]} 7. Qxf5 {[%clk 0:03:42.8]} 7... Nxf5 {[%clk 0:03:20.6]} 8. d3 {[%clk 0:03:21.5]} 8... Nxd5 {[%clk 0:03:15.9]} 9. Nf3 {[%clk 0:03:13.2]} 9... Bc5 {[%clk 0:02:46.6]} 10. Nxe5 {[%clk 0:03:03.2]} 10... O-O {[%clk 0:02:44]} 11. Nf3 {[%clk 0:02:52.6]} 11... Re8+ {[%clk 0:02:34]} 12. Be3 {[%clk 0:02:33.1]} 12... Nfxe3 {[%clk 0:02:30.4]} 13. fxe3 {[%clk 0:02:31.1]} 13... Nxe3 {[%clk 0:02:15.7]} 14. Kd2 {[%clk 0:02:18.6]} 14... Nxc4+ {[%clk 0:02:02.5]} 0-1
+
+

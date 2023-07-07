@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.11.07"]
+[Round "-"]
+[White "juka31"]
+[Black "SenseiDanya"]
+[Result "0-1"]
+[CurrentPosition "3r4/ppp2kpp/8/8/q1Pb4/K4P2/PPb5/R6R w - -"]
+[Timezone "UTC"]
+[ECO "C50"]
+[ECOUrl "https://www.chess.com/openings/Giuoco-Piano-Game-Giuoco-Pianissimo-Variation-4...Nf6"]
+[UTCDate "2020.11.07"]
+[UTCTime "20:55:12"]
+[WhiteElo "1105"]
+[BlackElo "1033"]
+[TimeControl "300"]
+[Termination "SenseiDanya won by checkmate"]
+[StartTime "20:55:12"]
+[EndDate "2020.11.07"]
+[EndTime "21:03:38"]
+[Link "https://www.chess.com/game/live/5703942913"]
+
+1. e4 {[%clk 0:04:59.9]} 1... e5 {[%clk 0:04:59.1]} 2. Nf3 {[%clk 0:04:58.9]} 2... Nc6 {[%clk 0:04:58.3]} 3. Bc4 {[%clk 0:04:58.6]} 3... Bc5 {[%clk 0:04:56.9]} 4. d3 {[%clk 0:04:57.7]} 4... Nf6 {[%clk 0:04:55.7]} 5. Ng5 {[%clk 0:04:56.7]} 5... O-O {[%clk 0:04:37.9]} 6. Nxf7 {[%clk 0:04:47.6]} 6... Rxf7 {[%clk 0:04:34.8]} 7. Bxf7+ {[%clk 0:04:46.4]} 7... Kxf7 {[%clk 0:04:34.7]} 8. Nc3 {[%clk 0:04:38.2]} 8... d6 {[%clk 0:04:16.3]} 9. Qf3 {[%clk 0:04:34.7]} 9... Nd4 {[%clk 0:03:55]} 10. Qd1 {[%clk 0:04:21.5]} 10... Bg4 {[%clk 0:03:23]} 11. f3 {[%clk 0:04:07.4]} 11... Be6 {[%clk 0:03:21.9]} 12. Ne2 {[%clk 0:04:01.3]} 12... d5 {[%clk 0:02:56]} 13. Nxd4 {[%clk 0:03:57.9]} 13... Bxd4 {[%clk 0:02:54.7]} 14. exd5 {[%clk 0:03:54.8]} 14... Nxd5 {[%clk 0:02:44.5]} 15. c4 {[%clk 0:03:53.2]} 15... Nf4 {[%clk 0:02:31.4]} 16. Bxf4 {[%clk 0:03:48.8]} 16... exf4 {[%clk 0:02:28.7]} 17. Qd2 {[%clk 0:03:43.3]} 17... Qh4+ {[%clk 0:02:18.4]} 18. Kd1 {[%clk 0:03:34.2]} 18... Rd8 {[%clk 0:01:56.5]} 19. Kc2 {[%clk 0:03:18.8]} 19... Bf5 {[%clk 0:01:44.4]} 20. g3 {[%clk 0:03:09.3]} 20... fxg3 {[%clk 0:01:36]} 21. hxg3 {[%clk 0:03:08.4]} 21... Qxg3 {[%clk 0:01:35.7]} 22. Qe1 {[%clk 0:02:13.6]} 22... Bxd3+ {[%clk 0:01:14.4]} 23. Kb3 {[%clk 0:02:01.1]} 23... Qd6 {[%clk 0:00:59.6]} 24. Qb4 {[%clk 0:01:39.5]} 24... Bc2+ {[%clk 0:00:40.5]} 25. Ka3 {[%clk 0:01:32.2]} 25... Qa6+ {[%clk 0:00:23.6]} 26. Qa4 {[%clk 0:01:25]} 26... Qxa4# {[%clk 0:00:22.3]} 0-1
+
+

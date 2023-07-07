@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.04"]
+[Round "-"]
+[White "m1cot"]
+[Black "OhMyLands"]
+[Result "0-1"]
+[CurrentPosition "rn3rk1/pp3pp1/2pb1n1p/4p3/6q1/1BN4N/PPPP2KP/R1B1R3 w - -"]
+[Timezone "UTC"]
+[ECO "A00"]
+[ECOUrl "https://www.chess.com/openings/Vant-Kruijs-Opening-1...e5-2.Bc4"]
+[UTCDate "2021.03.04"]
+[UTCTime "23:11:16"]
+[WhiteElo "676"]
+[BlackElo "708"]
+[TimeControl "600"]
+[Termination "OhMyLands won by resignation"]
+[StartTime "23:11:16"]
+[EndDate "2021.03.04"]
+[EndTime "23:24:12"]
+[Link "https://www.chess.com/game/live/8638545975"]
+
+1. e3 {[%clk 0:09:55.3]} 1... e5 {[%clk 0:09:52.4]} 2. Bc4 {[%clk 0:09:53.1]} 2... d5 {[%clk 0:09:33.5]} 3. Bb3 {[%clk 0:09:47.2]} 3... Nf6 {[%clk 0:08:54.8]} 4. Nc3 {[%clk 0:09:43.4]} 4... c6 {[%clk 0:08:01.6]} 5. Nf3 {[%clk 0:09:20.5]} 5... Bd6 {[%clk 0:07:37.1]} 6. Ng5 {[%clk 0:09:05.3]} 6... O-O {[%clk 0:07:08.2]} 7. e4 {[%clk 0:09:01.1]} 7... h6 {[%clk 0:06:35.3]} 8. Nh3 {[%clk 0:08:21.4]} 8... dxe4 {[%clk 0:06:08.4]} 9. Rf1 {[%clk 0:07:21.7]} 9... Bg4 {[%clk 0:05:36.5]} 10. f3 {[%clk 0:07:07.3]} 10... exf3 {[%clk 0:05:34.9]} 11. Kf2 {[%clk 0:04:41.9]} 11... fxg2 {[%clk 0:05:28.8]} 12. Kxg2 {[%clk 0:04:32.5]} 12... Bxd1 {[%clk 0:05:23.5]} 13. Rxd1 {[%clk 0:04:24.4]} 13... Qd7 {[%clk 0:05:01.8]} 14. Re1 {[%clk 0:04:17.3]} 14... Qg4+ {[%clk 0:05:00.9]} 0-1
+
+

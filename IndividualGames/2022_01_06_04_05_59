@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.01.06"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "drunkorslanted"]
+[Result "1-0"]
+[CurrentPosition "rn2Q1k1/pp3ppp/q1p3b1/8/1P6/P2P2PP/1BP2P2/R4RK1 b - -"]
+[Timezone "UTC"]
+[ECO "B01"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Mieses-Kotrc-Main-Line-4.g3"]
+[UTCDate "2022.01.06"]
+[UTCTime "04:05:59"]
+[WhiteElo "1263"]
+[BlackElo "1122"]
+[TimeControl "600"]
+[Termination "SenseiDanya won by checkmate"]
+[StartTime "04:05:59"]
+[EndDate "2022.01.06"]
+[EndTime "04:14:58"]
+[Link "https://www.chess.com/game/live/35180824567"]
+
+1. e4 {[%clk 0:09:59.2]} 1... d5 {[%clk 0:09:58.2]} 2. exd5 {[%clk 0:09:54.5]} 2... Qxd5 {[%clk 0:09:56.9]} 3. Nc3 {[%clk 0:09:44]} 3... Qa5 {[%clk 0:09:54.6]} 4. g3 {[%clk 0:09:14.8]} 4... c6 {[%clk 0:09:48.2]} 5. Bg2 {[%clk 0:09:13.8]} 5... Nf6 {[%clk 0:09:36.7]} 6. Nge2 {[%clk 0:09:12]} 6... e5 {[%clk 0:09:28.6]} 7. O-O {[%clk 0:09:03.4]} 7... Bb4 {[%clk 0:09:09.7]} 8. a3 {[%clk 0:08:43.5]} 8... Bxc3 {[%clk 0:09:07.9]} 9. Nxc3 {[%clk 0:08:37]} 9... Bg4 {[%clk 0:08:47.6]} 10. Qe1 {[%clk 0:08:22.6]} 10... O-O {[%clk 0:08:25.3]} 11. d3 {[%clk 0:08:11.1]} 11... Re8 {[%clk 0:07:50.7]} 12. b4 {[%clk 0:07:58]} 12... Qa6 {[%clk 0:07:10.2]} 13. h3 {[%clk 0:07:26.9]} 13... Bh5 {[%clk 0:06:09.5]} 14. Bb2 {[%clk 0:07:21.9]} 14... e4 {[%clk 0:06:01.9]} 15. Nxe4 {[%clk 0:06:26.7]} 15... Nxe4 {[%clk 0:05:58]} 16. Bxe4 {[%clk 0:05:59.6]} 16... Rxe4 {[%clk 0:05:43.1]} 17. Qxe4 {[%clk 0:05:52.8]} 17... Bg6 {[%clk 0:05:20]} 18. Qe8# {[%clk 0:05:50.4]} 1-0
+
+

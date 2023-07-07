@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.02.19"]
+[Round "-"]
+[White "Roman_Vasilev"]
+[Black "SenseiDanya"]
+[Result "0-1"]
+[CurrentPosition "r1bqkb1r/ppp2ppp/5n2/4n3/3pP3/2NPB3/PPP2PPP/R2QKB1R w KQkq -"]
+[Timezone "UTC"]
+[ECO "C47"]
+[ECOUrl "https://www.chess.com/openings/Four-Knights-Game"]
+[UTCDate "2022.02.19"]
+[UTCTime "08:18:04"]
+[WhiteElo "1581"]
+[BlackElo "1591"]
+[TimeControl "600"]
+[Termination "SenseiDanya won - game abandoned"]
+[StartTime "08:18:04"]
+[EndDate "2022.02.19"]
+[EndTime "08:24:30"]
+[Link "https://www.chess.com/game/live/38997578011"]
+
+1. e4 {[%clk 0:09:58.5]} 1... e5 {[%clk 0:09:57.5]} 2. Nf3 {[%clk 0:09:57.2]} 2... Nc6 {[%clk 0:09:56.4]} 3. Nc3 {[%clk 0:09:55.7]} 3... Nf6 {[%clk 0:09:54.5]} 4. d3 {[%clk 0:09:54.7]} 4... d5 {[%clk 0:09:14.6]} 5. Be3 {[%clk 0:09:54.6]} 5... d4 {[%clk 0:09:11.5]} 6. Nxe5 {[%clk 0:09:48.4]} 6... Nxe5 {[%clk 0:08:50.5]} 0-1
+
+

@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.03.18"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "rsuryaprasad"]
+[Result "1-0"]
+[CurrentPosition "rn1q1r1k/p1p2p2/1p2pp1p/4P2Q/8/P1NB4/1PP2PRP/R3K3 b Q -"]
+[Timezone "UTC"]
+[ECO "B00"]
+[ECOUrl "https://www.chess.com/openings/Owens-Defense...3.Nc3-e6-4.Bd3-Bb4"]
+[UTCDate "2022.03.18"]
+[UTCTime "05:07:00"]
+[WhiteElo "1730"]
+[BlackElo "1693"]
+[TimeControl "600"]
+[Termination "SenseiDanya won by resignation"]
+[StartTime "05:07:00"]
+[EndDate "2022.03.18"]
+[EndTime "05:10:52"]
+[Link "https://www.chess.com/game/live/41318982683"]
+
+1. e4 {[%clk 0:09:59.2]} 1... b6 {[%clk 0:09:59.9]} 2. d4 {[%clk 0:09:54.1]} 2... Bb7 {[%clk 0:09:59.8]} 3. Nc3 {[%clk 0:09:28.9]} 3... e6 {[%clk 0:09:58.1]} 4. Bd3 {[%clk 0:09:21]} 4... Bb4 {[%clk 0:09:55.5]} 5. Ne2 {[%clk 0:09:19.6]} 5... Nf6 {[%clk 0:09:52.5]} 6. a3 {[%clk 0:09:14.1]} 6... Bxc3+ {[%clk 0:09:49.6]} 7. Nxc3 {[%clk 0:09:13.3]} 7... O-O {[%clk 0:09:46.5]} 8. Bg5 {[%clk 0:08:37.8]} 8... d6 {[%clk 0:09:42]} 9. e5 {[%clk 0:08:30.6]} 9... dxe5 {[%clk 0:09:36.9]} 10. dxe5 {[%clk 0:08:29.7]} 10... Bxg2 {[%clk 0:09:34.6]} 11. Rg1 {[%clk 0:08:10.8]} 11... h6 {[%clk 0:09:12.5]} 12. Bxf6 {[%clk 0:07:39.1]} 12... gxf6 {[%clk 0:09:06.2]} 13. Rxg2+ {[%clk 0:07:38.3]} 13... Kh8 {[%clk 0:09:04.8]} 14. Qh5 {[%clk 0:07:37.4]} 1-0
+
+

@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.18"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "MisterNWA"]
+[Result "1-0"]
+[CurrentPosition "2r1rk1Q/pp1bppb1/3p1qpB/4n3/2P1P1P1/1NN2P2/PP6/1K3R1R b - -"]
+[Timezone "UTC"]
+[ECO "E81"]
+[ECOUrl "https://www.chess.com/openings/Kings-Indian-Defense-Samisch-Samisch-Gambit-7.Nge2-cxd4-8.Nxd4"]
+[UTCDate "2020.12.18"]
+[UTCTime "01:53:25"]
+[WhiteElo "2110"]
+[BlackElo "2105"]
+[TimeControl "300"]
+[Termination "SenseiDanya won by checkmate"]
+[StartTime "01:53:25"]
+[EndDate "2020.12.18"]
+[EndTime "02:01:11"]
+[Link "https://www.chess.com/game/live/5994020422"]
+
+1. d4 {[%clk 0:04:58.7]} 1... Nf6 {[%clk 0:04:51.6]} 2. c4 {[%clk 0:04:54.8]} 2... g6 {[%clk 0:04:49.8]} 3. Nc3 {[%clk 0:04:53.5]} 3... Bg7 {[%clk 0:04:48.9]} 4. e4 {[%clk 0:04:47.6]} 4... d6 {[%clk 0:04:47.2]} 5. f3 {[%clk 0:04:41.8]} 5... O-O {[%clk 0:04:42.1]} 6. Be3 {[%clk 0:04:18.1]} 6... c5 {[%clk 0:04:36.7]} 7. Nge2 {[%clk 0:04:13.3]} 7... cxd4 {[%clk 0:04:19]} 8. Nxd4 {[%clk 0:04:11.2]} 8... Nc6 {[%clk 0:04:18.4]} 9. Qd2 {[%clk 0:03:53]} 9... Re8 {[%clk 0:03:56.5]} 10. O-O-O {[%clk 0:03:34.7]} 10... Bd7 {[%clk 0:03:45.5]} 11. h4 {[%clk 0:03:30.1]} 11... Qa5 {[%clk 0:03:40.8]} 12. Kb1 {[%clk 0:03:04.7]} 12... Rac8 {[%clk 0:03:34.7]} 13. h5 {[%clk 0:02:55.9]} 13... Nxh5 {[%clk 0:03:26.8]} 14. Nb3 {[%clk 0:02:17]} 14... Qe5 {[%clk 0:01:54.6]} 15. g4 {[%clk 0:01:46.9]} 15... Ng3 {[%clk 0:01:48.8]} 16. Bf4 {[%clk 0:01:46.2]} 16... Nxf1 {[%clk 0:01:47.6]} 17. Rdxf1 {[%clk 0:01:44.1]} 17... Qe6 {[%clk 0:01:35]} 18. Qh2 {[%clk 0:01:35.3]} 18... Ne5 {[%clk 0:01:06.4]} 19. Qxh7+ {[%clk 0:01:33.4]} 19... Kf8 {[%clk 0:01:06.1]} 20. Bh6 {[%clk 0:01:20.1]} 20... Qf6 {[%clk 0:01:05.5]} 21. Qh8# {[%clk 0:01:19.2]} 1-0
+
+

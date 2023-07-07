@@ -1,0 +1,598 @@
+[Music]
+12 36
+okay we're going e4 i forgot to do 10
+plus 5 but it's fine
+all right so we're facing a scandi of
+course we take
+and um
+yeah so multiple options in the scandi
+d4
+is far less common but also a good move
+but of course everybody plays knight c3
+so that's what we're going to do
+so
+um i want to teach you guys a a setup
+against the scandi which is
+quite uncommon and it's going to come
+quite as a surprise to some people
+most people play d4 some of you might uh
+be aware of this trappy move b4
+i'm gonna make a move which might cause
+a lot of you to roll your eyes like is
+this really that great
+uh but hopefully i'll be able to show
+you that it's an easy system
+and it's one that's pretty heavy on on
+good positional principles and that's
+the move g3 preparing uh to fianchetto
+and as you might imagine once you
+fianchetto the knight comes to e2
+in order to not obstruct the bishop now
+it might seem like the bishop is also
+biting on granite you know why are we
+getting it to g2
+and that's where the second component of
+this setup is gonna come in this bishop
+as you'll see assuming the game goes
+along normal lines is actually going to
+become a very good piece because white
+is a plan
+that it
+that involves trying to break down the c
+pawn
+and get this bishop to
+operate at its full potential
+all right so for now we're just
+developing castles
+um d3 just all the normal developing
+moves nothing much to say here
+now once we complete our development
+that's when i'll i'll show you guys the
+main
+plan associated with this line now
+usually people play e6 i'm not as
+familiar with the move e5 and
+e5 could allow us to play d4 and
+challenge the center okay bishop b4 is
+not a great move because it in fact it
+walks right into a move that we would
+have played anyway
+what am i talking about i mean it's a
+natural reaction to bishop before
+yeah e5 is a little bit loosey-goosey
+yeah of course a3 does not threaten a
+takes before but okay he takes anyway
+all right so neither bc nor dc is worth
+ruining the pawn structure we take with
+the knight
+and you might start thinking about what
+it is that we're preparing with a3 what
+is this enigmatic
+plan
+and if you ask yourself that in that way
+you should be able to understand what
+the plan is the plan is to ultimately
+push this b pawn to b5
+um and organize kind of a a classic
+you could call it i suppose a minority
+attack
+although it's not similar to the
+minority attack in the queens again but
+mostly you're trying to get this bishop
+to
+fire on all cylinders bishop g4 okay
+so we don't want to play f3 we
+definitely don't want to play bishop f3
+we want to play queen to e1
+and later on we can chase the bishop
+away with h3
+thank you brigadier pudding for the
+prime now another important note is
+let's say black castles
+are we necessarily in a huge rush to
+play before and sometimes this is
+forgotten by people
+just because you know what your plan is
+doesn't necessarily mean you have to do
+it immediately it's totally fine to
+complete your development first
+and only
+you know go through carry out the main
+plan when you're ready and this is a
+great example of that you could play b4
+but i like a more patient approach with
+d3 and who knows maybe black will do
+something that will
+uh necessitate an alternate approach you
+don't want to
+uh you know reveal your your hand too
+soon especially when there's no way to
+stop before i mean c5 is horrendous and
+does our work for us not to mention it's
+a blunder
+yeah maybe bishop g5 first maybe we'll
+want to attack on the kings on the uh
+kings side now black's best move for his
+knight b to d7 completing his
+development which i assume is going to
+be played
+yeah i don't want to play bishop d2
+though in a way bishop d2 is
+counterproductive because
+the problem with bishop d2 is that it
+helps black's queen
+get away from a5 right think about that
+and that defeats part of the purpose of
+b4 which is that it's a move with tempo
+so definitely now we want to play b4
+and b4 also opens up a a very attractive
+at least to me developing square for the
+bishop on b2 double fiance what is this
+bishop going to be doing here it's going
+to be applying pressure on the e5 of
+course the knight on c3 eventually is
+going to move
+and that's an important uh
+point to make a lot of people hesitate
+to put a piece on a square where it's
+covered by another one of your pieces
+generally speaking that is not a problem
+because ultimately you know that this
+knight
+is going to move either to e4 or maybe
+it won't move
+but the bishop has a lot of potential
+energy to borrow you know the term that
+i really like to use in such situations
+no yeah so queen a6 is a very strange
+move i assume he's trying to prevent b5
+but this queen is going to be offsides
+um and of course we can reinforce b5 by
+playing a later a4
+uh why not cake the bishop asks some of
+you yeah gage three is totally fine i
+don't necessarily see a reason for or
+against it
+uh the bishop is not truly bothering me
+on g4
+and one very sad let's
+i don't really know to be honest i guess
+i guess we can throw it in just for some
+luft
+and to see where he goes just to force
+black to make a decision i i don't feel
+strongly for or against h3 i think it's
+fine but it's not necessary
+and in fact i would
+i wouldn't play it in a classical game
+because it lets his bishop reposition to
+a slightly better square what is the
+bishop doing on f5 what might he later
+be able to prepare who can tell me and
+this is
+you know not a mistake but
+it's a little bit concerning later on if
+he plays this correctly
+so when black's bishop lands on f5 what
+do we have to watch for
+yeah we have to watch for e4 later on we
+have a queen on e1 there is an x-ray
+but of course e4 is not possible
+immediately because we have one two
+three four defenders and assuming the
+bishop moves to f5 there's one two three
+attackers and it's very hard for black
+to reinforce that square one more time
+because the queen is so out of the game
+he can't get to e7 easily thank you vp
+for the 25 months
+okay bishop h5 is something i like to
+see and now
+let's complete our development with
+bishop b2
+i know that some of you might have been
+attracted to bishop g5 but that's not a
+dangerous move because black can go
+knight bd70 cozy for anyway
+which definitely doesn't make sense here
+now one really interesting thing we
+could do
+just a little bit of practice in not
+stopping the calculation prematurely
+whenever you have a bishop on a long
+diagonal you have to
+sort of at least be aware of the
+potential of building a battery so
+imagine a future where the knight on f6
+is gone from the board what becomes
+possible and the knight on c3 is also
+gone from the board what move becomes
+possible let's do a little bit of
+hypothetical thinking that's actually
+going to turn to reality
+queen c3 and queen c3 is a really nasty
+battery it forces an incredibly
+weakening move like f6
+so how do you guys think we should
+capture the spawn taking with the pawn
+and then playing f4 e5 is one very
+powerful approach
+but
+i like knight takes c4 which
+probably in the grand scheme of things
+is worse than dxe4 but i want to
+emphasize
+an idea
+now do we take automatically with a plan
+do we take automatically with a pawn
+what do you guys say about bishop takes
+c4
+does bishop take c4 lose the bishop to
+f5
+no it does not
+no it does not because of queen c3
+setting a trap this is how you set traps
+you make moves that are good on their
+own merit
+and i can almost guarantee you that f5
+is gonna happen in fact probably pretty
+fast after bishop takes e4
+the same goes for moves like bishop f3
+here we go queen c3 threatening mate and
+in the event of f5 it's a total disaster
+because
+black's gonna lose that pawn
+okay well this is
+this is hard to predict rook takes e4
+oh
+gate
+thanks for that
+well i guess i was wrong what can i say
+not a prophet
+yeah that was unpredictable though
+and not in the sense of somebody who's
+unpredictable like non-predictable
+okay now what are our subsequent moves
+here let's take okay well this is just
+total collapse
+yeah that was not not the greatest thank
+you savamenico for the prime
+it's not good when you you know play the
+whole game without developing
+queen size
+i mean that just went down the drain
+very very quickly
+okay so
+g3 is one of several
+good and in my opinion underrated
+systems against this candy
+all right so e5 is possible but if if i
+remember correctly generally speaking
+black
+you know goes bishop f5 and then
+and then puts the pawn on e6 and the
+scandi uh it's not necessarily about
+controlling the most amount of squares
+but rather building up a very solid
+center as john will be the first to tell
+you but i think john is probably a
+bigger specialist in this line than i am
+and it might be that e5 is a reasonable
+move as well thank you dr sputt
+okay so anyways e5 castles bishop b4 is
+already inaccurate it walks right into
+a3
+i would probably get the bishop out to
+d6
+but but bishop c5 i think a lot of
+people would be tempted to play and what
+should white do here
+john bartholomew what should i do in
+this position on the topic of
+flexibility right yeah most of the time
+you want to play d3 but if the bishop is
+landing here
+either you want to go a3 and rook b1 to
+prepare b4 that's very valid
+um but i'm thinking of another move i'm
+thinking of d4
+um the bishop kind of walks into this
+and after ed4 and it for black is facing
+very concrete problems white has two
+very nasty threats one tactical one
+positional can you guys name both of
+them
+well no both of them are sort of
+semi-tactical
+one of them is knight b3
+and if you calculate further you'll see
+that knight v3 doesn't merely trade
+knight for bishop which is a very good
+trade
+i guess queen b4 stays in the game
+because of queen b6 and knight a4 wins
+the bishop thanks for the bits ozzy
+it might not win a piece due to queen
+before a3 queen c4 but
+even if we have to take here and then go
+bishop b3 and look how quickly we've
+developed we've got the two bishops this
+is also a good move white is just better
+so
+not so easy for black to develop and
+probably the modest bishop e7 would be
+the lesser evil
+and that's when we go d3
+then a3 rook b1
+and ultimately the idea is before b5 and
+the secondary idea is to open up the
+center with f2 f4
+um another you know very typical idea
+but not before h3 just a word of advice
+any time you play f4 and you're
+fianchettoed
+um what you have to be very careful
+about is an idea connected with queen v6
+and then knight g4 i see people missing
+this all the time and it's actually very
+nasty it seems very superficial
+um and the issue isn't that knight f2 is
+going to come it's that the knight can
+also come to e3 in such positions
+and and basically force you to give up
+one of your bishops
+uh which is not particularly desirable
+you want to keep them in this position
+so that's why very often it's it's a
+good idea to prepare for by playing h3
+to cover the g4 square
+um
+so that there's no shenanigans with
+knight g4
+uh red hot mama that's a great question
+and that i could go on a die on a
+tangent about that is it worth giving up
+a fiance bishop for rope so you see a
+lot of openings and ideas
+that are hinged on the
+on the fact that you give up
+an exchange for your opponent's fiance
+bishop and as you guys know when a
+fiance bishop disappears from the board
+just by definition imagine if the bishop
+is gone there's tremendous weaknesses on
+whatever color square that bishop was
+controlling and i've won
+right off the top of my head a couple of
+games
+uh with this kind of technique where my
+opponent underestimated
+you know the the potential
+danger of
+giving up his life a dark square bishop
+for rook here's one example from
+an old game of mine that i
+that i just dug up
+okay so i was 2300 when this game was
+played
+my opponent was 2200
+and um
+the following now black's opening was
+really bad so i didn't win only because
+of the sack
+this was a close to ceiling this is back
+when i played the close sicilian a lot
+okay so black played rook b8 which is
+a valid line
+then e6 knight g2 b5
+a3 stopping before knight d4 black is
+kind of mixing up a bunch of ideas the
+better option here is just to go knight
+g7 but anyways
+knight d4 castle sorry it was a slip and
+after a5 i i played a move that i was
+really really proud of
+i was very proud of this move
+because
+i mean black wants to play b4 and keep
+expanding on the queen side so i played
+a move that looks like a tactical
+blunder
+and it's not necessarily that strong
+objectively but it
+temps black into accepting the material
+after which he loses almost instantly
+not a4 a4 there is b4 that doesn't help
+who can
+venture out on a limb and guess the move
+no rook a2 is way too passive i don't
+like this either because it first of all
+gives up the bishop second of all it uh
+forces the knight bishop h6 blunters the
+bishop
+e5 gives up the pawn
+knight a2 is too passive yep uh
+guy perez got it the move is b4
+now the way this works of course that
+first of all black can't really do this
+because a bishop takes d4
+my opponent was very excited though this
+looks like a blunder that knight on on
+c3 is no longer defended by a pawn and
+he quickly took on e2 but i saw this
+queen e2 loses the knight but no knight
+takes e2 thank you dite and he
+immediately grabs the rook which i think
+is essentially a decisive mistake
+and i think he quickly realized after
+abab
+that it's almost impossible for black to
+to make a move because these squares are
+so incredibly weak that black just
+black's position simply collapses so let
+me give an example he played it very
+badly c takes before queen takes b4 if
+he goes knight e7
+one i can do many things maybe a
+computer would hold on here but i can go
+bishop g5 then bishop f6 and i mean
+queen d2 queen h6 is already basically
+an unstoppable mate threat
+oh it's like two moves and it's already
+made look at the domination of white's
+pieces have
+my opponent tried to patch up these
+squares by going f6 but he ends up
+giving up
+a bunch of his center pawns
+now not bishop f4 which walks into e5
+but i played bishop a7
+and think about how to establish the
+nicest parking spot for the bishop that
+bishop is a bit of a problem it's
+dangling what should i do in order to
+you know first of all improve my
+position but also prepare a an outpost
+for the bishop
+yeah d4
+rook d7
+setting a trap bishop c5 queen takes c5
+so i just move my queen out of the way
+then bring the bishop back to c5
+swing the queen to b3 attacking e6 and
+now knight f4 and simply here he simply
+resigned which is not a premature
+resignation he was also in time pressure
+um but the bottom line is that he can't
+defend e6 and black's position just
+totally collapses here totally collapses
+king f7 there's rook a6
+and this is just sad
+and you might say wait a second
+you know it's not really because of the
+dark squares well yes it is you know
+this bishop on c5 is uncontested and the
+weakness of the dark scores led him to
+play f6 which allowed me to win the game
+in this fashion
+um so
+maybe that was a little bit too
+elaborate but
+just wanted to give one practical
+example of what can happen now does this
+mean it's always a bad idea to
+uh to take a rook on a1 no and you
+shouldn't take it to the extreme
+um but it often is
+um well i remember the game because of
+this theme
+so bishop b4 is bad and definitely he
+shouldn't have taken on c3 i mean black
+and castle here
+and then we would have played rook
+b1 cl smith asks is there any merit to
+dc3 i was going to talk about that and
+it's something i mentioned in the
+previous speed run
+uh
+development is
+a race in some positions and not a race
+in others that's how i would phrase it
+so what does that mean that means in
+certain situations it is
+crucial to develop quickly
+situations where you can get a lead in
+development situations where
+your opponent is threatening to develop
+an attack if you don't finish your
+development
+but here it's not like black white's
+king is in any danger or like we need
+the services of the dark square bishop
+on the next move right nor do we have a
+serious lead in development that we
+that would require that would
+necessitate
+or justify weakening our position so
+what it does the drawback of this move
+is not only does it damage the structure
+but the knight on e2 has no square so
+somebody noticed
+it's about the quality of development
+most of the times just because this
+takes one move longer
+uh that doesn't mean anything and it
+doesn't justify dc i hope that makes
+sense
+bishop g4 queen e1 and this position is
+already very bad
+rookie 8 before queen a6 makes it worse
+he should go to c7 that sort of belongs
+in the scandi then we go bishop b2 and
+b5 with very serious pressure yeah we
+decided to throw in h3 this should be
+two and of course this is where black
+totally collapses
+and after knight bd7 and white is an
+amazing position a4 and b5
+but of course the most of the fight is
+still ahead
+um
+so knight e4 94 bishop b4 and again if
+f5 we of course play queen c3
+and this is a good way to set a trap
+rookie seven bishop takes that five two
+pawns up with unstoppable threats on the
+diagonal
+how much does development defend on the
+opening asks champ well it really yeah a
+lot every opening has its own unique
+system of development one nice way to
+end the game here knight d7 how should i
+continue here who can tell me
+there's a tempting move that i know
+somebody's gonna say but it's not very
+effective
+and then there's a simple move that is
+so i think some people might be
+attracted to this move but that's an
+empty trap because then the king just
+drops back to h a no need for that
+rook fe1 or rook ae1 is good
+rook a8
+um
+we're actually well the line i was
+thinking
+so after rookie 1 rookie 8
+we can play the move rookie 6 for
+example and then double on the e file
+but i was thinking of the lion cafe one
+takes takes this is check so rook ae1 is
+more accurate and after knight f6 bishop
+b6 is in fact a good move because after
+king h8 there's this nice idea with
+queen so i just wanted to show that
+concept
+that would be one way to end the game
+anyways um after rookie four it's all
+over just queen takes c4 i completely
+don't understand this but
+oh last thing after knight d7
+uh there's a a move that
+you know it's a blunder but
+white gets lucky
+uh bishop takes g7 might appeal to some
+people king takes you 7 24 wins back the
+night but it doesn't i talked about this
+two days ago anytime you're forking a
+knight you got to be incredibly careful
+about allowing this
+but it turns out that white can still
+win back to peace with g4 g5 still
+no need for that and what actually forks
+the bishop at night is queen f5 that's
+right and this wins the rook because
+here in knight f6 this should takes up i
+guess black and black bishop g6 but
+obviously you can just take
+[Music]

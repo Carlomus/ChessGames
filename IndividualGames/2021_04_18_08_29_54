@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.04.18"]
+[Round "-"]
+[White "amatcoey"]
+[Black "OhMyLands"]
+[Result "0-1"]
+[CurrentPosition "2k3r1/ppp5/4p2p/5n2/7K/2P1Bq2/P1P2P1P/R4R2 w - -"]
+[Timezone "UTC"]
+[ECO "A06"]
+[ECOUrl "https://www.chess.com/openings/Reti-Opening-Reversed-Mexican-Defense"]
+[UTCDate "2021.04.18"]
+[UTCTime "08:29:54"]
+[WhiteElo "1475"]
+[BlackElo "1487"]
+[TimeControl "600"]
+[Termination "OhMyLands won by checkmate"]
+[StartTime "08:29:54"]
+[EndDate "2021.04.18"]
+[EndTime "08:41:52"]
+[Link "https://www.chess.com/game/live/12473756155"]
+
+1. Nf3 {[%clk 0:10:00]} 1... d5 {[%clk 0:09:56.1]} 2. Nc3 {[%clk 0:09:59]} 2... Nf6 {[%clk 0:08:58.8]} 3. d4 {[%clk 0:09:53.6]} 3... Bf5 {[%clk 0:08:02.6]} 4. Ne5 {[%clk 0:09:25.6]} 4... e6 {[%clk 0:07:42.5]} 5. e3 {[%clk 0:09:10.8]} 5... h6 {[%clk 0:06:14.5]} 6. Bd3 {[%clk 0:09:07.2]} 6... Bxd3 {[%clk 0:05:54.8]} 7. Qxd3 {[%clk 0:08:34.3]} 7... Nbd7 {[%clk 0:05:15.8]} 8. O-O {[%clk 0:07:16.9]} 8... Bd6 {[%clk 0:04:37.9]} 9. e4 {[%clk 0:07:15.3]} 9... Nxe5 {[%clk 0:04:14.4]} 10. dxe5 {[%clk 0:07:13.5]} 10... Bxe5 {[%clk 0:04:13.2]} 11. exd5 {[%clk 0:07:12.8]} 11... Bxc3 {[%clk 0:03:49.3]} 12. bxc3 {[%clk 0:07:09]} 12... Qxd5 {[%clk 0:03:36.1]} 13. Qg3 {[%clk 0:06:59.4]} 13... O-O-O {[%clk 0:03:15.1]} 14. Be3 {[%clk 0:06:51.8]} 14... Ne4 {[%clk 0:03:11.1]} 15. Qxg7 {[%clk 0:06:42]} 15... Rhg8 {[%clk 0:03:06.2]} 16. Qxf7 {[%clk 0:06:33.4]} 16... Rxg2+ {[%clk 0:02:29.1]} 17. Kxg2 {[%clk 0:06:28.5]} 17... Nd6+ {[%clk 0:01:59.2]} 18. Qf3 {[%clk 0:06:23.9]} 18... Rg8+ {[%clk 0:01:57.8]} 19. Kh3 {[%clk 0:06:18.8]} 19... Qxf3+ {[%clk 0:01:55.8]} 20. Kh4 {[%clk 0:06:17.9]} 20... Nf5# {[%clk 0:01:54.9]} 0-1
+
+

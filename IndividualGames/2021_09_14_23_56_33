@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.09.14"]
+[Round "-"]
+[White "OhMyLands"]
+[Black "zlodd"]
+[Result "1-0"]
+[CurrentPosition "6r1/pp5p/2np1Bk1/8/4b3/1P2P1P1/P1P4P/R4RK1 b - -"]
+[Timezone "UTC"]
+[ECO "A01"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Larsen-Attack-Modern-Variation...5.f4-Qh4-6.g3-Qe7-7.Nf3"]
+[UTCDate "2021.09.14"]
+[UTCTime "23:56:33"]
+[WhiteElo "2158"]
+[BlackElo "1542"]
+[TimeControl "900"]
+[Termination "OhMyLands won by resignation"]
+[StartTime "23:56:33"]
+[EndDate "2021.09.15"]
+[EndTime "00:13:11"]
+[Link "https://www.chess.com/game/live/25402833571"]
+
+1. b3 {[%clk 0:15:00]} 1... e5 {[%clk 0:15:00]} 2. Bb2 {[%clk 0:14:56.1]} 2... Nc6 {[%clk 0:14:57]} 3. e3 {[%clk 0:14:34.7]} 3... d5 {[%clk 0:14:49.8]} 4. Bb5 {[%clk 0:14:26.8]} 4... Bd6 {[%clk 0:14:35.3]} 5. f4 {[%clk 0:13:49.9]} 5... Qh4+ {[%clk 0:13:30.5]} 6. g3 {[%clk 0:13:47.2]} 6... Qe7 {[%clk 0:13:27.9]} 7. Nf3 {[%clk 0:13:19.7]} 7... Bg4 {[%clk 0:13:19.6]} 8. fxe5 {[%clk 0:11:53.9]} 8... Bxf3 {[%clk 0:11:55.9]} 9. exd6 {[%clk 0:11:01.2]} 9... Qe4 {[%clk 0:10:51.1]} 10. Nc3 {[%clk 0:10:08.8]} 10... Bxd1 {[%clk 0:09:55.5]} 11. Nxe4 {[%clk 0:10:06.9]} 11... dxe4 {[%clk 0:09:48.1]} 12. Bxg7 {[%clk 0:09:53]} 12... Bf3 {[%clk 0:09:01.4]} 13. O-O {[%clk 0:09:40.1]} 13... f6 {[%clk 0:08:31.8]} 14. Bxh8 {[%clk 0:09:35.4]} 14... Kf7 {[%clk 0:08:27.2]} 15. Bc4+ {[%clk 0:09:13]} 15... Kg6 {[%clk 0:08:13.2]} 16. d3 {[%clk 0:07:43.6]} 16... cxd6 {[%clk 0:07:22.3]} 17. dxe4 {[%clk 0:07:35.5]} 17... Bxe4 {[%clk 0:07:21.3]} 18. Bxg8 {[%clk 0:07:25.1]} 18... Rxg8 {[%clk 0:07:01.2]} 19. Bxf6 {[%clk 0:07:24]} 1-0
+
+

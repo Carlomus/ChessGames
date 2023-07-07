@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.01.10"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "aquilaungula"]
+[Result "1-0"]
+[CurrentPosition "r1b2rn1/1p1q1p1p/2n1pBp1/k1Q5/4P3/1P4P1/P1P2P1P/R2R1BK1 b - -"]
+[Timezone "UTC"]
+[ECO "B46"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Taimanov-Variation-5.Nc3-a6-6.g3-Nge7-7.Bg2"]
+[UTCDate "2021.01.10"]
+[UTCTime "01:15:23"]
+[WhiteElo "1651"]
+[BlackElo "1452"]
+[TimeControl "600"]
+[Termination "SenseiDanya won by resignation"]
+[StartTime "01:15:23"]
+[EndDate "2021.01.10"]
+[EndTime "01:24:41"]
+[Link "https://www.chess.com/game/live/6191609221"]
+
+1. e4 {[%clk 0:10:00]} 1... c5 {[%clk 0:10:00]} 2. Nf3 {[%clk 0:09:54.2]} 2... e6 {[%clk 0:09:57.5]} 3. d4 {[%clk 0:09:53]} 3... cxd4 {[%clk 0:09:55]} 4. Nxd4 {[%clk 0:09:52.3]} 4... Nc6 {[%clk 0:09:54.8]} 5. Nc3 {[%clk 0:09:39.6]} 5... a6 {[%clk 0:09:50.1]} 6. g3 {[%clk 0:09:22.9]} 6... Nge7 {[%clk 0:09:26.5]} 7. Bg2 {[%clk 0:09:21.7]} 7... d6 {[%clk 0:09:19.5]} 8. O-O {[%clk 0:09:18.8]} 8... Qc7 {[%clk 0:09:10.4]} 9. b3 {[%clk 0:07:54.2]} 9... g6 {[%clk 0:09:00.3]} 10. Bb2 {[%clk 0:07:50.9]} 10... Bg7 {[%clk 0:08:59.2]} 11. Ndb5 {[%clk 0:07:05.7]} 11... axb5 {[%clk 0:08:08.8]} 12. Nxb5 {[%clk 0:06:54.5]} 12... Qd7 {[%clk 0:08:07.3]} 13. Bxg7 {[%clk 0:06:30.8]} 13... Rg8 {[%clk 0:08:04.8]} 14. Nxd6+ {[%clk 0:06:30.1]} 14... Kd8 {[%clk 0:08:01.8]} 15. Bf6 {[%clk 0:05:57.5]} 15... Rf8 {[%clk 0:07:52.2]} 16. Qd2 {[%clk 0:05:49.9]} 16... Kc7 {[%clk 0:07:23.3]} 17. Rfd1 {[%clk 0:05:47.6]} 17... Ng8 {[%clk 0:06:40.8]} 18. Nb5+ {[%clk 0:05:28.6]} 18... Kb6 {[%clk 0:06:36.8]} 19. Qe3+ {[%clk 0:05:15.5]} 19... Kxb5 {[%clk 0:06:28.3]} 20. Bf1+ {[%clk 0:04:58.2]} 20... Ka5 {[%clk 0:06:25.1]} 21. Qc5+ {[%clk 0:04:40.5]} 1-0
+
+

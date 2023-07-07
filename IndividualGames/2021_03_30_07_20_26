@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.30"]
+[Round "-"]
+[White "TheFool38"]
+[Black "OhMyLands"]
+[Result "0-1"]
+[CurrentPosition "3r1rk1/p1p3pp/1pR1p3/6PP/8/1Q3b2/PP3P2/2R2K1q w - -"]
+[Timezone "UTC"]
+[ECO "B02"]
+[ECOUrl "https://www.chess.com/openings/Alekhines-Defense-Two-Pawns-Lasker-Variation-4...Nd5"]
+[UTCDate "2021.03.30"]
+[UTCTime "07:20:26"]
+[WhiteElo "1369"]
+[BlackElo "1281"]
+[TimeControl "600"]
+[Termination "OhMyLands won by checkmate"]
+[StartTime "07:20:26"]
+[EndDate "2021.03.30"]
+[EndTime "07:32:26"]
+[Link "https://www.chess.com/game/live/10827971155"]
+
+1. e4 {[%clk 0:10:00]} 1... Nf6 {[%clk 0:09:58.9]} 2. e5 {[%clk 0:09:56.5]} 2... Nd5 {[%clk 0:09:55.7]} 3. c4 {[%clk 0:09:43.4]} 3... Nb6 {[%clk 0:09:50.8]} 4. c5 {[%clk 0:09:35]} 4... Nd5 {[%clk 0:09:34.2]} 5. d4 {[%clk 0:09:32.9]} 5... d6 {[%clk 0:08:58.6]} 6. Bc4 {[%clk 0:09:28.1]} 6... dxc5 {[%clk 0:08:19.1]} 7. dxc5 {[%clk 0:09:21.5]} 7... e6 {[%clk 0:08:17.3]} 8. Nf3 {[%clk 0:08:59]} 8... Bxc5 {[%clk 0:08:15.5]} 9. Bg5 {[%clk 0:08:44.3]} 9... Be7 {[%clk 0:07:28.7]} 10. h4 {[%clk 0:08:32.3]} 10... O-O {[%clk 0:07:03.7]} 11. Nbd2 {[%clk 0:08:16.3]} 11... b6 {[%clk 0:07:00]} 12. g4 {[%clk 0:07:49.1]} 12... Bb7 {[%clk 0:06:56.5]} 13. h5 {[%clk 0:07:38.1]} 13... Bxg5 {[%clk 0:06:44.5]} 14. Bxd5 {[%clk 0:07:37]} 14... Bxd5 {[%clk 0:06:42.4]} 15. Nxg5 {[%clk 0:07:29]} 15... Qxg5 {[%clk 0:06:21.6]} 16. Rg1 {[%clk 0:07:01.6]} 16... Qxe5+ {[%clk 0:06:19.8]} 17. Kf1 {[%clk 0:06:54.1]} 17... Nc6 {[%clk 0:06:18]} 18. Rc1 {[%clk 0:06:43]} 18... Rad8 {[%clk 0:05:48.9]} 19. Rg3 {[%clk 0:06:08.1]} 19... f5 {[%clk 0:05:35.6]} 20. g5 {[%clk 0:05:48.3]} 20... f4 {[%clk 0:05:19.6]} 21. Rgc3 {[%clk 0:05:22.2]} 21... f3 {[%clk 0:04:53.8]} 22. Rxc6 {[%clk 0:04:52.5]} 22... Qh2 {[%clk 0:04:50.3]} 23. Nxf3 {[%clk 0:04:36.7]} 23... Bxf3 {[%clk 0:04:34.9]} 24. Qb3 {[%clk 0:03:42]} 24... Qh1# {[%clk 0:04:30.7]} 0-1
+
+

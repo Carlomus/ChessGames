@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.12.08"]
+[Round "-"]
+[White "FrankfurtAirport"]
+[Black "nubpiyu"]
+[Result "1-0"]
+[CurrentPosition "2r4r/p1k3pp/1qPQRn2/6N1/2p2B2/8/2P2PPP/RN4K1 b - -"]
+[Timezone "UTC"]
+[ECO "C02"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Advance-Nimzowitsch-System-4...Nc6-5.Bd3"]
+[UTCDate "2022.12.08"]
+[UTCTime "06:10:24"]
+[WhiteElo "1256"]
+[BlackElo "1134"]
+[TimeControl "900+10"]
+[Termination "FrankfurtAirport won by checkmate"]
+[StartTime "06:10:24"]
+[EndDate "2022.12.08"]
+[EndTime "06:25:12"]
+[Link "https://www.chess.com/game/live/64218791327"]
+
+1. e4 {[%clk 0:15:04.7]} 1... e6 {[%clk 0:15:09]} 2. d4 {[%clk 0:14:54.6]} 2... d5 {[%clk 0:15:17.6]} 3. e5 {[%clk 0:14:21]} 3... c5 {[%clk 0:15:25.5]} 4. Nf3 {[%clk 0:13:55.6]} 4... Nc6 {[%clk 0:15:12]} 5. Bd3 {[%clk 0:13:10.3]} 5... c4 {[%clk 0:15:04.9]} 6. Be2 {[%clk 0:13:08.2]} 6... b5 {[%clk 0:15:11.7]} 7. b3 {[%clk 0:12:16.7]} 7... Qb6 {[%clk 0:15:13.8]} 8. a4 {[%clk 0:12:14.6]} 8... Ba6 {[%clk 0:14:41.3]} 9. axb5 {[%clk 0:11:49.9]} 9... Bxb5 {[%clk 0:14:48.8]} 10. bxc4 {[%clk 0:11:38.8]} 10... Bxc4 {[%clk 0:14:54.6]} 11. Bxc4 {[%clk 0:11:44.5]} 11... dxc4 {[%clk 0:15:02.9]} 12. O-O {[%clk 0:10:28.2]} 12... f6 {[%clk 0:14:59.1]} 13. exf6 {[%clk 0:09:43.3]} 13... Nxf6 {[%clk 0:15:06.5]} 14. Re1 {[%clk 0:08:43.7]} 14... Kf7 {[%clk 0:14:46.2]} 15. Ng5+ {[%clk 0:08:36.8]} 15... Ke7 {[%clk 0:14:22.9]} 16. Rxe6+ {[%clk 0:08:16]} 16... Kd7 {[%clk 0:14:14.5]} 17. d5 {[%clk 0:08:23.7]} 17... Rc8 {[%clk 0:13:55]} 18. dxc6+ {[%clk 0:07:47.2]} 18... Kc7 {[%clk 0:13:53.7]} 19. Bf4+ {[%clk 0:07:55.3]} 19... Bd6 {[%clk 0:13:48.1]} 20. Qxd6# {[%clk 0:08:03.7]} 1-0
+
+

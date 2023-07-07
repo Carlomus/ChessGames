@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.11.27"]
+[Round "-"]
+[White "garyganuzzi"]
+[Black "SenseiDanya"]
+[Result "0-1"]
+[CurrentPosition "2r3k1/p3Q1p1/4b2p/1p2bp2/3p4/3PpP1N/q3B1PP/K2R3R w - -"]
+[Timezone "UTC"]
+[ECO "B20"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Keres-Variation-2...Nc6"]
+[UTCDate "2020.11.27"]
+[UTCTime "06:59:51"]
+[WhiteElo "1519"]
+[BlackElo "1535"]
+[TimeControl "300"]
+[Termination "SenseiDanya won by checkmate"]
+[StartTime "06:59:51"]
+[EndDate "2020.11.27"]
+[EndTime "07:08:16"]
+[Link "https://www.chess.com/game/live/5830658526"]
+
+1. e4 {[%clk 0:04:59.9]} 1... c5 {[%clk 0:04:57.9]} 2. Ne2 {[%clk 0:04:58.2]} 2... Nc6 {[%clk 0:04:49]} 3. c3 {[%clk 0:04:56.6]} 3... Nf6 {[%clk 0:04:36.1]} 4. d3 {[%clk 0:04:51.9]} 4... d5 {[%clk 0:04:23.6]} 5. f3 {[%clk 0:04:46.9]} 5... e5 {[%clk 0:04:14.5]} 6. Bg5 {[%clk 0:04:43.1]} 6... Be7 {[%clk 0:04:10.6]} 7. Bxf6 {[%clk 0:04:41.2]} 7... Bxf6 {[%clk 0:04:09.1]} 8. Qc2 {[%clk 0:04:28.5]} 8... O-O {[%clk 0:03:49.1]} 9. exd5 {[%clk 0:04:23.5]} 9... Qxd5 {[%clk 0:03:47.4]} 10. Nd2 {[%clk 0:04:17.2]} 10... Rd8 {[%clk 0:03:32.3]} 11. Ng3 {[%clk 0:04:07.6]} 11... b6 {[%clk 0:03:02]} 12. c4 {[%clk 0:04:00.3]} 12... Nd4 {[%clk 0:02:44.7]} 13. Qc3 {[%clk 0:03:45.8]} 13... Qc6 {[%clk 0:02:42.9]} 14. O-O-O {[%clk 0:03:42.8]} 14... e4 {[%clk 0:02:19.9]} 15. Qa3 {[%clk 0:03:25.8]} 15... e3 {[%clk 0:02:06.5]} 16. Nde4 {[%clk 0:03:17.1]} 16... Be5 {[%clk 0:02:05.8]} 17. Ne2 {[%clk 0:03:08.3]} 17... f5 {[%clk 0:01:57.9]} 18. Nxd4 {[%clk 0:02:58.4]} 18... cxd4 {[%clk 0:01:48]} 19. Ng5 {[%clk 0:02:49.4]} 19... h6 {[%clk 0:01:46.1]} 20. Nh3 {[%clk 0:02:40.2]} 20... b5 {[%clk 0:01:37.2]} 21. c5 {[%clk 0:02:34.8]} 21... Rd5 {[%clk 0:01:25.5]} 22. Qb3 {[%clk 0:02:23.9]} 22... Be6 {[%clk 0:01:21.4]} 23. Kb1 {[%clk 0:02:04.9]} 23... Rxc5 {[%clk 0:01:20.4]} 24. Qa3 {[%clk 0:02:02.4]} 24... Rc2 {[%clk 0:01:19.5]} 25. Qe7 {[%clk 0:01:49.7]} 25... Rc8 {[%clk 0:00:53.7]} 26. Be2 {[%clk 0:01:25.3]} 26... Rxb2+ {[%clk 0:00:34.5]} 27. Kxb2 {[%clk 0:01:19.2]} 27... Qc2+ {[%clk 0:00:33.4]} 28. Ka1 {[%clk 0:01:17.2]} 28... Qxa2# {[%clk 0:00:32.4]} 0-1
+
+

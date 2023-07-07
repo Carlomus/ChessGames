@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.06.08"]
+[Round "-"]
+[White "OhMyLands"]
+[Black "khunthitsar"]
+[Result "1-0"]
+[CurrentPosition "r1b1k2r/p1pp1ppp/1p5n/1B2P3/qB1NP3/8/2P2PPP/1RQ1K2R b Kkq -"]
+[Timezone "UTC"]
+[ECO "A40"]
+[ECOUrl "https://www.chess.com/openings/Englund-Gambit-2.dxe5-Nc6-3.Nf3-Qe7"]
+[UTCDate "2021.06.08"]
+[UTCTime "06:54:53"]
+[WhiteElo "1906"]
+[BlackElo "1972"]
+[TimeControl "600"]
+[Termination "OhMyLands won by resignation"]
+[StartTime "06:54:53"]
+[EndDate "2021.06.08"]
+[EndTime "07:03:43"]
+[Link "https://www.chess.com/game/live/16874157645"]
+
+1. d4 {[%clk 0:09:56.6]} 1... e5 {[%clk 0:09:58.4]} 2. dxe5 {[%clk 0:09:40.8]} 2... Nc6 {[%clk 0:09:56.9]} 3. Nf3 {[%clk 0:09:39.5]} 3... Qe7 {[%clk 0:09:55.5]} 4. Bf4 {[%clk 0:09:09.4]} 4... Qb4+ {[%clk 0:09:18.3]} 5. Bd2 {[%clk 0:09:04.7]} 5... Qxb2 {[%clk 0:09:16.9]} 6. Nc3 {[%clk 0:08:39.8]} 6... Bb4 {[%clk 0:09:14.2]} 7. Rb1 {[%clk 0:08:27.1]} 7... Qa3 {[%clk 0:09:13]} 8. Nd5 {[%clk 0:07:52.5]} 8... Qa5 {[%clk 0:08:50.5]} 9. Nxb4 {[%clk 0:07:08.7]} 9... Nxb4 {[%clk 0:08:45.7]} 10. Bxb4 {[%clk 0:07:02.2]} 10... Qxa2 {[%clk 0:08:44.5]} 11. e4 {[%clk 0:06:43.7]} 11... Nh6 {[%clk 0:08:23.2]} 12. Nd4 {[%clk 0:05:24.5]} 12... b6 {[%clk 0:08:08.1]} 13. Qc1 {[%clk 0:04:38.2]} 13... Qa4 {[%clk 0:07:14.5]} 14. Bb5 {[%clk 0:04:21.9]} 1-0
+
+

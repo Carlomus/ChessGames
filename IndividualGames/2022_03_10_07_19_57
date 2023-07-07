@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.03.10"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "lagbaaja"]
+[Result "1-0"]
+[CurrentPosition "r3n1k1/p2nprbQ/2p1N3/q2p4/1pBPP3/4BP2/PPP5/2K3RR b - -"]
+[Timezone "UTC"]
+[ECO "B07"]
+[ECOUrl "https://www.chess.com/openings/Pirc-Defense-2.d4-c6-3.Nc3"]
+[UTCDate "2022.03.10"]
+[UTCTime "07:19:57"]
+[WhiteElo "1680"]
+[BlackElo "1618"]
+[TimeControl "600"]
+[Termination "SenseiDanya won by checkmate"]
+[StartTime "07:19:57"]
+[EndDate "2022.03.10"]
+[EndTime "07:28:49"]
+[Link "https://www.chess.com/game/live/40635622163"]
+
+1. e4 {[%clk 0:10:00]} 1... d6 {[%clk 0:09:59.2]} 2. d4 {[%clk 0:09:54.9]} 2... c6 {[%clk 0:09:51.3]} 3. Nc3 {[%clk 0:09:33.9]} 3... g6 {[%clk 0:09:48.8]} 4. f4 {[%clk 0:09:00.6]} 4... Bg7 {[%clk 0:09:47.6]} 5. Nf3 {[%clk 0:08:59.4]} 5... Bg4 {[%clk 0:09:44.6]} 6. Be3 {[%clk 0:08:36.2]} 6... Qb6 {[%clk 0:09:41.5]} 7. Qd2 {[%clk 0:08:26.2]} 7... Bxf3 {[%clk 0:09:37.8]} 8. gxf3 {[%clk 0:08:24.4]} 8... Nf6 {[%clk 0:09:18.3]} 9. O-O-O {[%clk 0:08:01.5]} 9... O-O {[%clk 0:09:16.1]} 10. f5 {[%clk 0:07:41]} 10... Qc7 {[%clk 0:09:12.8]} 11. h4 {[%clk 0:07:20.7]} 11... b5 {[%clk 0:09:08.9]} 12. h5 {[%clk 0:07:18.8]} 12... b4 {[%clk 0:09:06.2]} 13. Ne2 {[%clk 0:06:44.5]} 13... Nbd7 {[%clk 0:08:54.4]} 14. hxg6 {[%clk 0:06:17.4]} 14... fxg6 {[%clk 0:08:50.6]} 15. fxg6 {[%clk 0:06:16.3]} 15... hxg6 {[%clk 0:08:49.4]} 16. Nf4 {[%clk 0:06:12.3]} 16... Kf7 {[%clk 0:08:27.6]} 17. Qg2 {[%clk 0:05:03.2]} 17... Qa5 {[%clk 0:07:55.7]} 18. Qxg6+ {[%clk 0:04:56.1]} 18... Kg8 {[%clk 0:07:49.3]} 19. Bc4+ {[%clk 0:04:28.9]} 19... d5 {[%clk 0:07:46.8]} 20. Rdg1 {[%clk 0:04:27.8]} 20... Rf7 {[%clk 0:07:38.4]} 21. Ne6 {[%clk 0:04:05.4]} 21... Ne8 {[%clk 0:07:16]} 22. Qh7# {[%clk 0:04:03.3]} 1-0
+
+

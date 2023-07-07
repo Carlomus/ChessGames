@@ -1,0 +1,641 @@
+[Music]
+so let's play e4 that that is the move
+that most people actually play
+and e5 so knight f3
+and i unfortunately i can't satisfy
+everybody in terms of like the opening
+that we play i know people play
+different stuff
+trust me i know that but i like to
+showcase
+different openings and how to play them
+and an opening that i've wanted to play
+today
+is the scotch uh yeah i do give rarity
+to subs
+uh and the scotch is the move d4 in this
+position now
+this gotcha is an opening that i do
+recommend to beginners
+among the openings i recommend is that
+the only one
+uh because the scotch in the words of my
+friend peter
+peter who streams at the head of the
+charlotte chess center who streams at
+charlotte chess center because he's
+asleep i will allow myself to say
+something nice about him
+which normally isn't the case when he's
+in the stream check out history
+just uh instructional streams twice a
+week
+uh and they're really good so give them
+a follow trust me if you're
+interested in chess improvement it is
+definitely worth it
+uh i don't put my name behind a lot of
+people but
+uh he's he's great at explaining
+concepts and stuff so
+uh supporting you know by a follow he
+would really appreciate
+but um essentially the scotch teaches
+you to play with all of your pieces
+because what the move d4 does is it
+opens up the center
+and think of it this way when the center
+is closed you
+kind of have a crutch it's important to
+know how to play when the center is
+closed when the center is closed there's
+less likelihood of blundering pieces
+there is less let's just say
+head-to-head combat
+between the pieces when the center is
+open it teaches you the importance of
+having all of your pieces on good
+squares
+it teaches you the importance of active
+development and it allows you
+uh to you know basically you get
+punished for your mistakes which when
+you're a beginner is kind of important
+so d6 is kind of passive
+that's not a terrible move but what
+makes this move passive who can explain
+to me
+why this is a passive move the reason is
+quite simple
+because the good thing about this move
+is it opens up one bishop but in opening
+up one bishop
+it blocks the other you've got to be
+careful about that it blocks the dark
+squared bishop so now it can only come
+to e7
+which is not the sexiest square it's a
+it's a serviceable square it's not
+terrible
+which is why this move is not terrible
+but it's not uh you know
+10 out of 10 kind of square 10 out of 10
+square would be bishop c5
+which is one of the main moves or knight
+to f6 which is the other what should we
+do
+well let's just develop our knight no
+rocket science here and now we need to
+develop our bishops now where would this
+bishop go where do you guys propose
+assuming that he develops his knight
+which i think he will
+but even if he doesn't in general where
+should this bishop go
+yeah so there's two squares that you
+guys should be considering that's the
+squares b5 and c4 so
+i like the move bishop b5 less
+and i know that this will be surprising
+to a lot of people because people really
+like pins and you should like pens
+but not all pins are effective and the
+problem with bishop to b5
+is that he's going to unpin himself with
+bishop to d7
+and that pin is going to be kind of
+empty right there's going to be no more
+pin
+and that bishop on b5 is going to be
+sort of staring at the knight and the
+trade
+is not particularly good instead let's
+drop our bishop on c4
+and this bishop is quite a bit better
+because it has the sustained pressure
+that it's mounting on the f7 pawn now
+again chess is a gradual game you're not
+gonna checkmate anybody
+with one developing move so it's not
+like we are threatening to take the pawn
+on f7 we are applying
+long-term pressure on it we are
+basically setting up for a potential
+attack which may involve this bishop
+it's controlling a lot of squares
+and he goes g6 to fianchetto his bishop
+now let's consider this bishop where
+should this bishop go
+where should this bishop go
+oh we have an even sexier move though
+okay but this is kind of advanced but
+it's it's it's really cool you guys
+want me to do it want me to walk you
+through the logic now the correct
+the sort of the development of bishop to
+g5 but
+let me try to explain how i see this
+rather than just playing the moves
+do you guys see the position of the
+queens in the starting position the
+queens are and i call this a standoff
+a standoff is when two pieces are facing
+each other but there's
+more than one piece blocking them if
+there's only one piece blocking them and
+it's your piece
+it's a it's an x-ray now when the two
+pieces are at a standoff there is a
+tactical potential
+if the position opens up if the pieces
+between them somehow disappear
+then the pieces are going to be directly
+facing each other so i notice
+that the queens are in a standoff not
+only are the queens in a standoff but
+black's queen
+is defended by two pieces it is defended
+first of all by the knight
+and second of all by the king
+hypothetically
+how can i get this king out of e8 can i
+decoy this king
+from its defense of the d8 queen of the
+queen
+yeah bishop f7 but not immediately if a
+situation arises when the queens are
+staring at each other i could do that
+can i get the knight out of c6 so i need
+i need two more things i need to get the
+knight out of c6 let's take it
+and there's only one thing preventing me
+from being able to take on f7 and that
+is the d6 pawn
+and to the rescue comes another decoy
+sacrifice
+where we play knight where we play the
+move e5 attacking the knight
+and if he doesn't take our pawn then
+this pawn is going to wreak havoc
+if he does then we play bishop captures
+f7
+and he doesn't and we'll talk about this
+distracting the king from the queen he
+didn't have to take the bishop there
+but his position would have been ruined
+regardless okay
+so abraham goes goes uh d5 counter
+attacking harbish now should we take the
+knight
+and those of you who are often in my
+stream know that when i ask that
+question
+i'm oh actually we have a better move
+and tobias found it
+so we can in general we should because
+that opens up the position
+but let's put it this way we have a
+better way of taking that knight
+the better way of taking that knight
+good job tobias
+is is the move bishop g5 so conceptually
+we should take the knight
+but we should do it with the bishop
+which would fork
+uh if he takes our bishop then we can
+actually take his knight immediately but
+we can also take his queen first
+and then that bishop is going to be
+forking the rook and the queen or the
+rook of the cane
+but in general the reason that we should
+take the knight when our opponent is
+less developed than we are
+and here he's got both of his bishops
+undeveloped and he's not even close to
+castling
+the side that is the furthest away from
+castling
+is the side that often stands to lose
+when the center is opened
+why because when the center is opened
+that e file can often be used
+to check an exposed king bishop to e7
+what should we take the knight with
+remember our bishop is hanging we got to
+be careful
+what should we take the night with
+we should take the night with a pawn if
+we take the night with a bishop he takes
+our bishop
+and then he takes the other bishop and
+material is equal if we take the pawn
+then he can at most only get a pawn for
+the bishop if he takes the bishop
+then we're going to take his bishop and
+we are going to remain up a piece
+so yeah okay now now we should trade
+and now we need to move our bishop away
+after he takes with the queen we need to
+move our bishop away from c4 because it
+was getting attacked
+uh where should we move it it doesn't
+really matter uh this is a less
+essential decision let's just drop it
+out to d3
+so it's sort of in the vicinity of the
+king in casey castled
+and of course we also need to castle
+castle castle
+and we are up a piece now is the
+conversion stage we are converting our
+advantage in being up a piece is in sort
+of grand master terms a decisive
+advantage now as i've explained during
+my initial speed run there are two
+fundamental methods
+overarching methods of converting an
+extra piece or more
+the first is to trade as many pieces as
+possible try what you're essentially
+aiming
+for in the end is getting a situation
+where you just have
+your extra piece and a bunch of pawns
+against your opponent's king and a bunch
+of pawns that makes it easier
+because then that extra piece is just
+going to like have
+target practice against the pawns and
+that's going to be easier to win
+the second method is to use your extra
+piece as kind of another soccer player
+and mount an attack against the opposing
+king which
+by definition is going to be good
+because you have more
+pieces in the attack you literally have
+more pieces here we can try to apply
+either method we can play queen to c1
+we can play queen to c1 and threaten the
+queen trade or we can try to open up
+the ken now the method that is usually
+taught by coaches
+is the trade method but i actually want
+to push back on that slightly what often
+happens to players
+is they try too hard to trade all of the
+pieces
+and in doing so they forget that the you
+know they make a mistake
+here we're actually going to attack
+black's game now to attack black's king
+we need to open up some files around it
+and so the move f4 followed by f5 trying
+to open that f-file
+which would offer us an avenue to
+black's king
+that seems to me to be the best move
+sorry that was a long explanation
+my bad but uh hopefully that makes sense
+just remember that trading pieces is not
+the only way of converting an advantage
+uh trying to attack your opponent's king
+is also a full-fledged alternative
+method
+of converting many positions oftentimes
+it's better it's just quicker and it's
+it's it's more effective
+and f5 we shove this pawn to f5 we
+sacrifice it
+take my pawn by all means if he takes it
+with his pawn
+he ruins the pawn structure around his
+king if he takes it with a bishop then
+we take his bishop
+and once again he's going to end up
+having to take with a pawn if he doesn't
+take with a pawn okay now he may be
+making a weakness
+now we need to apply something i taught
+you guys a little bit earlier we ask
+after an important move like this how
+has the position changed
+what squares are now available to some
+of our pieces
+if we look very carefully ah the g5 the
+move g5
+opens up the h5 square for our queen
+which is a great attacking position
+i'm gonna have to play a little bit
+faster uh just because i don't have much
+time
+okay so bishop takes f5 is a blunder but
+black is is kind of losing anyway now we
+have one
+two attackers on that square and only
+one defender let's take with a rook
+we take with a rook to involve the rook
+in the attack although we could have
+taken to the bishop
+and the game is over we're up two pieces
+and we're checkmating him
+check that is not a scary check not all
+checks are scary
+we just tuck the king away in the corner
+our king is perfectly safe
+and we are up two pieces and we're gonna
+use them to deliver checkmate
+but we can do it in a nice way so what
+do i see here
+boom and boom
+the bishop and the queen are both aimed
+at the h7
+pawn where should we take that logic
+well
+we take that logic and we transform it
+into a move by saying well if the rook
+was gone from f5
+then queen takes h7 would be checkmate
+right because it just would
+so we need to move the rook away now do
+we just put it on anywhere no
+the ideal kind of move is to move the
+rook away with check he has to respond
+to the check
+and so then we deliver checkmate yeah
+now the second best move would be to
+move the rook away and attack the queen
+simultaneously that would be second best
+because
+technically he could give up the queen
+rook takes g5 is literally forced to
+checkmate he has to either take the rook
+or move the king away because he is in
+check and then queen takes h7 is going
+to be made
+yeah good game good game abraham
+and another very instructive game
+okay
+so good game good game
+that was the most well thank you for
+playing i know it's i
+realize it's it's it's nerve-wracking to
+play in front of
+you know thousands of people literally
+but but you played well
+so you made for an instructive opponent
+yes
+so d4 is the scotch and the scotch is
+named the scotch i
+actually think it is named after
+scotland uh
+and i obviously but uh sometimes
+openings have weird names that aren't
+necessarily named after like the first
+person to play the opening uh but the
+city of edinburgh
+in scotland was one of the first the
+sort of what used to be popular in the
+1800s is
+two cities uh the chess clubs of two
+cities would basically play a
+correspondence game against each other
+they would like mail each other moves
+like the members of each chess club
+would together come up with the moves
+and so the city of edinburgh
+faced off against the city of london in
+1824 and they were
+among the first the members of the club
+were among the first to play the scotch
+but a couple people had played the
+scotch before
+now here's the cool thing i'm gonna blow
+your mind
+i will preface this by saying that the
+veracity of this game is disputed like
+whether this game actually happened is
+subject to debate
+i read about this but do you guys know
+according to my database
+who the first person to play the scotch
+was in the year 1818
+it's pretty mind-blowing nobody is
+expecting me unless somebody knows this
+to say this name napoleon yes
+you guys know napoleon napoleon
+bonaparte
+who was an avid chess player that part
+is not disputed and that's not
+surprising
+but according to my database in 1818 he
+played a game against
+general bertrand already while he was
+banished to saint helena
+but i read about this and apparently
+there's a very famous chess historian
+edward winter
+who claims that these games didn't
+actually happen it was just sort of made
+up
+to um you know to add to the legend of
+napoleon
+but um if the game did happen then he
+was the first person to play the scotch
+according to historical record
+and um yeah but anyways it was played a
+couple
+a couple times before the city of
+edinburgh played it
+and um the scotch is a very sound
+opening because it opens up the diagonal
+for the bishop and it opens up the
+center
+it's played by a lot of grandmasters i
+played the scotches in my main opening
+until i was about 1700
+or 1800 then i switched to the right
+lopez
+so the move d6 i already explained why
+it's not the best
+uh because that it blocks the bishop so
+i would um
+i would you know encourage bishop c5
+that's that's one of the main moves
+that's what charlie played against xqc
+the charlie xqc game was a scotch xqc
+played c3
+charlie deployed his queen to f6
+he just lost whoa that's exactly what we
+practiced for
+exactly what we practiced for yeah so
+xqc may or charlie made it in with queen
+takes f2
+and uh that was the scotch that doesn't
+mean the scotch is about opening i don't
+know if xcc is ever going to play it
+again
+but in this position bishop e3 is the
+best move that's actually theory
+and um i love that video too trust me
+and i think so does charlie
+most people love that video i think i'm
+responsible for like
+a couple thousand of its millions of
+views anyways
+um so bishop c5 is possible and
+you know hikaru didn't like the
+variational approach and i think knight
+f6
+is also possible here this is a more
+let's just say classical move because
+you develop the knight before the bishop
+but from a theoretical perspective the
+moves are equivalent
+the moves are equivalent in in strength
+all right yeah if knight takes c6 then
+black can play queen f6 anyway
+black and play queen f6 anyway
+uh and this isn't this is an
+intermediate move it threatens checkmate
+white has to attend to the checkmate and
+then black recaptures the knight
+okay so d6 knight c3 we develop our
+pieces and g6 is a big mistake
+the reason g6 is a mistake is because
+black cannot afford abraham you in this
+position the thing is you can't afford
+to take two moves to develop your bishop
+and you know that now
+but uh bishop e7 would be the best move
+i get that the bishop is passive here
+but this is better than you know than
+developing slowly because at least you
+get to castle and
+black is slightly worse white has better
+development here but at least black is
+solid
+it's a solid position it's not easy for
+white to win the game
+fast okay
+so g6 and now i explained fully the
+logic behind this move knight takes c6
+and e5 now let's take a look at what
+happens if d takes e5
+so as i explained we play bishop takes
+f7
+and if king takes f7 then queen takes d8
+there is one very important detail in
+this position
+sometimes allowing this is actually fine
+for black
+you guys what losing the queen like that
+is fine like well there is an opening
+called the danish gambit the danish
+gambit is where you sacrifice a bunch of
+puns in the i'm going to skip forward to
+the important part
+so this position frequently occurs in
+the danish gambit and here black has the
+moon knight f6
+why does this look like a big mistake
+who can tell me this looks like exactly
+the kind of
+exactly the kind of moment we just had
+but wait a second right bishop f7
+and if king f7 then you lose your queen
+but wait a second
+this isn't the same as this
+what's the key difference there's
+several superficial differences the key
+difference
+is the positioning of this knight on c3
+the knight being on c3 here the knight
+is on p1
+and the knight being on b1 allows bishop
+before check
+this wins back the queen white has to
+drop the queen back to avoid
+losing it entirely at least white gets
+the piece back for it
+and this is a very famous endgame it's
+about equal material is now equal as a
+result
+so black can actually fall into this
+deliberately and win back the queen
+but with the knight being on c3 um
+none of this works bishop b4 is no
+longer a check you can still play bishop
+before
+but it loses all of its effectiveness it
+just drops the rook
+so part of the reason the chess gets
+complicated is because
+a lot of chess mastery consists
+in perceiving these very small details
+it's very important to be
+detail-oriented
+it's very important to compare various
+positions because eventually you get
+better at spotting these kinds of things
+okay um
+so can't hide the queen yeah yeah so e5
+d5
+yeah and in this position black should
+move the king up in order to not
+lose the queen but i can even still take
+the queen and look at how horrible
+black's pawns are and the king is
+exposed i can pin the knight
+white is just much better here so that's
+just
+good for white and so abram plays d5 we
+go bishop g5
+and if if pawn takes bishop then of
+course we can take the queen
+and take the knight and this is a fork
+and it's a devastating fort because the
+king has to move or bishop blocks and
+then we take the rock
+okay yeah i'm not off the cam here
+okay sorry i was leaning back in my
+chair
+let me move up again okay so
+hopefully that makes sense bishop b7 we
+win the peace
+trade bishop back castle castle and now
+f4 opening up the f-file
+f5 forcing a weakness queen h5
+exploiting that weakness okay so how
+would we have attacked if black just
+let's say develop the bishop
+this pawn on g5 um prevents a very sexy
+rook lift from happening
+we can still lift the rook up to f3 and
+h3 but we can also make the very typical
+move h where when you're attacking you
+want to open up the position of your
+opponent's king
+and a good way to do that would be h4 if
+he takes and we can drop the rook to f4
+and then either give a check or take on
+h4 and
+in either case the attack is absolutely
+devastating because the moment that the
+queen moves
+we can now open up the bishop with f6
+and the attack is just
+absolutely crushing here so there's
+really nothing to
+to even discuss here but abraham takes
+an f5 this hastens the defeat i mean
+although
+yeah the position is tough even out
+without it and now rook takes g5 is a
+simple discovery and queen takes h7
+is checkmate so short but sweden
+again thanks for putting yourself out
+there that was a very instructive game
+i really appreciate it abraham
+[Music]

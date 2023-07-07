@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.01.26"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "steka121"]
+[Result "1-0"]
+[CurrentPosition "rB6/1b1Q2kp/5bp1/1P4q1/p7/2P5/2P2PPP/3RR1K1 b - -"]
+[Timezone "UTC"]
+[ECO "B01"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Mieses-Kotrc-Variation...4.d4-Nf6-5.Nf3-c6-6.Bc4"]
+[UTCDate "2021.01.26"]
+[UTCTime "21:57:03"]
+[WhiteElo "2381"]
+[BlackElo "2429"]
+[TimeControl "300"]
+[Termination "SenseiDanya won by resignation"]
+[StartTime "21:57:03"]
+[EndDate "2021.01.26"]
+[EndTime "22:05:19"]
+[Link "https://www.chess.com/game/live/6356991162"]
+
+1. e4 {[%clk 0:04:58.5]} 1... d5 {[%clk 0:04:59]} 2. exd5 {[%clk 0:04:56.1]} 2... Qxd5 {[%clk 0:04:58.3]} 3. Nc3 {[%clk 0:04:54.9]} 3... Qd8 {[%clk 0:04:57.8]} 4. d4 {[%clk 0:04:44.6]} 4... Nf6 {[%clk 0:04:57.7]} 5. Nf3 {[%clk 0:04:42.1]} 5... c6 {[%clk 0:04:57.2]} 6. Bc4 {[%clk 0:04:40.6]} 6... b5 {[%clk 0:04:56.5]} 7. Bb3 {[%clk 0:04:35.4]} 7... e6 {[%clk 0:04:56]} 8. O-O {[%clk 0:04:30.2]} 8... Be7 {[%clk 0:04:55.3]} 9. Bf4 {[%clk 0:04:11]} 9... O-O {[%clk 0:04:54.3]} 10. Ne5 {[%clk 0:04:10.3]} 10... Nd5 {[%clk 0:04:39.2]} 11. Bg3 {[%clk 0:03:56.8]} 11... Nxc3 {[%clk 0:04:33.1]} 12. bxc3 {[%clk 0:03:55.5]} 12... a5 {[%clk 0:04:12.3]} 13. a4 {[%clk 0:03:42.8]} 13... Ba6 {[%clk 0:04:05.7]} 14. Re1 {[%clk 0:03:24.9]} 14... c5 {[%clk 0:03:48]} 15. Nxf7 {[%clk 0:03:16.9]} 15... Rxf7 {[%clk 0:03:36.2]} 16. Bxe6 {[%clk 0:03:16.1]} 16... Bb7 {[%clk 0:03:17.8]} 17. Qh5 {[%clk 0:02:47.6]} 17... Qf8 {[%clk 0:03:05.4]} 18. axb5 {[%clk 0:02:33.5]} 18... g6 {[%clk 0:02:51.5]} 19. Qe2 {[%clk 0:02:21.6]} 19... Bf6 {[%clk 0:02:37.7]} 20. dxc5 {[%clk 0:02:01.6]} 20... Qxc5 {[%clk 0:02:12.8]} 21. Rad1 {[%clk 0:01:49.8]} 21... a4 {[%clk 0:01:37.2]} 22. Bxf7+ {[%clk 0:01:44.6]} 22... Kxf7 {[%clk 0:01:35.9]} 23. Qe8+ {[%clk 0:01:36.2]} 23... Kg7 {[%clk 0:01:35]} 24. Bxb8 {[%clk 0:01:30.5]} 24... Qg5 {[%clk 0:01:09.3]} 25. Qd7+ {[%clk 0:00:57.1]} 1-0
+
+

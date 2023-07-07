@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.04"]
+[Round "-"]
+[White "SixthMorning"]
+[Black "OhMyLands"]
+[Result "1-0"]
+[CurrentPosition "rn1qkbnr/pp2pppp/8/2pp2B1/3P4/7P/PPP1PP1P/RN1QKBNR w KQkq c6"]
+[Timezone "UTC"]
+[ECO "D00"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Levitsky-Attack"]
+[UTCDate "2021.03.04"]
+[UTCTime "08:38:36"]
+[WhiteElo "661"]
+[BlackElo "515"]
+[TimeControl "600"]
+[Termination "SixthMorning won by resignation"]
+[StartTime "08:38:36"]
+[EndDate "2021.03.04"]
+[EndTime "08:39:14"]
+[Link "https://www.chess.com/game/live/8586305477"]
+
+1. d4 {[%clk 0:09:52.3]} 1... d5 {[%clk 0:09:58.3]} 2. Bg5 {[%clk 0:09:36]} 2... Bh3 {[%clk 0:09:56.6]} 3. gxh3 {[%clk 0:09:30.6]} 3... c5 {[%clk 0:09:55.3]} 1-0
+
+

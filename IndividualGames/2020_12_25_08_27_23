@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.25"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "chesskid1220"]
+[Result "1-0"]
+[CurrentPosition "2r2qk1/ppN3p1/2n1R1Pr/5p1p/3P1Q1P/5P2/PPP5/2K1R3 b - -"]
+[Timezone "UTC"]
+[ECO "D00"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Accelerated-London-Steinitz-Countergambit-3.e3-Nc6"]
+[UTCDate "2020.12.25"]
+[UTCTime "08:27:23"]
+[WhiteElo "2307"]
+[BlackElo "2290"]
+[TimeControl "300"]
+[Termination "SenseiDanya won by resignation"]
+[StartTime "08:27:23"]
+[EndDate "2020.12.25"]
+[EndTime "08:36:32"]
+[Link "https://www.chess.com/game/live/6053359325"]
+
+1. d4 {[%clk 0:05:00]} 1... d5 {[%clk 0:05:00]} 2. Bf4 {[%clk 0:04:58.4]} 2... c5 {[%clk 0:04:57.7]} 3. e3 {[%clk 0:04:52.8]} 3... Nc6 {[%clk 0:04:56.4]} 4. Nc3 {[%clk 0:04:34.5]} 4... cxd4 {[%clk 0:04:54.6]} 5. exd4 {[%clk 0:04:30.9]} 5... Bf5 {[%clk 0:04:52.7]} 6. Nf3 {[%clk 0:04:06.8]} 6... e6 {[%clk 0:04:50.8]} 7. Ne5 {[%clk 0:03:55.3]} 7... Nf6 {[%clk 0:04:15.6]} 8. g4 {[%clk 0:03:48.7]} 8... Be4 {[%clk 0:02:57.3]} 9. f3 {[%clk 0:03:39.7]} 9... Bg6 {[%clk 0:02:30.3]} 10. h4 {[%clk 0:03:24.2]} 10... h5 {[%clk 0:02:29.4]} 11. Nxg6 {[%clk 0:03:20.8]} 11... fxg6 {[%clk 0:02:29.3]} 12. Bd3 {[%clk 0:02:56.4]} 12... Kf7 {[%clk 0:02:26.6]} 13. g5 {[%clk 0:02:26.2]} 13... Ng8 {[%clk 0:02:21.2]} 14. Qd2 {[%clk 0:02:15.7]} 14... Bd6 {[%clk 0:02:16.8]} 15. O-O-O {[%clk 0:02:01.9]} 15... Nge7 {[%clk 0:02:15.8]} 16. Rhe1 {[%clk 0:02:00.6]} 16... Nf5 {[%clk 0:02:14.3]} 17. Bxf5 {[%clk 0:01:58.2]} 17... gxf5 {[%clk 0:02:14.2]} 18. g6+ {[%clk 0:01:44.7]} 18... Kg8 {[%clk 0:01:42]} 19. Rxe6 {[%clk 0:01:38.6]} 19... Bxf4 {[%clk 0:01:35.8]} 20. Qxf4 {[%clk 0:01:37.7]} 20... Rh6 {[%clk 0:01:34.9]} 21. Rde1 {[%clk 0:01:20.3]} 21... Qf8 {[%clk 0:01:33.4]} 22. Nxd5 {[%clk 0:01:13.6]} 22... Rc8 {[%clk 0:01:25.6]} 23. Nc7 {[%clk 0:00:34.4]} 1-0
+
+

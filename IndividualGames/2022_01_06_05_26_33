@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.01.06"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "amamsupii"]
+[Result "1-0"]
+[CurrentPosition "rn1qkb1r/1p3ppp/p2pN3/2p5/4P3/2N5/PPP2nPP/R1BQKB1R w KQkq -"]
+[Timezone "UTC"]
+[ECO "B40"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Drazic-Variation"]
+[UTCDate "2022.01.06"]
+[UTCTime "05:26:33"]
+[WhiteElo "1294"]
+[BlackElo "1276"]
+[TimeControl "600"]
+[Termination "SenseiDanya won - game abandoned"]
+[StartTime "05:26:33"]
+[EndDate "2022.01.06"]
+[EndTime "05:33:05"]
+[Link "https://www.chess.com/game/live/35185625479"]
+
+1. e4 {[%clk 0:09:55.1]} 1... e6 {[%clk 0:09:59.2]} 2. d4 {[%clk 0:09:41.8]} 2... a6 {[%clk 0:09:57.7]} 3. Nf3 {[%clk 0:09:24.7]} 3... c5 {[%clk 0:09:51.5]} 4. d5 {[%clk 0:09:03.9]} 4... Nf6 {[%clk 0:09:38.5]} 5. Nc3 {[%clk 0:08:54.4]} 5... d6 {[%clk 0:09:18.1]} 6. dxe6 {[%clk 0:08:10.5]} 6... Bxe6 {[%clk 0:09:14.9]} 7. Ng5 {[%clk 0:07:30]} 7... Ng4 {[%clk 0:07:21.7]} 8. Nxe6 {[%clk 0:07:24.4]} 8... Nxf2 {[%clk 0:06:30.6]} 1-0
+
+

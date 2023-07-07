@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.11.29"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "dmho"]
+[Result "1-0"]
+[CurrentPosition "1rb2k2/p3pp1p/1p4p1/2pP4/4B3/6RP/P1PN2P1/5K1R b - -"]
+[Timezone "UTC"]
+[ECO "B09"]
+[ECOUrl "https://www.chess.com/openings/Pirc-Defense-Main-Line-Austrian-Weiss-Variation-6...Nbd7-7.e5"]
+[UTCDate "2020.11.29"]
+[UTCTime "08:09:56"]
+[WhiteElo "1618"]
+[BlackElo "1681"]
+[TimeControl "300"]
+[Termination "SenseiDanya won by resignation"]
+[StartTime "08:09:56"]
+[EndDate "2020.11.29"]
+[EndTime "08:16:04"]
+[Link "https://www.chess.com/game/live/5845138966"]
+
+1. e4 {[%clk 0:04:59.9]} 1... d6 {[%clk 0:04:59.9]} 2. d4 {[%clk 0:04:58.3]} 2... Nf6 {[%clk 0:04:59.4]} 3. Nc3 {[%clk 0:04:57]} 3... g6 {[%clk 0:04:58.8]} 4. f4 {[%clk 0:04:47.8]} 4... Bg7 {[%clk 0:04:57.8]} 5. Nf3 {[%clk 0:04:42]} 5... O-O {[%clk 0:04:56.8]} 6. Bd3 {[%clk 0:04:09.9]} 6... Nbd7 {[%clk 0:04:52.9]} 7. e5 {[%clk 0:03:54.1]} 7... dxe5 {[%clk 0:04:51.3]} 8. fxe5 {[%clk 0:03:21.7]} 8... Ng4 {[%clk 0:04:49.6]} 9. h3 {[%clk 0:03:09.9]} 9... Nh6 {[%clk 0:04:47.3]} 10. Bf4 {[%clk 0:03:08]} 10... c5 {[%clk 0:04:40.5]} 11. d5 {[%clk 0:02:44.9]} 11... Qb6 {[%clk 0:04:27.9]} 12. Qd2 {[%clk 0:02:31.7]} 12... Qxb2 {[%clk 0:04:13.2]} 13. Rb1 {[%clk 0:02:24.7]} 13... Qa3 {[%clk 0:04:10.4]} 14. Rb3 {[%clk 0:02:01.8]} 14... Qa5 {[%clk 0:04:08]} 15. Bxh6 {[%clk 0:02:00.9]} 15... Nxe5 {[%clk 0:03:58.6]} 16. Nxe5 {[%clk 0:01:51]} 16... Bxe5 {[%clk 0:03:46.1]} 17. Bxf8 {[%clk 0:01:49.8]} 17... Bg3+ {[%clk 0:03:35.5]} 18. Kf1 {[%clk 0:01:48.2]} 18... Kxf8 {[%clk 0:03:28.8]} 19. Ne4 {[%clk 0:01:24.9]} 19... Qxd2 {[%clk 0:03:00.4]} 20. Nxd2 {[%clk 0:01:24.2]} 20... b6 {[%clk 0:02:57.5]} 21. Be4 {[%clk 0:01:17.2]} 21... Rb8 {[%clk 0:02:53.5]} 22. Rxg3 {[%clk 0:01:16.2]} 1-0
+
+

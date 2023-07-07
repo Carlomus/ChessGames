@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.11.14"]
+[Round "-"]
+[White "chillingnoob"]
+[Black "FrankfurtAirport"]
+[Result "0-1"]
+[CurrentPosition "r1bqkbnr/pp1ppp1p/2n3p1/2p5/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq -"]
+[Timezone "UTC"]
+[ECO "B23"]
+[ECOUrl "https://www.chess.com/openings/Closed-Sicilian-Defense-Traditional-Line-3.Nf3"]
+[UTCDate "2022.11.14"]
+[UTCTime "09:40:45"]
+[WhiteElo "867"]
+[BlackElo "911"]
+[TimeControl "900+10"]
+[Termination "FrankfurtAirport won - game abandoned"]
+[StartTime "09:40:45"]
+[EndDate "2022.11.14"]
+[EndTime "09:49:50"]
+[Link "https://www.chess.com/game/live/62157618173"]
+
+1. e4 {[%clk 0:15:06.8]} 1... c5 {[%clk 0:15:05.8]} 2. Nf3 {[%clk 0:15:14.6]} 2... Nc6 {[%clk 0:14:55.6]} 3. Nc3 {[%clk 0:15:11]} 3... g6 {[%clk 0:14:47.7]} 0-1
+
+

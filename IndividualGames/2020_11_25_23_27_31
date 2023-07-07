@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.11.25"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "MikeyPG14"]
+[Result "1-0"]
+[CurrentPosition "r1bq4/pp1p1Rbk/2p3p1/4P1p1/3P4/4B2P/PP1Q2P1/5RK1 b - -"]
+[Timezone "UTC"]
+[ECO "C55"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game-Anti-Fried-Liver-Defense"]
+[UTCDate "2020.11.25"]
+[UTCTime "23:27:31"]
+[WhiteElo "1510"]
+[BlackElo "1597"]
+[TimeControl "300"]
+[Termination "SenseiDanya won by resignation"]
+[StartTime "23:27:31"]
+[EndDate "2020.11.25"]
+[EndTime "23:31:44"]
+[Link "https://www.chess.com/game/live/5821757553"]
+
+1. e4 {[%clk 0:04:59.9]} 1... e5 {[%clk 0:04:59]} 2. Nf3 {[%clk 0:04:59.1]} 2... Nc6 {[%clk 0:04:58]} 3. Bc4 {[%clk 0:04:58.7]} 3... h6 {[%clk 0:04:57.1]} 4. c3 {[%clk 0:04:49]} 4... Nf6 {[%clk 0:04:55.7]} 5. d4 {[%clk 0:04:47.9]} 5... exd4 {[%clk 0:04:49.4]} 6. e5 {[%clk 0:04:33]} 6... Qe7 {[%clk 0:04:48.2]} 7. O-O {[%clk 0:04:02.2]} 7... Ng4 {[%clk 0:04:42.4]} 8. cxd4 {[%clk 0:04:01.3]} 8... g6 {[%clk 0:04:35.3]} 9. h3 {[%clk 0:04:00.2]} 9... Nxf2 {[%clk 0:04:22.2]} 10. Rxf2 {[%clk 0:03:59.2]} 10... Bg7 {[%clk 0:04:21.7]} 11. Nc3 {[%clk 0:03:46.5]} 11... O-O {[%clk 0:04:01.3]} 12. Nd5 {[%clk 0:03:44.6]} 12... Qd8 {[%clk 0:03:58.8]} 13. Be3 {[%clk 0:03:35.7]} 13... Ne7 {[%clk 0:03:55.3]} 14. Qd2 {[%clk 0:03:22.3]} 14... Kh7 {[%clk 0:03:50.1]} 15. Raf1 {[%clk 0:03:05.4]} 15... Nxd5 {[%clk 0:03:38.9]} 16. Bxd5 {[%clk 0:03:04]} 16... c6 {[%clk 0:03:37.5]} 17. Bxf7 {[%clk 0:02:34.8]} 17... Rxf7 {[%clk 0:03:29.9]} 18. Ng5+ {[%clk 0:02:34]} 18... hxg5 {[%clk 0:03:28.1]} 19. Rxf7 {[%clk 0:02:32.9]} 1-0
+
+

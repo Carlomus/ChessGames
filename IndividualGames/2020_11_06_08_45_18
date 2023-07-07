@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.11.06"]
+[Round "-"]
+[White "Trla"]
+[Black "SenseiDanya"]
+[Result "0-1"]
+[CurrentPosition "6k1/1pp1bppp/2n1b3/8/8/3P1N2/qB2QPPP/K3RB1R w - -"]
+[Timezone "UTC"]
+[ECO "C20"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Leonardis-Variation-2...Nf6"]
+[UTCDate "2020.11.06"]
+[UTCTime "08:45:18"]
+[WhiteElo "935"]
+[BlackElo "968"]
+[TimeControl "300"]
+[Termination "SenseiDanya won by checkmate"]
+[StartTime "08:45:18"]
+[EndDate "2020.11.06"]
+[EndTime "08:50:29"]
+[Link "https://www.chess.com/game/live/5695142350"]
+
+1. e4 {[%clk 0:04:59.8]} 1... e5 {[%clk 0:04:58.9]} 2. d3 {[%clk 0:04:55]} 2... Nf6 {[%clk 0:04:54.5]} 3. Bd2 {[%clk 0:04:51.5]} 3... d5 {[%clk 0:04:53.5]} 4. exd5 {[%clk 0:04:45]} 4... Nxd5 {[%clk 0:04:53.4]} 5. Nc3 {[%clk 0:04:42.6]} 5... Nc6 {[%clk 0:04:31.5]} 6. Qe2 {[%clk 0:04:38.9]} 6... Be7 {[%clk 0:04:16.5]} 7. O-O-O {[%clk 0:04:35.9]} 7... O-O {[%clk 0:04:03.1]} 8. Kb1 {[%clk 0:04:33.6]} 8... Be6 {[%clk 0:03:43.7]} 9. Re1 {[%clk 0:04:24]} 9... Nxc3+ {[%clk 0:03:03.5]} 10. Bxc3 {[%clk 0:04:22.5]} 10... Qd5 {[%clk 0:03:03.4]} 11. b3 {[%clk 0:04:02.1]} 11... a5 {[%clk 0:02:52.3]} 12. Bxe5 {[%clk 0:03:52.1]} 12... a4 {[%clk 0:02:43.1]} 13. Bb2 {[%clk 0:03:42.7]} 13... axb3 {[%clk 0:02:40.7]} 14. cxb3 {[%clk 0:03:39.7]} 14... Rxa2 {[%clk 0:02:23.2]} 15. Kxa2 {[%clk 0:03:36.2]} 15... Qxb3+ {[%clk 0:02:22.1]} 16. Kb1 {[%clk 0:03:34.5]} 16... Ra8 {[%clk 0:02:05.2]} 17. Nf3 {[%clk 0:03:21.4]} 17... Ra1+ {[%clk 0:02:01.6]} 18. Kxa1 {[%clk 0:02:56.9]} 18... Qa2# {[%clk 0:02:01.5]} 0-1
+
+

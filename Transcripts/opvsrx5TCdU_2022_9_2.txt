@@ -1,0 +1,524 @@
+[Music]
+2154 from indonesia okay so i've been
+playing d4 a lot more
+in in the last couple speed runs just
+showcasing positional ideas but i want
+to switch back to e4
+for this one okay so
+let's play now in the french we've been
+playing
+the advanced pretty religious okay never
+mind he plays b6 so he plays b6 which is
+which is a transposition to owen's
+defense
+generally this is reached via e4 b6 d4
+e6
+and white has a bunch of setups that i
+am aware of which give white an
+advantage my favorite one is to play
+knight c3
+and then bishop d3 basically to over
+protect the e4 pawn if you know anything
+about the system for black you will know
+that this there's this idea of going f5
+and by over protecting the pawn with
+your minor pieces you are taking the
+sting out of that bishop e7 is not very
+good there should be seven as far as i
+know is quite passive and now we just
+develop normally like i don't see a
+reason to reinvent the wheel here i
+think the best bet is to go either
+knight g2 or knight f3 either developing
+move is good i think i think we're gonna
+go for a standard development with
+knight f3 let's just go standard
+development
+yeah now
+there's an interesting subtlety in these
+positions okay black wants to play d5
+right
+and let's imagine the black plays d5 so
+if black plays d5 and then we play e5
+black can put the knight on e4 so one
+move i like to make in these positions
+is queen e2 so that if black plays d5
+and we play e5 knight e4 now loses a
+pawn black is forced to retreat to d7
+but our opponent is not interested in
+playing it
+in any principled way he's playing sort
+of a hippo setup which is
+actually quite viable there's nothing
+terribly wrong with this white's better
+but
+it's not
+it's not winning or anything like that
+castle's probably hill castle
+knight bd7 okay so here we can basically
+choose between playing positionally and
+tactically
+if we were to play positionally there is
+a sort of a standard idea that is often
+recommended in such positions
+to weaken black's light squares does
+anybody know what it is
+and for that reason in the hippo you'll
+often see black playing the move a6
+before developing the knight to d7
+and that is the move
+no not a4 because a4 can be just met
+with a6
+a4 can be met with a6
+yeah bishop a6 is what i'm talking about
+and traditionally it's considered that
+such a move in many different openings
+tends to
+so let's try it let's see what happens
+if we trade the light squared bishops
+i'm not personally enthralled with this
+concept because i feel like our bishop
+on d3 is aiming at the king side so in
+the event that white the black castles
+it is nice to get to to retain our light
+squared bishop but at the same time
+uh this does create as you can see this
+this creates a complex of weak squares
+on the queen side which we can try to
+exploit through subtle positional play
+castles okay
+i want everybody to notice that i'm i'm
+not rushing the development of my last
+piece
+right i don't have anywhere particularly
+sexy to put this bishop right now so i'm
+just going to keep it on c1 for the time
+being i'm going to keep it on c1 and
+i'm gonna try to
+when the position clarifies
+then
+we will hopefully find a worthwhile
+square for the bishop so
+many good moves in a position like this
+if we want to continue with our campaign
+of queen side pressure though we should
+definitely play the move a4 very typical
+motif you're basically just trying to
+shove this pawn down at a5 and and
+create pawn pressure on black's position
+he plays c5 a c5
+is an interesting move
+we can respond to this with d5
+we can also ignore and play a5
+although the issue potentially with a5
+is that black and play c takes d4
+although there we just play knight takes
+d4 i don't see a problem that's almost a
+sicilian
+that that'll almost lead to a sicilian
+structure
+where black has a bunch of these light
+square weaknesses on the queen side i'm
+fine with the sicilian structure
+but but if i were playing a classical
+game i'd probably play d5
+and get a benoni benoni type of
+structure
+but but here i want the position to be
+open
+i don't mind that hopefully everybody
+can understand how
+why it is that by bringing our pawn up
+like this we are when i say the words
+like causing pressure or putting
+pressure
+uh hopefully you understand what that
+means i'll explain that a little bit
+more after the game to those people who
+are
+you know because that concept of
+pressure in chess can be very confusing
+admittedly and uh you know
+okay so so now i think in the name of
+putting more pressure yeah i love the
+move rook d1 because this brings a rook
+into the game we know this is a good
+square because it x-rays the queen and
+it also supports the center so
+this is the best way to put pressure you
+make moves that increase the tension and
+the position but we know for a fact that
+this is improved this is an improving
+move
+notice how i'm not changing the
+structure in the center it's a it's a
+standoff
+we're basically staring at each other in
+the center that who flinches first
+now we might still play d5 okay 98 is a
+bad move
+the first thing i notice when 98 is
+played is that it
+it cuts the connection between the rooks
+what does that mean what move
+is now a lot more appealing
+now that black has played knight e8
+what move immediately comes to mind well
+that's this is what why pressure is so
+good right we were holding that pawn on
+a5 for a while
+waiting for the best opportunity to win
+the rook
+very good 14 move game
+that is
+disappointing
+but it is a direct product of the
+pressure that we were putting on black's
+position
+it's a direct product of the pressure
+that we were putting on black's position
+yeah not a very good opening by our
+opponent
+but there's still a lot to talk about
+here so
+yeah we'll we'll get to that
+yeah so so these openings are
+i just never recommend them to anybody
+because they're bad and you
+you know you might see hikaru play these
+types of openings but that's because he
+is incredibly good at weaseling his way
+out of
+bad positions
+and um
+at 2100 you certainly should not play
+there are much better offbeat openings
+that actually give you a chance to get
+an interesting position i mean at the
+very least if you're playing e6 play the
+french you know the french is a great
+uh kind of second rate opening that that
+gives you a combative game
+and if you want to play something super
+offbeat there's plenty of stuff that's
+like just a lot more interesting than
+just giving up the center like this
+because no matter how white sets up
+their pieces black is going to be worse
+which is why i don't really see the
+appeal of this
+opening okay so we played knight c3 and
+bishop d3 which is
+i think one of the main lines so here
+the main move is knight f6 bishop e7 is
+very passive
+in this opening the bishop usually goes
+to b4
+but the move bishop before here
+let's see who paid
+especially careful attention to the
+earlier games in the speed run i have
+recommended a move here that we have
+played
+several times in the speed run
+and that's knight e2
+92
+by the way common mistake in notation is
+to say knight g to you don't have to say
+knight g2 because there's only one
+knight that can go to e2 the other one
+is pinned
+and the purpose of knighted to it knight
+g2 is to connect the
+i just made that mistake knight e2 is to
+connect the knights
+and if black plays for instance knight
+f6
+then we can just castle
+and if you compare this position and
+this position
+well compare the placement of the knight
+on e2 versus f3 what move does black
+have here
+it is totally harmless here well it's
+obviously bishop take c3 that's the
+whole point of connecting your knights
+like this you take the sting out of the
+potential
+for a trade
+whereas with the knight on f3 black
+actually just wins upon this is a common
+blunder
+very common blunder
+by the way another very common mistake
+listen carefully because this is a
+mistake tons of people make
+is you get a position like this
+and then you say hmm well i see that my
+opponent is threatening to win the pawn
+so let me pin the knight
+in order to defend the pawn indirectly
+while also developing a piece
+on the face of it this logic sounds good
+but there's a a concrete flaw with this
+move in particular and with the concept
+of using a pin to defend upon what is
+what is the flaw what is black's best
+move here
+i see this all the time
+no not castles oh if black castles then
+white already has like e5 and stuff then
+it's justified
+yeah so black plays h6 you might say
+well no big deal i just play bishop h4
+but here black plays g5
+and we've lost a pawn because now you're
+black has gotten rid of the pin and
+black can take on e4 immediately even
+because because you can't take with a
+knight
+so you're forced to take the knight but
+now you have given up the bishop aaron
+you have made two moves with the bishop
+only to trade it for a knight that has
+moved once and black is doing great here
+so just an important note if i were to
+get myself into this position
+who can propose a way of defending the
+e4 pawn
+who can propose the best way of
+defending e4 pawn also one of the only
+ways
+sunny diet deity if you play h6a3 black
+will take the knight with check
+and you lose a piece on g5
+yeah queen e2
+but the whole reason that we put a
+knight on e2 rather than an f3 here
+block plays d5
+and here you get into this very annoying
+situation where black starts putting
+pressure on your knight etc etc so
+for that reason i proposed the setup
+with knight e2
+so that after knight f6 you can simply
+castle you can also play a3 and kick the
+bishop away and bishop takes c3 is
+totally harmless due to knight takes c3
+why not f3 to prevent the shenanigans
+asks nikhil
+97 when when are you proposing that we
+play f3 here
+well as you know f3 is a very weakening
+move you can play f3 there's nothing
+terribly wrong with this move but i
+don't like the weaknesses that you're
+creating on the queen on the king side
+and these are permanent
+so f3
+f3 is very weakening
+very weakening
+um
+also black can try to run you off the
+board with his pawns d5 e5 c5 and as you
+can tell you're you're starting to oh
+and i think when h4 queen takes d4 is a
+problem
+in certain positions so f3 in french
+structures is not usually a good move
+okay bishop b7 so notice how we're
+flexible right
+you might look at the say well didn't
+you just say
+that
+you're proposing that you developed the
+knight t2 yeah but the situation has
+changed black's bishop is now not on b4
+it's on e7
+and that changes our method of
+development
+a very important skill in the opening is
+to like not get that's why system
+players struggle by the way another
+reason why i don't recommend starting
+with the london because you don't
+learn how to adapt in the opening you
+play the same moves over and over again
+okay knight f3 knight f6 now we play
+queen e2
+once again the purpose of queen e2 is
+that if we castle instead black has d5
+and black can put the knight on e4 not a
+big deal but something that we can
+easily prevent with queen e2
+okay d6 is
+passive but okay black setup is fine
+this is
+i would say probably 0.5 or 0.6
+according to the engine
+okay so bishop a6 super common idea in a
+million different openings if you are a
+london player
+then get out of the stream
+if you are a london player or a tory
+player you should recognize that concept
+so if you play
+a london against the king's indian
+the
+london in the london against the king's
+indian this idea exists
+so something like this
+yeah
+oh actually man no so the the line that
+min likes to play he puts the bishop on
+c4 in the london
+and a lot of our games go like this like
+bishop b7 queen e2
+and in bullet i'll often forget to go a6
+i'll go like
+some random move and then he'll play
+bishop a6
+very similar idea right white is
+weakening all these light squares after
+queen c7 if you're paying attention to
+my speedrun game what should white do
+here
+what is the automatic move for white in
+this in these types of positions the
+automatic idea
+yeah it's to play a4a5
+and and create very similar pressure to
+the the kind of pressure that we put in
+our opponent so you can see how openings
+are connected like the ideas can be
+borrowed from one opening to another
+i can show you a million examples of
+this idea
+of course you're probably more familiar
+with this idea on the king's side but
+it's the same idea
+it's just that when it happens on the
+king side in an opening like the perk
+like when you when you do this
+you know you can immediately understand
+the benefits of trading
+uh the fiance because there's a king
+here when there's no king it can be
+harder to see it but it's the same type
+of concept you're awakening the dark
+squares here with the light squares
+there etc
+so back to the game queen e2 d6 castles
+knight bd7 bishop a6 okay so he took it
+castles and a4
+so c5 i think is another mistake
+c5 weakens black's position even further
+creates a weak pawn on d6
+it weakens the b6 pawn and it makes the
+move a5 even stronger
+no i i wouldn't say that taking a the
+bishop was a big mistake i think black
+is okay here if he's careful
+so what should black do here well what i
+would do with black is probably try to
+smoke the queen out of a6 i would play
+the move queen to c8
+i'd play the move queen to c8
+we would
+presumably not trade we would probably
+quit queen d3 queen e2
+and now i would play the very typical
+move a6
+right this is a classic pawn arrangement
+the idea is to meet a5 with b5
+the idea is to meet a5 with b5 and the
+game continues the white is better we've
+got the center we would probably go
+bishop g5 but
+in such positions black is obvious
+obviously black is solid
+black is solid i mean this is this the
+game is going to last a while rookie yay
+unpleasant black is super cramped but
+it is what it is
+of us no
+no at that point it was bad for black
+no no it's not drowsh it's a it's just a
+middle game you know what else i'd
+consider
+what i'd probably play in a classical
+game with black is the move d5
+so what i would say is okay um the
+moment the queen leaves e2 the e4 square
+we lose some of our control over the e4
+square so d5 becomes a possibility and
+then
+e594 although here
+no here probably white can just take and
+go knight d2 and the pawn on e4 is going
+to be lost
+no this is bad this is bad i apologize
+this is not the way
+maybe d5 and 98 but this looks really
+passive now we go a5 and
+the situation becomes even more
+unpleasant for black
+although even here black is actually
+very solid it white is not winning in a
+position like the white's just better
+but this is not losing black is still
+solid even though he's incredibly
+cramped after something like c6 but
+these positions you don't win fast
+okay but instead c5 a5
+the line that i had to calculate cd
+knight d4 knight c5 looks very dim we
+just drop our queen back to e2
+and look at how weak the c6 square is
+right we're already threatening knight
+c6
+we're threatening it takes like there's
+just a lot of pressure on black's
+position
+so instead he plays h6 weird move we
+improve our position look d1
+98 and the game ends very quickly so
+if he had played knight takes b6 then
+our placement of our rook on d1 is
+justified we just play d takes c5 and we
+win
+we win everything
+um so the way black should have played
+is queen takes music only move
+and here we would have a choice uh we
+can definitely trade queens and get into
+a much better end game where we have a
+vastly superior pawn structure better
+placed pieces
+so uh d reasonable option
+reasonable option number two is to not
+if you
+i wouldn't not trade queens i would try
+to trade on my own terms
+so you could say okay we're not afraid
+of black taking our queen because our
+rook on a6 is going to be sexy
+so you can make a move like knight b5
+and if black takes then black is in huge
+trouble on the queen i mean a7 is
+probably going to be lost and if black
+loses a7 then black's queen side is
+totally decimated
+so i would play probably the move knight
+b5
+a good introduction to positional
+pressure this game
+kind of sad that black collapsed as
+quickly as as he as he or she did
+so any questions
+knight ba forces the trade
+one second we have a question from anita
+no knight b8 blunders a rook
+yeah
+all right
+[Music]

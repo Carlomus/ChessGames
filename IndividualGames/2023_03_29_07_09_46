@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.03.29"]
+[Round "-"]
+[White "bonbardayung"]
+[Black "FrankfurtAirport"]
+[Result "0-1"]
+[CurrentPosition "2r2rk1/p2Rbppp/1p2p3/8/5n2/1QK2P2/PP2q2P/2R5 w - -"]
+[Timezone "UTC"]
+[ECO "B30"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Open-3...cxd4"]
+[UTCDate "2023.03.29"]
+[UTCTime "07:09:46"]
+[WhiteElo "2039"]
+[BlackElo "1917"]
+[TimeControl "900+10"]
+[Termination "FrankfurtAirport won by resignation"]
+[StartTime "07:09:46"]
+[EndDate "2023.03.29"]
+[EndTime "07:27:02"]
+[Link "https://www.chess.com/game/live/73812701757"]
+
+1. e4 {[%clk 0:15:09.9]} 1... c5 {[%clk 0:15:09]} 2. d4 {[%clk 0:15:16.5]} 2... cxd4 {[%clk 0:15:15.8]} 3. Nf3 {[%clk 0:15:25.3]} 3... Nc6 {[%clk 0:14:38]} 4. Bc4 {[%clk 0:15:29.1]} 4... Nf6 {[%clk 0:14:00.7]} 5. e5 {[%clk 0:15:32]} 5... Nxe5 {[%clk 0:13:34.9]} 6. Qxd4 {[%clk 0:15:07]} 6... Nxc4 {[%clk 0:13:02]} 7. Qxc4 {[%clk 0:15:14.7]} 7... d5 {[%clk 0:12:32.2]} 8. Qb3 {[%clk 0:15:07.8]} 8... e6 {[%clk 0:11:31.2]} 9. O-O {[%clk 0:14:40.3]} 9... Be7 {[%clk 0:11:06.8]} 10. Rd1 {[%clk 0:14:43.1]} 10... O-O {[%clk 0:11:10.1]} 11. Bf4 {[%clk 0:14:19.4]} 11... b6 {[%clk 0:11:08]} 12. c4 {[%clk 0:14:25.1]} 12... dxc4 {[%clk 0:09:55.7]} 13. Qc2 {[%clk 0:14:18.6]} 13... Nd5 {[%clk 0:09:03]} 14. Qxc4 {[%clk 0:14:20.8]} 14... Bb7 {[%clk 0:09:10.5]} 15. Nc3 {[%clk 0:14:27.8]} 15... Qc8 {[%clk 0:07:59.5]} 16. Qb3 {[%clk 0:14:03.5]} 16... Nxf4 {[%clk 0:08:07.7]} 17. Rac1 {[%clk 0:13:41.5]} 17... Qc5 {[%clk 0:06:57.6]} 18. Rd7 {[%clk 0:13:06]} 18... Bxf3 {[%clk 0:07:01.8]} 19. gxf3 {[%clk 0:13:09.4]} 19... Qg5+ {[%clk 0:07:10.4]} 20. Kf1 {[%clk 0:13:16.5]} 20... Qg2+ {[%clk 0:07:19.4]} 21. Ke1 {[%clk 0:13:25.2]} 21... Qg1+ {[%clk 0:06:51.7]} 22. Kd2 {[%clk 0:13:30.6]} 22... Qxf2+ {[%clk 0:07:00.8]} 23. Ne2 {[%clk 0:13:36.3]} 23... Qxe2+ {[%clk 0:07:08]} 24. Kc3 {[%clk 0:13:44]} 24... Rac8+ {[%clk 0:07:14.5]} 0-1
+
+

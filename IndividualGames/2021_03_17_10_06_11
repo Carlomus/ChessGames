@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.17"]
+[Round "-"]
+[White "atanes_kh"]
+[Black "OhMyLands"]
+[Result "0-1"]
+[CurrentPosition "r6r/p3k1pp/1p2pp2/2ppK2P/2b2P2/8/P4P2/R5R1 w - -"]
+[Timezone "UTC"]
+[ECO "E20"]
+[ECOUrl "https://www.chess.com/openings/Nimzo-Indian-Defense"]
+[UTCDate "2021.03.17"]
+[UTCTime "10:06:11"]
+[WhiteElo "1102"]
+[BlackElo "1125"]
+[TimeControl "600"]
+[Termination "OhMyLands won by checkmate"]
+[StartTime "10:06:11"]
+[EndDate "2021.03.17"]
+[EndTime "10:11:21"]
+[Link "https://www.chess.com/game/live/9714505037"]
+
+1. d4 {[%clk 0:09:57.4]} 1... Nf6 {[%clk 0:09:54]} 2. c4 {[%clk 0:09:56]} 2... e6 {[%clk 0:09:49.7]} 3. Nc3 {[%clk 0:09:52.2]} 3... Bb4 {[%clk 0:09:43.7]} 4. e4 {[%clk 0:09:48.6]} 4... Nxe4 {[%clk 0:09:17.4]} 5. Bd3 {[%clk 0:09:42.9]} 5... Nxc3 {[%clk 0:09:15.2]} 6. Qf3 {[%clk 0:09:28.8]} 6... Nb5+ {[%clk 0:08:08]} 7. Bd2 {[%clk 0:09:25]} 7... Bxd2+ {[%clk 0:08:05.8]} 8. Kxd2 {[%clk 0:09:23.9]} 8... Nxd4 {[%clk 0:08:05.1]} 9. Qg4 {[%clk 0:09:05.3]} 9... Qf6 {[%clk 0:07:51.1]} 10. Nf3 {[%clk 0:09:00.9]} 10... Nxf3+ {[%clk 0:07:46.2]} 11. Qxf3 {[%clk 0:08:58.7]} 11... Qxb2+ {[%clk 0:07:45.4]} 12. Bc2 {[%clk 0:08:54.7]} 12... Nc6 {[%clk 0:07:43.5]} 13. Rhb1 {[%clk 0:08:41.7]} 13... Qxc2+ {[%clk 0:07:19.9]} 14. Kxc2 {[%clk 0:08:39.6]} 14... Nd4+ {[%clk 0:07:19]} 15. Kd3 {[%clk 0:08:35.2]} 15... Nxf3 {[%clk 0:07:18.2]} 16. gxf3 {[%clk 0:08:34.5]} 16... b6 {[%clk 0:07:02]} 17. h4 {[%clk 0:08:32.7]} 17... Ba6 {[%clk 0:06:59.7]} 18. f4 {[%clk 0:08:30.8]} 18... d5 {[%clk 0:06:58.3]} 19. h5 {[%clk 0:08:26.8]} 19... Bxc4+ {[%clk 0:06:57.4]} 20. Kd4 {[%clk 0:08:25.3]} 20... c5+ {[%clk 0:06:54.8]} 21. Ke5 {[%clk 0:08:21.8]} 21... Ke7 {[%clk 0:06:43.5]} 22. Rg1 {[%clk 0:08:18.8]} 22... f6# {[%clk 0:06:42.2]} 0-1
+
+

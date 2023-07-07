@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.23"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "pipinyourpampers"]
+[Result "1-0"]
+[CurrentPosition "r5k1/p2n1pp1/2pB1n1p/1q1p1B2/8/8/PPQ3PP/1K1RR3 b - -"]
+[Timezone "UTC"]
+[ECO "D36"]
+[ECOUrl "https://www.chess.com/openings/Queens-Gambit-Declined-Exchange-Positional-Line-Reshevsky-Variation"]
+[UTCDate "2022.10.23"]
+[UTCTime "06:14:35"]
+[WhiteElo "2282"]
+[BlackElo "2178"]
+[TimeControl "900+10"]
+[Termination "SenseiDanya won by resignation"]
+[StartTime "06:14:35"]
+[EndDate "2022.10.23"]
+[EndTime "06:28:37"]
+[Link "https://www.chess.com/game/live/60244773151"]
+
+1. d4 {[%clk 0:15:07.7]} 1... d5 {[%clk 0:15:07.9]} 2. c4 {[%clk 0:15:12.4]} 2... e6 {[%clk 0:15:15.9]} 3. Nc3 {[%clk 0:15:14.4]} 3... Nf6 {[%clk 0:15:24.1]} 4. cxd5 {[%clk 0:14:51.4]} 4... exd5 {[%clk 0:15:30.8]} 5. Bg5 {[%clk 0:14:40.7]} 5... c6 {[%clk 0:15:35.3]} 6. Qc2 {[%clk 0:14:40]} 6... Bd6 {[%clk 0:15:41.7]} 7. e3 {[%clk 0:14:30.8]} 7... O-O {[%clk 0:15:49.6]} 8. Bd3 {[%clk 0:14:35.7]} 8... h6 {[%clk 0:15:57]} 9. Bh4 {[%clk 0:14:43.1]} 9... Re8 {[%clk 0:16:01.5]} 10. Nf3 {[%clk 0:14:12.2]} 10... Be6 {[%clk 0:16:00.5]} 11. Ne5 {[%clk 0:13:23.2]} 11... Nbd7 {[%clk 0:15:38.5]} 12. f4 {[%clk 0:13:22.2]} 12... Qc7 {[%clk 0:15:31.2]} 13. f5 {[%clk 0:11:51.8]} 13... Bxe5 {[%clk 0:15:30.3]} 14. fxe6 {[%clk 0:11:40]} 14... Rxe6 {[%clk 0:15:37.5]} 15. dxe5 {[%clk 0:11:48.6]} 15... Qxe5 {[%clk 0:15:38.7]} 16. O-O-O {[%clk 0:11:16.3]} 16... Qxe3+ {[%clk 0:15:17.6]} 17. Kb1 {[%clk 0:11:24.9]} 17... b5 {[%clk 0:14:56.8]} 18. Rhe1 {[%clk 0:10:20.4]} 18... Qb6 {[%clk 0:14:54]} 19. Bf5 {[%clk 0:10:28]} 19... Rd6 {[%clk 0:14:57.9]} 20. Bg3 {[%clk 0:10:18.1]} 20... Qc5 {[%clk 0:14:44.7]} 21. Nxb5 {[%clk 0:09:07.3]} 21... Qxb5 {[%clk 0:14:06.3]} 22. Bxd6 {[%clk 0:09:16.3]} 1-0
+
+

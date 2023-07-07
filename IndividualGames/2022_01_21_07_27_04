@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.01.21"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "serg_jn"]
+[Result "1-0"]
+[CurrentPosition "r1bqk2r/pppp1ppp/2nb1n2/4P3/4P3/2P2N2/PP3PPP/RNBQ1RK1 b kq -"]
+[Timezone "UTC"]
+[ECO "C20"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-1...e5"]
+[UTCDate "2022.01.21"]
+[UTCTime "07:27:04"]
+[WhiteElo "1358"]
+[BlackElo "1302"]
+[TimeControl "900+10"]
+[Termination "SenseiDanya won - game abandoned"]
+[StartTime "07:27:04"]
+[EndDate "2022.01.21"]
+[EndTime "07:35:14"]
+[Link "https://www.chess.com/game/live/36489005275"]
+
+1. e4 {[%clk 0:15:08.3]} 1... e5 {[%clk 0:15:08]} 2. Ba6 {[%clk 0:15:15.1]} 2... Nxa6 {[%clk 0:14:08.7]} 3. Nf3 {[%clk 0:15:10.9]} 3... Nb8 {[%clk 0:13:57.6]} 4. O-O {[%clk 0:14:30.7]} 4... Nc6 {[%clk 0:14:02.9]} 5. c3 {[%clk 0:14:11.1]} 5... Nf6 {[%clk 0:14:07.7]} 6. d4 {[%clk 0:13:57.5]} 6... Bd6 {[%clk 0:13:58.4]} 7. dxe5 {[%clk 0:12:30.6]} 1-0
+
+

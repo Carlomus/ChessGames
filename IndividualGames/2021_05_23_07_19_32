@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.05.23"]
+[Round "-"]
+[White "Luy43i"]
+[Black "OhMyLands"]
+[Result "0-1"]
+[CurrentPosition "r1b1k2r/pp3ppp/2n5/q3p3/1b2P3/2p5/PP1QPBPP/R3KBNR w KQkq -"]
+[Timezone "UTC"]
+[ECO "D00"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Chigorin-Variation-2...Nf6"]
+[UTCDate "2021.05.23"]
+[UTCTime "07:19:32"]
+[WhiteElo "1642"]
+[BlackElo "1783"]
+[TimeControl "600"]
+[Termination "OhMyLands won by resignation"]
+[StartTime "07:19:32"]
+[EndDate "2021.05.23"]
+[EndTime "07:28:30"]
+[Link "https://www.chess.com/game/live/15493357043"]
+
+1. d4 {[%clk 0:09:59]} 1... Nf6 {[%clk 0:09:58.3]} 2. Nc3 {[%clk 0:09:57.2]} 2... d5 {[%clk 0:09:43.9]} 3. f3 {[%clk 0:09:53.8]} 3... c5 {[%clk 0:07:45.3]} 4. Be3 {[%clk 0:09:13.9]} 4... Nc6 {[%clk 0:07:02.4]} 5. Bf2 {[%clk 0:09:03.8]} 5... cxd4 {[%clk 0:06:36.8]} 6. Bxd4 {[%clk 0:08:44.9]} 6... e5 {[%clk 0:06:32.5]} 7. Bf2 {[%clk 0:08:41.6]} 7... d4 {[%clk 0:06:31.9]} 8. Ne4 {[%clk 0:08:01.8]} 8... Nxe4 {[%clk 0:06:30.3]} 9. fxe4 {[%clk 0:08:00.2]} 9... Qa5+ {[%clk 0:05:24]} 10. Qd2 {[%clk 0:06:39.5]} 10... Bb4 {[%clk 0:05:22.3]} 11. c3 {[%clk 0:06:37.3]} 11... dxc3 {[%clk 0:05:21.4]} 0-1
+
+

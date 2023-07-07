@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.11.06"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "nsm1212"]
+[Result "1-0"]
+[CurrentPosition "2rq1rk1/p4pQp/1p1p4/8/P3PP1b/2N1B3/BPn1N2K/6R1 b - -"]
+[Timezone "UTC"]
+[ECO "C41"]
+[ECOUrl "https://www.chess.com/openings/Philidor-Defense-Exchange-Variation...6.Bc4-O-O-7.O-O-c6-8.a4"]
+[UTCDate "2020.11.06"]
+[UTCTime "08:37:59"]
+[WhiteElo "960"]
+[BlackElo "1072"]
+[TimeControl "300"]
+[Termination "SenseiDanya won by checkmate"]
+[StartTime "08:37:59"]
+[EndDate "2020.11.06"]
+[EndTime "08:44:06"]
+[Link "https://www.chess.com/game/live/5695119205"]
+
+1. e4 {[%clk 0:04:59.9]} 1... e5 {[%clk 0:04:59.3]} 2. Nf3 {[%clk 0:04:58.4]} 2... d6 {[%clk 0:04:57]} 3. d4 {[%clk 0:04:44.6]} 3... exd4 {[%clk 0:04:54.3]} 4. Nxd4 {[%clk 0:04:43.7]} 4... Nf6 {[%clk 0:04:51.4]} 5. Nc3 {[%clk 0:04:42.5]} 5... Be7 {[%clk 0:04:48]} 6. Bc4 {[%clk 0:04:24.5]} 6... O-O {[%clk 0:04:46.4]} 7. O-O {[%clk 0:04:22.7]} 7... c6 {[%clk 0:04:45.1]} 8. a4 {[%clk 0:04:00.2]} 8... Nbd7 {[%clk 0:04:35.3]} 9. Re1 {[%clk 0:03:36.4]} 9... Ne5 {[%clk 0:04:34]} 10. Bb3 {[%clk 0:03:20.2]} 10... c5 {[%clk 0:04:31.5]} 11. Nde2 {[%clk 0:03:11.9]} 11... c4 {[%clk 0:04:30.4]} 12. Ba2 {[%clk 0:03:08.1]} 12... Bd7 {[%clk 0:04:21.7]} 13. f4 {[%clk 0:02:53.6]} 13... Nc6 {[%clk 0:04:13.1]} 14. Bxc4 {[%clk 0:02:51.1]} 14... Bg4 {[%clk 0:04:09.9]} 15. h3 {[%clk 0:02:42.8]} 15... Bh5 {[%clk 0:04:07.4]} 16. Be3 {[%clk 0:02:12.9]} 16... Na5 {[%clk 0:04:01.8]} 17. Ba2 {[%clk 0:02:11.1]} 17... b6 {[%clk 0:03:53.2]} 18. g4 {[%clk 0:02:07.4]} 18... Nxg4 {[%clk 0:03:48.6]} 19. hxg4 {[%clk 0:02:06.6]} 19... Bxg4 {[%clk 0:03:44.2]} 20. Qd2 {[%clk 0:01:50.3]} 20... Bh4 {[%clk 0:03:42.4]} 21. Rf1 {[%clk 0:01:43.6]} 21... Bh3 {[%clk 0:03:40.6]} 22. Kh2 {[%clk 0:01:32.1]} 22... Bxf1 {[%clk 0:03:35.8]} 23. Rxf1 {[%clk 0:01:32]} 23... Rc8 {[%clk 0:03:20.5]} 24. Qd5 {[%clk 0:01:09.8]} 24... Nc6 {[%clk 0:03:08.3]} 25. Rg1 {[%clk 0:01:05.9]} 25... Nb4 {[%clk 0:03:05.4]} 26. Qd4 {[%clk 0:01:05.1]} 26... Nxc2 {[%clk 0:03:03.2]} 27. Qxg7# {[%clk 0:01:03.9]} 1-0
+
+

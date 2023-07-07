@@ -1,0 +1,798 @@
+[Music]
+i was thinking i've been playing the
+elephant all the time
+let's play it's close cousin let's play
+the mora because i'm planning to make
+videos on the mora
+and
+the disclaimer i don't know quite as
+much about it as about the alapan so
+we'll kind of play it by ear
+and i can't guarantee that i'll make the
+right moves okay and this is the
+starting position of the mora accepted
+a6
+that is
+kind of a weird move i mean generally
+most people start with d6 or e6 a6 is
+probably not that bad but it's one of
+those improvisational moves that we
+should meet just by playing the normal
+setup in the mora as far as i know the
+bishop on f1 belongs on what square 99
+of the time and i'll explain the
+rationale behind that as far as i know
+so yeah bishop c4 so it's worth starting
+with bishop c4 you can also start with
+knight f3 in such positions but but
+let's start with bishop c4 and try to
+force black's hand
+g6
+okay we need to continue our development
+this whole gambit thing is not going to
+work out if you lose your patience early
+on and a move like queen d5 is not going
+to cut it i i'm sure that some of you
+are thinking about it but queen d5 black
+simply plays e6 and we lose the tempo so
+instead of doing anything drastic we
+need to first accumulate our pieces
+bishop g7 same thing here folks um
+knight g5 tempting but that's not what
+the mora is about knight g5 e6
+and uh unfortunately if you look at that
+position we would have loved to go
+knight b5 knight d6 but there's already
+a pawn on a6 that's guarding that square
+the mora is actually an opening which
+allows you to practice your fundamentals
+in addition to your tactical skills
+which makes it very exciting for coaches
+yeah let's just castle right and i'm not
+sure that this is the best way to play
+this but
+it's certainly not not going to be bad
+e6 now those of you who have been
+watching my speed run for
+a while know that
+i am particularly passionate about
+warning people against playing e6 and g6
+uh in the sicilian
+why is that well it's mainly because it
+it creates a massive hole on d6
+and what's even worse than that is you
+fianchettoed your bishop so now you have
+absolutely no supervision over that
+square now the best
+piece to put on that square is what what
+is the best square to put on dc if you
+could take any of your pieces or queen
+knight bishop
+king
+not the king which piece would you put
+on d6
+definitely the knight and if a knight
+appeared on d6 right now right
+all of you guys should see how dangerous
+that is knight d6 check forces the king
+to f8 then the other knight goes to g5
+and you might think about this and say
+well there is no way of getting the
+knight to d6 efficiently
+but in fact there is remember that you
+can push pawns out of the way a lot of
+you
+make this mistake where when you're
+looking for a maneuver you forget that
+you can clear the pathway with your own
+pieces and pawns so
+one possibility here
+which we're going to play right now is
+to go e5
+9496 f6
+now
+another important thing about playing
+the mora is that it as far as i know it
+helps you re-conceptualize your
+relationship to material
+a lot of you would see this move and
+perhaps you're thinking well black is
+threatening to take our pawn on e5 and
+presumably that's an important pawn
+but we have something that's even more
+important than preserving the e5 pawn we
+didn't play e5
+in order to keep that pawn we played e5
+in order to position our knight on d6 so
+what should white do here
+pretty much automatically knight e4 he
+can take this pawn all he wants
+but once we put our knight on d6 there
+is going to be hell to pay that is going
+to be a night that's worth its weight
+and gold
+understood so
+we've already sacrificed one pawn and
+now we sacrifice a second one
+but
+without even calculating a single
+variation you should be intuitively
+aware
+that our compensation after knight e6 is
+going to be completely overwhelming i
+think we're just going to be winning the
+game now this is this is a disaster for
+black because whatever black does
+here comes our knight
+now we have to follow up
+we have to follow up accurately
+right yeah we put a knight on d6
+congratulations to us
+but it's not enough to just do that and
+then gloat
+we have to figure out how the other
+pieces can combine in order to optimize
+our attack now there is a very very
+pretty idea here which
+i think probably not a lot of you are
+thinking about at the moment
+now bishop g5 is of course very very
+tempting but should g5 check and that's
+a great move bishop g5 is probably the
+second best move or maybe even the top
+move
+but bishop g5 black plays bishop f6 we
+don't win the queen
+i love that some of you are pointing
+this move out where else can this bishop
+be
+in order to attack the king well you
+might think about this and say well what
+if it's on this diagonal right if it sat
+on that diagonal we would have massive
+threats of a discovered check
+well we can get our bishop there you can
+play bishop e3 bishop c5
+which is great
+or you can play b3 bishop a3
+and
+i'm gonna play in kind of a fancy way
+here
+let me actually think about which of
+those i prefer
+yeah let's go b3
+and i'll explain why after the game
+isn't that too slow well it's only two
+moves
+i i really don't think it's too slow see
+we already played it and we're already
+completely winning
+because the only way to avoid
+discoveries is to go king f6 and that is
+i haven't even calculated that and i can
+assure you that we're gonna find
+something there
+one way or another we're gonna get to
+that king
+so remember the three move rule i like
+that as kind of a general guideline
+for evaluating whether ideas are too
+slow or not if a move takes three moves
+or more
+it's often going to be too slow this
+idea only takes two moves
+it's really really fast black can play
+e4 we don't care about that what are we
+actually threatening here what is the
+biggest threat for white who can tell me
+if it were white to move in this
+position
+and there's basically two big threats in
+in
+ascending order knight takes c8 was one
+of them winning a piece but the biggest
+one was knight takes b7 winning the
+queen okay king f6 has been played
+now i see a very cool sequence
+that essentially enables us to force the
+king
+back on to e7 it it involves reshuffling
+the knights in a certain way
+such that
+eventually the king is forced to move
+back to
+that diagonal
+we start with 94.
+you might look at this and say well
+that seems counterproductive we're
+retreating the knight away from what
+seems like the square it has to be
+sitting on but this is temporary this is
+temporary and in in two moves the
+knight's going to come back to d6
+and what are we trying to do we're
+trying to drive the king to e8
+why does that help well that helps
+because once we give a knight check on
+d6 then the king will have a choice
+between f8 and e7 both of those moves
+lie on this diagonal and therefore lose
+the queen so knight g5 which knight well
+we need to use this knight to go to d6
+so obviously we give a check with this
+knight
+pretty logical attacking stuff right as
+long as you're aware of these retreating
+night moves and you're not
+uh you don't have a blind spot when it
+comes to that you should be able to spot
+this
+and our first more outing is a
+successful one
+yeah look at look at how many pieces are
+involved like basically all of our
+miners
+possibly with the exception of the light
+squared bishop but even the light square
+bishop did its part
+okay well that is not going to solve
+flax problems
+thank you
+all right but let's not uh let's not
+rest on our laurels
+let's not rest on our laurels black
+wants to play d5
+and if black plays d5 the game goes on
+so
+can we prevent
+can we prevent black from going uh d5
+well there we can and there's a couple
+of ways to accomplish that
+um
+i don't love queen d6 as much as i like
+bishop d6
+even though if we play queen d6 we will
+probably end up winning the game faster
+there is a specific reason i don't love
+queen d6 as much
+yeah we can also play queen f3 and we
+can try to go this way
+but queen f3 knight f6 right it's gonna
+take us some time to infiltrate anyway
+so we can also go knight e4 by the way
+okay if you want to play like tall
+if you want to play like tall would play
+you would go 94.
+now it looks like you're just walking
+into a fork what the hell well think
+about what we're gonna do if he goes d5
+because i think that's what's gonna
+happen
+all right well the idea is you just
+blast through up a queen
+when you're up a queen you can afford to
+do stuff that otherwise you would
+accompany with a lot more thought
+we just need to blast the position open
+right we need to open up the position
+and get our queen
+onto
+a prime attacking spot what does that
+mean what does it mean to open up the
+position here
+well yeah bishop takes d5 now we can
+start with knight d6 check absolutely
+nothing wrong with starting with knight
+e6 but let's preserve maximum
+flexibility and take on d5 first
+because we never know maybe the knight
+we'll go to f6 in some of these lines
+really it doesn't matter you can start
+with knight d6
+you can play it
+after e takes d5 we can throw in knight
+d6 check and then take on d5
+in fact the more i look at that the more
+i like the idea of going knight dc yeah
+let's go knight d6 strip first
+because
+queen takes d5 perhaps black had the
+move bishop f8 which prolongs the game
+so let's let's get this knight in into
+the game first
+now queen takes d5
+is the volume low yeah let me know if
+the volume is low because this is gonna
+go on youtube and i know i've been
+getting some complaints about the volume
+okay the volume is fine knight f6
+important don't blunder don't move your
+knight remember that when you have an
+x-ray
+uh and your opponent is attacking the
+piece that is delivering the actual
+check unless you give a double check you
+need to move that piece and there is no
+double check to give with the knight
+obviously the move is queen f7
+and in addition to everything else we're
+just winning all of black's miners
+this is completely resignable and
+probably tall would go rook a to d1 here
+or even rook f to d1 and just go
+directly for checkmate we don't even
+have to take this bishop
+let's go we're keft one let's go
+directly for checkmate
+anything is fine if you want you can
+take the bishop and then take the knight
+it's there's nothing to talk about here
+this is elementary my dear watson
+by the way the reason i played rook fd1
+and not rook 81 is because the other
+rook might go out to c1
+resigning wins yes there we go ebola
+thank you
+good stuff
+and that's how powerful the maura is at
+this level
+so
+here's what i'll say i will make at some
+point a video or several videos on the
+mora
+so i won't delve too deeply into the
+opening here
+you mean you guys can do your own
+research for the time being all i'll say
+is that i highly recommend the mora
+so the reason the jalapen and the mora
+are related
+if black declines the gambit the best
+way to decline the more is to play
+knight f6
+there are several ways to decline the
+mora that are quite reputable one of
+them is just to push this pawn forward
+to d3
+but here white is better after c4 white
+gets the sort of morozy bind set up
+but the most reputable way is to go
+knight f6 and after e5 this is a direct
+transposition into the alpha knight t5
+now either c takes d4 or knight f3 which
+we play
+and if you think about it c3 knight f6
+e5 knight t5 d4 al open main line
+whoops nope mouse up you have the same
+position
+uh and most grand masters
+in in fact i play the sicilian with
+black i've never accepted the mario
+gambit
+i always play knight f6
+and i think you know if you're a
+sicilian player with black knight f6 is
+the most practical move
+you know it's the easiest to learn
+you're not in danger of getting
+checkmated
+and you transpose into the elephant
+which is still a very good opening for
+white
+but if you've learned the alpine from me
+through the speedrun and you want to
+play the mora it's a win-win for you
+it's a win-win if black declines the
+gambit you get to play an alapin if
+black accepts it you get to checkmate
+them in the mora
+okay does that make sense
+now the accepted mora from a purely
+objective perspective is is fine for
+black black is fine
+in fact black has several ways
+to be fine and mark astronomers will be
+the first to admit that the point of
+this is not to win the game objectively
+right if you want to test your opponent
+in objective waters play the open
+sicilian go into mainline nadorf
+the misconception about the people that
+people have about the smith mora is that
+it's bad is that if black knows what to
+do this myth is bad it is not
+i analyzed it not as deeply as i will
+before the video but i looked at it
+and
+i think even if black plays perfectly
+the evaluation is approximate equality
+black is not better to my knowledge
+whoa troublelifter for the five
+black is not better to my knowledge even
+with best play
+all right so don't feel like you're
+playing some gimmicky gambit this is a
+very reputable system important
+and most people in the 15 1600 range
+just don't know the theory and this is
+an unfamiliar position they try to play
+the same way they would play in the open
+sicilian and it doesn't work
+and it doesn't work
+and one prime example of that
+is that if black plays uh like the night
+or if black plays d6
+bishop c4 and knight f6
+who can tell me
+a very well-known smith mora trap
+that already poses massive problems for
+black in this position
+e5
+e5 and if d takes e5 i'm sure you guys
+are aware of this idea winning the queen
+another idea
+is a little bit more advanced but in
+mark's game against vanueli that's one
+of the most famous smithmore games
+luke van whaley played the system with
+e6
+and you still put the bishop on c4 even
+though it bites on granite because you
+have a night sacrifice on d5 in some of
+those positions
+i mean mark's game against van gaal is
+absolutely beautiful let me show that
+game real fast just as a
+a little um
+how should i put it
+little appetizer okay
+i was there for that game by the way i
+was watching with my own eyes i was at
+that tournament playing it
+so it was just a shock so venuely plays
+knight c6
+knight f3
+e6
+and now a very
+counterintuitive move folks bishop c4
+you i'm i'm sure you're looking at this
+move thinking
+this goes against everything i've been
+recommending right you're just kind of
+biting onto this pawn
+but that's why the mora is cool because
+tactics in this opening outweigh
+positional considerations watch what
+happens a6
+covering the b5 square castles
+knight ge7
+the point of this move venuely avoids
+knight f6 because of e5 which is very
+nasty
+luke van whaley is black dutch grand
+master he's high 2600s 2011 us open
+orlando
+knight g7
+now mark plays bishop g5 making it
+difficult for black to
+move this knight manueli is heading for
+g6 with his knight this is a common
+sicilian idea
+bishop g5
+f6 uh
+a serious weakness which mark is induced
+and he goes back to e3
+and after knight g6
+bishop b3 b5 the most famous move of the
+game
+and this is i think what inspired mark
+to write his mayhem in the morrow book
+this of course had been his analysis
+from many years ago like he knew exactly
+what he was doing but vanueli as to my
+knowledge was already out of theory now
+since that game
+there's about 50 games in this position
+boom 95.
+okay
+now you have to accept the sacrifice
+because if you decline it then bishop b6
+traps the queen
+so you kind of have to accept it
+but now i play z takes d5
+well you're attacking the knight van
+wily has to move it
+and only after white's next move do you
+begin to understand what it is that the
+bishop is doing on this diagonal that's
+a big hint for you guys
+what did white do here what did mark do
+not rookie one
+d6
+locking the bishop on f8 opening up the
+diagonal for his own bishop
+and paving the way for
+a massive attack against the king
+bishop b7 when willie develops whatever
+he can
+knight takes e5
+now the point here is that
+if f takes e5 um which van whaley played
+well if knight takes c5 which when will
+he didn't play
+to my knowledge
+white plays f4 chases the knight away
+and then the e file attack is going to
+be disgusting and
+when will he plays ftxc5 but now mark
+opens everything up boom f4
+i mean just look at black's king it's
+stranded in the center because of this
+bishop the bishop on f8 is stuck
+and so white has just one tempo with
+which
+he can open up everything f4 anyway
+queen f6
+now the e file is open f takes c5 queen
+takes c5 now another beautiful move
+bishop g5 this is an amazing move it
+stops black from castling
+but doesn't it blunder the bishop
+who knows what mark's idea here is
+and this is like amazing amazing
+geometry
+so not rookie one i know a lot of you
+are thinking rookie one it's not rookie
+one it's queenie one
+well what's the difference the
+difference is that after king d the
+queen swoops into a5 and it's mate king
+c8 queen c7 is mate if you go the other
+way then the bishop drops into f7 with
+checkmate
+and if black tries to give away a piece
+white's not just passively taking on e7
+white is still gonna go bishop f7
+either the king has to walk into a
+devastating discovery down the f file
+or the king has to go the other way and
+we already know the drill queen a5 queen
+c7 mate
+so after bishop g5 out of desperation
+venuli goes bishop e7
+now before taking that bishop marco's
+bishop f7 check so that
+he's able to take this bishop with check
+knight takes c7 now he's won the piece
+back he makes the comma of queen d2
+defending the bishop preparing rookie
+one this is as you can already see
+totally and absolutely crushing
+and just a couple more moves king c8
+now mark gets his rooks into the game
+rook c1 and rook fd1
+queen f5 and now the final idea bishop
+drops back to f4
+another amazing move preparing queen d6
+queen c7 with unstoppable checkmate
+takes
+windy6 oh mark is in the chat
+look at that welcome
+and i'm sure i'm butchering half of your
+analysis here because i don't have the
+engine but
+remember this is just to show you the
+general arc of what i'm talking about
+king d8
+i was actually there at the tournament
+um
+and now who can spot the final
+combination
+this is really the cherry on top
+and you have to be precise in such
+positions
+rookie one is
+probably winning as well yeah rookie one
+has to be winning because queen c7 is
+threatened
+after rook c8 you go the other way
+but mark played rook takes c6 just uh
+blasting through
+oh right after we got back from madosk
+where we both played as well takes takes
+and black resigned
+the point is that the rook is attacked
+if the rook goes to c8 you go bishop g5
+and black has to give up his well this
+is actually just made in two because
+queen e7 queen takes d7 as mate
+and
+that's it if queen takes f4 white
+doesn't even take the rooks white just
+takes on d7 with mate
+and well i resigned here
+yeah so if a 2670 goes down like this
+then
+think about what you can do to 15 1600s
+in the mora
+so
+yeah and i'm happy that mark is in the
+chat to appreciate this moment this is
+great
+um buy his book i'm going to be a
+shameless shill
+asics uh is what our opponent played now
+i'm not familiar with this move i'll be
+honest but we decided to play it much
+like we would in a standard more bishop
+c4
+and g6 yeah this is very typical for
+players because they play the dragon and
+then they think they can do the same
+thing in the smith more unfortunately
+this is just too slow in most positions
+because
+essentially in this position black has a
+very hard time developing that's the
+whole point
+the point is that if black goes d6 we
+have the c5 idea which by now you guys
+are familiar with yeah
+stopping knight f6
+de5 there's bishop f7 you understand why
+this is so difficult for black because
+he's just not developing fast enough
+and the way our opponent played is a
+very classic mistake at this level e6
+combining e6 and g6
+nine times out of ten
+is in such positions as a terrible idea
+the swiss cheese defense yeah that d6
+square especially if you can get a knife
+there which is exactly what we did
+is
+is unsustainable and there's one very
+important exception which i will talk
+about very shortly
+and
+i've shown many many times
+my game
+against a 1700 when i was 1800
+i almost lost a game like this in just
+like two moves which i've shown many
+times on my stream this game was in the
+mora by the way and this is a case in
+point i was already 1800 and i didn't
+know what to do
+that that was the last time i accepted
+the smith mora this game even though i
+won it which is kind of funny
+i was nine nights so i played knight c6
+and then i played g6 so this is the
+thing yeah i was a night off player but
+i figured that here it makes sense to
+play bishop g7 bishop c4
+bishop g7 castles and now i played e6
+which i got a very stern talking to for
+my coach
+you guys already know the drill what did
+dwight do now here i haven't even played
+a6 which would have been
+a little bit more reasonable if i had
+had this move already played
+not queen d6 although that happens on
+the next move
+what did i say what piece should get to
+d6 it should be the knight
+boom
+okay i won knight f6
+hoping for the check on d6 and i figured
+yeah black is in trouble but it's not
+that bad
+and out of the blue my opponent goes
+queen d6 which i had completely
+forgotten about
+knight c7 cannot be stopped
+and it's either gonna win the queen or
+in the event of queen e7 it wins a rook
+and leads to a rook trade i managed to
+win this game what essentially happened
+is that i won this night at some point
+and then i had an exchange in two pawns
+for the
+yeah i had a
+piece and two pawns for the rook but
+obviously if white plays this well then
+he's completely winning
+i won the game i ended up tricking him
+so
+[Music]
+the rest of the game is not too
+interesting white ultimately failed to
+evacuate his knight
+and then yeah so i won this knight on a8
+and then he blundered again
+and
+i just won all of his pieces
+yeah nine years old
+this is may 2005
+but i still learned a very important
+lesson and those are the best kinds of
+lessons you learn them and you still win
+the game
+pretty lucky
+okay so obviously
+we can't go knight p5
+but we did go e5 and that's just an
+alternate pathway for the knight to
+approach d6
+f6 is the losing move i think black has
+to probably go 97 or maybe black should
+go f5 here and try to prevent knight e4
+although
+i mean this just looks so bad bishop g5
+and queen d6 is coming
+i don't even know what black should do
+97 94 castles maybe is the way to
+prolong the game but just look at this
+position
+and we don't even have to rush to get
+the knight to d6 that's the important
+part is that we're controlling that
+square
+perhaps in some cases then i could even
+go to f6
+um
+but f6 we just ignore
+and then the final cherry on top is b3
+b3 preparing bishop a3 and
+this is game over
+i mean look at look at black's king it's
+got no escape and
+it feels like we have more pieces than
+black does
+because black has neglected his
+development
+and then the only important thing was
+knight e4 and then reshuffling our
+knights
+in order to
+get the king
+onto this diagonal then we take b7 at
+the very least
+or we go knight f7 we win the queen
+our opponent took and the rest is the
+rest is not interesting and once again
+we will play more smith warrior games
+this is just an
+introduction so don't feel like you have
+to learn all of the theory right here
+and right now
+just sort of putting this on your radar
+the yeah the reshuffling of the nights
+can be hard to see you know these
+retreating night moves in general
+this is a bit of a weird idea knight e4
+knight fg5 and then knight back to these
+things but it should make sense to you
+and we're just getting the king as far
+back as possible
+what is the ideal way for black to play
+well that's something i'll go over later
+and i have to do some research myself as
+far as i know one of the sort of
+traditional reputable line
+is
+i mean again this is
+why you should get the mayhem the morrow
+book but e6
+and this line with e6 and a6 like this
+has been traditionally considered the
+main line i think queen e2 and then rook
+d1 and
+you know the drill
+but i'll do some research we'll talk
+more about it we'll talk more about it
+and uh thanks guys for for hanging out
+this is a fun stream
+[Music]

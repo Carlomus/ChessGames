@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.11.12"]
+[Round "-"]
+[White "swapon570"]
+[Black "SenseiDanya"]
+[Result "0-1"]
+[CurrentPosition "r5k1/5ppp/2p5/8/5N2/1bK1P3/p4PPP/R2r4 w - -"]
+[Timezone "UTC"]
+[ECO "D37"]
+[ECOUrl "https://www.chess.com/openings/Queens-Gambit-Declined-Three-Knights-Harrwitz-Attack"]
+[UTCDate "2020.11.12"]
+[UTCTime "07:53:38"]
+[WhiteElo "1140"]
+[BlackElo "1200"]
+[TimeControl "300"]
+[Termination "SenseiDanya won by resignation"]
+[StartTime "07:53:38"]
+[EndDate "2020.11.12"]
+[EndTime "07:59:40"]
+[Link "https://www.chess.com/game/live/5730025718"]
+
+1. d4 {[%clk 0:04:59.6]} 1... d5 {[%clk 0:04:58.2]} 2. c4 {[%clk 0:04:57.4]} 2... e6 {[%clk 0:04:57.6]} 3. Nf3 {[%clk 0:04:54]} 3... Nf6 {[%clk 0:04:56.7]} 4. Nc3 {[%clk 0:04:44]} 4... Be7 {[%clk 0:04:47.6]} 5. Bf4 {[%clk 0:04:33]} 5... O-O {[%clk 0:04:44.5]} 6. e3 {[%clk 0:04:17.1]} 6... c5 {[%clk 0:04:35.7]} 7. dxc5 {[%clk 0:04:02.4]} 7... Bxc5 {[%clk 0:04:34.7]} 8. cxd5 {[%clk 0:04:00.3]} 8... exd5 {[%clk 0:04:33.3]} 9. Bg5 {[%clk 0:03:53.6]} 9... Be6 {[%clk 0:04:11.7]} 10. Bxf6 {[%clk 0:03:41.9]} 10... Qxf6 {[%clk 0:04:06.3]} 11. Nxd5 {[%clk 0:03:33.4]} 11... Qxb2 {[%clk 0:03:46.8]} 12. Nf4 {[%clk 0:03:23.7]} 12... Bb4+ {[%clk 0:03:21.7]} 13. Nd2 {[%clk 0:03:13.1]} 13... Bxd2+ {[%clk 0:03:21]} 14. Qxd2 {[%clk 0:03:08.4]} 14... Qxa1+ {[%clk 0:03:19.6]} 15. Qd1 {[%clk 0:03:05.4]} 15... Qxd1+ {[%clk 0:03:01]} 16. Kxd1 {[%clk 0:03:03.6]} 16... Bxa2 {[%clk 0:03:00.9]} 17. Bd3 {[%clk 0:02:52.4]} 17... Nc6 {[%clk 0:02:59]} 18. Ke2 {[%clk 0:02:49]} 18... a5 {[%clk 0:02:57.9]} 19. Ra1 {[%clk 0:02:38.7]} 19... Bb3 {[%clk 0:02:57]} 20. Rb1 {[%clk 0:02:26.4]} 20... a4 {[%clk 0:02:56.2]} 21. Bb5 {[%clk 0:02:22.1]} 21... a3 {[%clk 0:02:55.4]} 22. Bxc6 {[%clk 0:01:40.3]} 22... bxc6 {[%clk 0:02:52.7]} 23. Kd3 {[%clk 0:01:35.9]} 23... a2 {[%clk 0:02:51.1]} 24. Ra1 {[%clk 0:01:33.9]} 24... Rfd8+ {[%clk 0:02:50.3]} 25. Kc3 {[%clk 0:01:30.4]} 25... Rd1 {[%clk 0:02:49.3]} 0-1
+
+

@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.11.03"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "erickmaster27"]
+[Result "1-0"]
+[CurrentPosition "Q1k3nr/2prbpp1/2Bp3p/8/1p1PP3/5N2/PP3PPP/R1B2bK1 b - -"]
+[Timezone "UTC"]
+[ECO "C50"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game"]
+[UTCDate "2020.11.03"]
+[UTCTime "22:36:48"]
+[WhiteElo "913"]
+[BlackElo "1009"]
+[TimeControl "300"]
+[Termination "SenseiDanya won by checkmate"]
+[StartTime "22:36:48"]
+[EndDate "2020.11.03"]
+[EndTime "22:42:09"]
+[Link "https://www.chess.com/game/live/5682422613"]
+
+1. e4 {[%clk 0:04:59.9]} 1... e5 {[%clk 0:04:58]} 2. Nf3 {[%clk 0:04:58.6]} 2... Nc6 {[%clk 0:04:54]} 3. Bc4 {[%clk 0:04:58]} 3... a6 {[%clk 0:04:46]} 4. c3 {[%clk 0:04:34.4]} 4... b5 {[%clk 0:04:39.4]} 5. Bb3 {[%clk 0:04:33.4]} 5... a5 {[%clk 0:04:30.2]} 6. d4 {[%clk 0:04:31.8]} 6... exd4 {[%clk 0:04:26.4]} 7. cxd4 {[%clk 0:04:29.5]} 7... d6 {[%clk 0:04:24.2]} 8. O-O {[%clk 0:04:09.5]} 8... h6 {[%clk 0:04:22.7]} 9. Nc3 {[%clk 0:03:33]} 9... b4 {[%clk 0:04:17.1]} 10. Nd5 {[%clk 0:03:20.5]} 10... Ba6 {[%clk 0:04:09.7]} 11. Ba4 {[%clk 0:02:54]} 11... Qd7 {[%clk 0:03:50.7]} 12. Qc2 {[%clk 0:02:44.6]} 12... O-O-O {[%clk 0:03:38.6]} 13. Bxc6 {[%clk 0:02:39.6]} 13... Qe7 {[%clk 0:03:26.8]} 14. Nxe7+ {[%clk 0:02:37.9]} 14... Bxe7 {[%clk 0:03:25.2]} 15. Qa4 {[%clk 0:02:07.7]} 15... Bxf1 {[%clk 0:03:22.9]} 16. Qxa5 {[%clk 0:01:57.4]} 16... Rd7 {[%clk 0:02:51.7]} 17. Qa8# {[%clk 0:01:55.8]} 1-0
+
+

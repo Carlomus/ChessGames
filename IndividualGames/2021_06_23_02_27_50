@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.06.23"]
+[Round "-"]
+[White "OhMyLands"]
+[Black "harisinghraghav"]
+[Result "1-0"]
+[CurrentPosition "r1bq1bnr/pppN2pp/2k5/3Qn3/5B2/2p5/PPP3PP/3R1RK1 b - -"]
+[Timezone "UTC"]
+[ECO "C28"]
+[ECOUrl "https://www.chess.com/openings/Vienna-Game-Falkbeer-Vienna-Gambit"]
+[UTCDate "2021.06.23"]
+[UTCTime "02:27:50"]
+[WhiteElo "1990"]
+[BlackElo "1939"]
+[TimeControl "600"]
+[Termination "OhMyLands won by checkmate"]
+[StartTime "02:27:50"]
+[EndDate "2021.06.23"]
+[EndTime "02:33:54"]
+[Link "https://www.chess.com/game/live/18154272069"]
+
+1. e4 {[%clk 0:09:56.7]} 1... e5 {[%clk 0:09:58.9]} 2. Nc3 {[%clk 0:09:50.3]} 2... Nf6 {[%clk 0:09:54.7]} 3. f4 {[%clk 0:09:49.4]} 3... exf4 {[%clk 0:09:52.6]} 4. e5 {[%clk 0:09:36.2]} 4... Ng8 {[%clk 0:09:50.9]} 5. Nf3 {[%clk 0:09:27.7]} 5... d6 {[%clk 0:09:47.1]} 6. d4 {[%clk 0:09:24.2]} 6... dxe5 {[%clk 0:09:44.8]} 7. Bc4 {[%clk 0:08:34.4]} 7... exd4 {[%clk 0:09:33.6]} 8. O-O {[%clk 0:08:24]} 8... Nc6 {[%clk 0:09:19.4]} 9. Bxf4 {[%clk 0:07:23.5]} 9... dxc3 {[%clk 0:09:06.4]} 10. Bxf7+ {[%clk 0:07:10.5]} 10... Kxf7 {[%clk 0:08:59.2]} 11. Ne5+ {[%clk 0:07:01.2]} 11... Ke8 {[%clk 0:08:56.7]} 12. Qh5+ {[%clk 0:06:59.6]} 12... Ke7 {[%clk 0:08:48]} 13. Qf7+ {[%clk 0:06:48]} 13... Kd6 {[%clk 0:08:45.7]} 14. Nd7+ {[%clk 0:05:55.4]} 14... Ne5 {[%clk 0:08:27.2]} 15. Rad1+ {[%clk 0:05:53.7]} 15... Kc6 {[%clk 0:08:11.1]} 16. Qd5# {[%clk 0:05:52.7]} 1-0
+
+

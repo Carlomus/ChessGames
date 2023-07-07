@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.09.29"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "ACAT_1"]
+[Result "1-0"]
+[CurrentPosition "2r2rk1/1p1b1pb1/3p4/q1nPp1QN/p3P1P1/2N2P2/PP2BK2/7R b - -"]
+[Timezone "UTC"]
+[ECO "E73"]
+[ECOUrl "https://www.chess.com/openings/Kings-Indian-Defense-Averbakh-Flexible-Defense-7.Be3-e5-8.d5"]
+[UTCDate "2022.09.29"]
+[UTCTime "21:23:54"]
+[WhiteElo "2232"]
+[BlackElo "2131"]
+[TimeControl "900+10"]
+[Termination "SenseiDanya won by resignation"]
+[StartTime "21:23:54"]
+[EndDate "2022.09.29"]
+[EndTime "21:51:53"]
+[Link "https://www.chess.com/game/live/58225770627"]
+
+1. d4 {[%clk 0:15:10]} 1... Nf6 {[%clk 0:15:10]} 2. c4 {[%clk 0:15:08.4]} 2... g6 {[%clk 0:15:14.6]} 3. Nc3 {[%clk 0:15:06.4]} 3... Bg7 {[%clk 0:15:20.4]} 4. e4 {[%clk 0:15:11.6]} 4... d6 {[%clk 0:15:26.5]} 5. Be2 {[%clk 0:14:27.2]} 5... O-O {[%clk 0:15:21.3]} 6. Bg5 {[%clk 0:14:35.1]} 6... h6 {[%clk 0:15:11.6]} 7. Be3 {[%clk 0:14:15.8]} 7... e5 {[%clk 0:14:14.7]} 8. d5 {[%clk 0:14:02.1]} 8... a5 {[%clk 0:13:57.9]} 9. g4 {[%clk 0:13:11.6]} 9... Na6 {[%clk 0:10:49.1]} 10. h4 {[%clk 0:12:47.4]} 10... Nd7 {[%clk 0:10:25.2]} 11. h5 {[%clk 0:11:20.7]} 11... g5 {[%clk 0:10:31.1]} 12. Nf3 {[%clk 0:11:20.7]} 12... Nf6 {[%clk 0:09:23.7]} 13. Nd2 {[%clk 0:11:08.9]} 13... Nc5 {[%clk 0:09:22.5]} 14. f3 {[%clk 0:11:05.8]} 14... c6 {[%clk 0:08:55.3]} 15. Nf1 {[%clk 0:10:47.8]} 15... cxd5 {[%clk 0:08:29]} 16. cxd5 {[%clk 0:10:23.2]} 16... Bd7 {[%clk 0:07:55.7]} 17. Ng3 {[%clk 0:10:06.7]} 17... Qb6 {[%clk 0:07:23.6]} 18. Qd2 {[%clk 0:09:47.3]} 18... Rac8 {[%clk 0:06:10.4]} 19. Kf2 {[%clk 0:09:40.5]} 19... a4 {[%clk 0:05:24.7]} 20. Rab1 {[%clk 0:08:43.1]} 20... Qa5 {[%clk 0:05:12.4]} 21. Bxg5 {[%clk 0:07:33.9]} 21... hxg5 {[%clk 0:04:45.4]} 22. h6 {[%clk 0:07:42.3]} 22... Bh8 {[%clk 0:04:51.6]} 23. h7+ {[%clk 0:07:11.1]} 23... Nxh7 {[%clk 0:05:00.1]} 24. Rxh7 {[%clk 0:07:20]} 24... Kxh7 {[%clk 0:04:57.2]} 25. Qxg5 {[%clk 0:07:08.7]} 25... Bg7 {[%clk 0:04:03.5]} 26. Rh1+ {[%clk 0:06:58.7]} 26... Kg8 {[%clk 0:04:10.8]} 27. Nh5 {[%clk 0:07:07.9]} 1-0
+
+

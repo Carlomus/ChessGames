@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.05"]
+[Round "-"]
+[White "Yaskier1"]
+[Black "OhMyLands"]
+[Result "0-1"]
+[CurrentPosition "r1bqkb1r/pppp1p1p/5n2/4pp2/2BnP3/7N/PPPP1PPP/RNB1K2R w KQkq -"]
+[Timezone "UTC"]
+[ECO "C20"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Wayward-Queen-Attack-2...Nc6-3.Bc4"]
+[UTCDate "2021.03.05"]
+[UTCTime "09:09:07"]
+[WhiteElo "706"]
+[BlackElo "744"]
+[TimeControl "600"]
+[Termination "OhMyLands won by resignation"]
+[StartTime "09:09:07"]
+[EndDate "2021.03.05"]
+[EndTime "09:11:54"]
+[Link "https://www.chess.com/game/live/8674511929"]
+
+1. e4 {[%clk 0:09:59.2]} 1... e5 {[%clk 0:09:54.3]} 2. Qh5 {[%clk 0:09:55.2]} 2... Nc6 {[%clk 0:09:29]} 3. Bc4 {[%clk 0:09:51.7]} 3... g6 {[%clk 0:09:11.9]} 4. Qf3 {[%clk 0:09:46.9]} 4... Nf6 {[%clk 0:09:02.2]} 5. Nh3 {[%clk 0:09:40.1]} 5... Nd4 {[%clk 0:08:19.5]} 6. Qf5 {[%clk 0:09:33.1]} 6... gxf5 {[%clk 0:08:12.7]} 0-1
+
+

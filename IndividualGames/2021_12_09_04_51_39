@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.12.09"]
+[Round "-"]
+[White "RookGang69"]
+[Black "SenseiDanya"]
+[Result "0-1"]
+[CurrentPosition "5rk1/1pp3p1/p6p/3Pp3/3n3P/3P4/PP3r2/2KR4 w - -"]
+[Timezone "UTC"]
+[ECO "C55"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game-Two-Knights-Modern-Bishops-Opening"]
+[UTCDate "2021.12.09"]
+[UTCTime "04:51:39"]
+[WhiteElo "1380"]
+[BlackElo "796"]
+[TimeControl "600+5"]
+[Termination "SenseiDanya won by resignation"]
+[StartTime "04:51:39"]
+[EndDate "2021.12.09"]
+[EndTime "05:06:05"]
+[Link "https://www.chess.com/game/live/32764215509"]
+
+1. e4 {[%clk 0:09:58.6]} 1... e5 {[%clk 0:10:02.9]} 2. Bc4 {[%clk 0:10:00.8]} 2... Nf6 {[%clk 0:09:47.4]} 3. d3 {[%clk 0:10:00.9]} 3... Nc6 {[%clk 0:09:37.4]} 4. Nf3 {[%clk 0:10:02.6]} 4... Be7 {[%clk 0:09:24.5]} 5. Nc3 {[%clk 0:10:01.5]} 5... d6 {[%clk 0:09:23.6]} 6. h3 {[%clk 0:10:02.4]} 6... O-O {[%clk 0:09:27.9]} 7. Be3 {[%clk 0:09:46.5]} 7... Be6 {[%clk 0:09:08.2]} 8. Bxe6 {[%clk 0:09:13]} 8... fxe6 {[%clk 0:09:12.3]} 9. Qd2 {[%clk 0:09:04.7]} 9... a6 {[%clk 0:08:29.7]} 10. g4 {[%clk 0:08:22.6]} 10... Nxe4 {[%clk 0:08:03.5]} 11. Nxe4 {[%clk 0:08:04.8]} 11... Rxf3 {[%clk 0:08:07.5]} 12. Bg5 {[%clk 0:07:32.4]} 12... d5 {[%clk 0:08:01.1]} 13. Bxe7 {[%clk 0:07:24.3]} 13... Qxe7 {[%clk 0:08:03.3]} 14. Ng5 {[%clk 0:07:04.6]} 14... Rf4 {[%clk 0:07:50.4]} 15. h4 {[%clk 0:06:15.1]} 15... Raf8 {[%clk 0:07:09.8]} 16. c4 {[%clk 0:04:47.5]} 16... Nd4 {[%clk 0:06:57.5]} 17. Rh3 {[%clk 0:03:34.1]} 17... h6 {[%clk 0:06:57.1]} 18. Nxe6 {[%clk 0:03:13.6]} 18... Qxe6 {[%clk 0:06:56.8]} 19. cxd5 {[%clk 0:02:49.1]} 19... Qxg4 {[%clk 0:06:54.6]} 20. Rg3 {[%clk 0:02:31.9]} 20... Qxg3 {[%clk 0:06:51.5]} 21. O-O-O {[%clk 0:02:27]} 21... Qxf2 {[%clk 0:06:53.6]} 22. Qxf2 {[%clk 0:02:28.5]} 22... Rxf2 {[%clk 0:06:57.7]} 0-1
+
+

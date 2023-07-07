@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.09"]
+[Round "-"]
+[White "HurohutteChakma"]
+[Black "SenseiDanya"]
+[Result "0-1"]
+[CurrentPosition "rnbqkbn1/ppp2pp1/8/3pp3/8/1PPPPPp1/P6r/RNBQKBNR w KQq -"]
+[Timezone "UTC"]
+[ECO "A00"]
+[ECOUrl "https://www.chess.com/openings/Kings-Fianchetto-Opening-1...e5"]
+[UTCDate "2020.12.09"]
+[UTCTime "07:04:15"]
+[WhiteElo "1873"]
+[BlackElo "1885"]
+[TimeControl "300"]
+[Termination "SenseiDanya won - game abandoned"]
+[StartTime "07:04:15"]
+[EndDate "2020.12.09"]
+[EndTime "07:07:20"]
+[Link "https://www.chess.com/game/live/5922626127"]
+
+1. g3 {[%clk 0:05:00]} 1... e5 {[%clk 0:04:57]} 2. f3 {[%clk 0:04:59.9]} 2... d5 {[%clk 0:04:55.7]} 3. e3 {[%clk 0:04:59.8]} 3... h5 {[%clk 0:04:33.6]} 4. d3 {[%clk 0:04:59.7]} 4... h4 {[%clk 0:04:33]} 5. c3 {[%clk 0:04:59.6]} 5... hxg3 {[%clk 0:04:32.3]} 6. b3 {[%clk 0:04:59.5]} 6... Rxh2 {[%clk 0:04:31]} 0-1
+
+

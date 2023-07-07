@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.12.12"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "AnnekeO"]
+[Result "1-0"]
+[CurrentPosition "4R3/6Qk/p6p/3p1N2/q3n3/2P4P/PP3PPK/R1B5 b - -"]
+[Timezone "UTC"]
+[ECO "B13"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-Exchange-Variation-3...cxd5-4.Bd3-Nc6-5.c3"]
+[UTCDate "2021.12.12"]
+[UTCTime "05:13:57"]
+[WhiteElo "931"]
+[BlackElo "991"]
+[TimeControl "600+5"]
+[Termination "SenseiDanya won by checkmate"]
+[StartTime "05:13:57"]
+[EndDate "2021.12.12"]
+[EndTime "05:28:10"]
+[Link "https://www.chess.com/game/live/33025129095"]
+
+1. e4 {[%clk 0:10:05]} 1... c6 {[%clk 0:10:05]} 2. d4 {[%clk 0:10:02.6]} 2... d5 {[%clk 0:10:05.1]} 3. exd5 {[%clk 0:10:01.4]} 3... cxd5 {[%clk 0:10:10]} 4. Bd3 {[%clk 0:10:04.4]} 4... Nc6 {[%clk 0:10:10.5]} 5. c3 {[%clk 0:09:50.3]} 5... e5 {[%clk 0:09:47]} 6. dxe5 {[%clk 0:09:52.5]} 6... Nxe5 {[%clk 0:09:49.3]} 7. Nf3 {[%clk 0:09:08.9]} 7... Bg4 {[%clk 0:09:28.5]} 8. Bb5+ {[%clk 0:08:39.5]} 8... Nc6 {[%clk 0:09:22.1]} 9. O-O {[%clk 0:08:43.5]} 9... Nf6 {[%clk 0:09:14.2]} 10. Re1+ {[%clk 0:08:30.8]} 10... Be7 {[%clk 0:09:10.8]} 11. Qe2 {[%clk 0:08:12.9]} 11... a6 {[%clk 0:08:03.5]} 12. Bxc6+ {[%clk 0:07:52]} 12... bxc6 {[%clk 0:08:02.1]} 13. Nbd2 {[%clk 0:07:35.6]} 13... Ra7 {[%clk 0:07:46.1]} 14. Qe3 {[%clk 0:07:05.4]} 14... Qd7 {[%clk 0:07:19.9]} 15. Ne5 {[%clk 0:07:01.7]} 15... Qb7 {[%clk 0:06:21.3]} 16. Nxc6 {[%clk 0:07:04.9]} 16... Qxc6 {[%clk 0:06:06.9]} 17. Qxa7 {[%clk 0:07:09]} 17... O-O {[%clk 0:06:05.3]} 18. Rxe7 {[%clk 0:07:00.9]} 18... Re8 {[%clk 0:05:02]} 19. h3 {[%clk 0:06:49]} 19... Bf5 {[%clk 0:04:37.9]} 20. Nf3 {[%clk 0:06:48.8]} 20... h6 {[%clk 0:04:02.4]} 21. Nd4 {[%clk 0:06:49.5]} 21... Qa4 {[%clk 0:03:36.5]} 22. Nxf5 {[%clk 0:06:49.8]} 22... Qd1+ {[%clk 0:03:27.1]} 23. Kh2 {[%clk 0:06:53.5]} 23... Ne4 {[%clk 0:03:22.7]} 24. Rxe8+ {[%clk 0:06:55.8]} 24... Kh7 {[%clk 0:03:18.3]} 25. Qxf7 {[%clk 0:06:59.7]} 25... Qa4 {[%clk 0:03:11.2]} 26. Qxg7# {[%clk 0:07:03.9]} 1-0
+
+

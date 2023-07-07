@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.04.13"]
+[Round "-"]
+[White "OhMyLands"]
+[Black "doc208"]
+[Result "1-0"]
+[CurrentPosition "3qkbnr/p1P1pppp/B7/8/Q4B2/8/1P3PbP/2K3NR b - -"]
+[Timezone "UTC"]
+[ECO "D20"]
+[ECOUrl "https://www.chess.com/openings/Queens-Gambit-Accepted-Central-Variation-Greco-Variation-4.a4-c6-5.axb5-cxb5"]
+[UTCDate "2021.04.13"]
+[UTCTime "06:45:50"]
+[WhiteElo "1409"]
+[BlackElo "1297"]
+[TimeControl "600"]
+[Termination "OhMyLands won by resignation"]
+[StartTime "06:45:50"]
+[EndDate "2021.04.13"]
+[EndTime "07:00:33"]
+[Link "https://www.chess.com/game/live/12035542035"]
+
+1. d4 {[%clk 0:09:55.8]} 1... d5 {[%clk 0:09:57]} 2. c4 {[%clk 0:09:49.1]} 2... dxc4 {[%clk 0:09:52.2]} 3. e4 {[%clk 0:09:13.7]} 3... b5 {[%clk 0:09:48.7]} 4. a4 {[%clk 0:08:48]} 4... c6 {[%clk 0:09:22.4]} 5. axb5 {[%clk 0:08:41.7]} 5... cxb5 {[%clk 0:09:15.4]} 6. Nc3 {[%clk 0:08:09.2]} 6... Bb7 {[%clk 0:08:52.4]} 7. Nxb5 {[%clk 0:06:45.4]} 7... Bxe4 {[%clk 0:08:49.5]} 8. Bf4 {[%clk 0:06:01.6]} 8... Nc6 {[%clk 0:08:00.6]} 9. Nc7+ {[%clk 0:05:54.7]} 9... Kd7 {[%clk 0:07:39.1]} 10. Nxa8 {[%clk 0:05:52.2]} 10... Qxa8 {[%clk 0:07:35.6]} 11. d5 {[%clk 0:05:03.2]} 11... Nb4 {[%clk 0:07:28.4]} 12. Qa4+ {[%clk 0:04:54.1]} 12... Nc6 {[%clk 0:06:39.6]} 13. O-O-O {[%clk 0:04:07.7]} 13... Kc8 {[%clk 0:04:32.6]} 14. Bxc4 {[%clk 0:03:18.5]} 14... Bxg2 {[%clk 0:04:06.7]} 15. Ba6+ {[%clk 0:03:13.2]} 15... Kd8 {[%clk 0:03:52.9]} 16. dxc6+ {[%clk 0:03:11.2]} 16... Ke8 {[%clk 0:03:47.4]} 17. Rd8+ {[%clk 0:03:02.4]} 17... Qxd8 {[%clk 0:03:40]} 18. c7+ {[%clk 0:03:00.5]} 1-0
+
+

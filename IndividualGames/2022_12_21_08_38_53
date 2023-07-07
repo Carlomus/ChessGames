@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.12.21"]
+[Round "-"]
+[White "FrankfurtAirport"]
+[Black "AnnekeO"]
+[Result "1-0"]
+[CurrentPosition "2nr2k1/1p2qRpp/n2Np3/p1p5/2P5/P3B1Q1/1P2B1PP/3R2K1 b - -"]
+[Timezone "UTC"]
+[ECO "B12"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-Fantasy-Variation-3...dxe4-4.fxe4"]
+[UTCDate "2022.12.21"]
+[UTCTime "08:38:53"]
+[WhiteElo "1458"]
+[BlackElo "1594"]
+[TimeControl "900+10"]
+[Termination "FrankfurtAirport won by resignation"]
+[StartTime "08:38:53"]
+[EndDate "2022.12.21"]
+[EndTime "09:09:56"]
+[Link "https://www.chess.com/game/live/65350852067"]
+
+1. e4 {[%clk 0:15:10]} 1... c6 {[%clk 0:15:10]} 2. d4 {[%clk 0:15:17]} 2... d5 {[%clk 0:15:18.2]} 3. f3 {[%clk 0:15:17.1]} 3... dxe4 {[%clk 0:14:58.2]} 4. fxe4 {[%clk 0:15:14.1]} 4... Nf6 {[%clk 0:14:26.6]} 5. e5 {[%clk 0:14:11.1]} 5... Nd5 {[%clk 0:14:25.8]} 6. c4 {[%clk 0:12:34.6]} 6... Nb6 {[%clk 0:14:11.2]} 7. Nc3 {[%clk 0:11:24.4]} 7... Bf5 {[%clk 0:14:05.7]} 8. Nf3 {[%clk 0:11:30.5]} 8... e6 {[%clk 0:13:57.7]} 9. Be2 {[%clk 0:11:13.7]} 9... Be7 {[%clk 0:12:21.1]} 10. O-O {[%clk 0:11:14]} 10... O-O {[%clk 0:12:15.7]} 11. Be3 {[%clk 0:11:10.1]} 11... a5 {[%clk 0:11:40.4]} 12. Qe1 {[%clk 0:09:11.6]} 12... Na6 {[%clk 0:10:41.2]} 13. a3 {[%clk 0:09:03.4]} 13... Qc7 {[%clk 0:10:26.7]} 14. Rd1 {[%clk 0:09:04.9]} 14... Rad8 {[%clk 0:10:21.6]} 15. Qg3 {[%clk 0:09:02.3]} 15... Rd7 {[%clk 0:09:12.7]} 16. Ng5 {[%clk 0:06:49.6]} 16... Rfd8 {[%clk 0:08:47.9]} 17. Nge4 {[%clk 0:06:19.7]} 17... c5 {[%clk 0:07:54.8]} 18. d5 {[%clk 0:05:53]} 18... Bxe4 {[%clk 0:07:06.6]} 19. d6 {[%clk 0:05:40.5]} 19... Bxd6 {[%clk 0:06:18.2]} 20. exd6 {[%clk 0:05:38.3]} 20... Rxd6 {[%clk 0:06:11.6]} 21. Nxe4 {[%clk 0:05:11.1]} 21... Nc8 {[%clk 0:04:52.3]} 22. Nxd6 {[%clk 0:04:32.7]} 22... Qe7 {[%clk 0:02:40.6]} 23. Rxf7 {[%clk 0:04:15.2]} 1-0
+
+

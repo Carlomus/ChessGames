@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.24"]
+[Round "-"]
+[White "OhMyLands"]
+[Black "TISHENINOV"]
+[Result "1-0"]
+[CurrentPosition "rnbQ1b1r/1p3kp1/p6p/2p5/4P3/5N2/PP3PPP/R1B1K2R b KQ -"]
+[Timezone "UTC"]
+[ECO "D20"]
+[ECOUrl "https://www.chess.com/openings/Queens-Gambit-Accepted-Central-Variation"]
+[UTCDate "2021.03.24"]
+[UTCTime "08:20:23"]
+[WhiteElo "1202"]
+[BlackElo "1211"]
+[TimeControl "600"]
+[Termination "OhMyLands won by resignation"]
+[StartTime "08:20:23"]
+[EndDate "2021.03.24"]
+[EndTime "08:25:49"]
+[Link "https://www.chess.com/game/live/10313168431"]
+
+1. d4 {[%clk 0:10:00]} 1... d5 {[%clk 0:09:56.8]} 2. c4 {[%clk 0:09:59.2]} 2... dxc4 {[%clk 0:09:52.8]} 3. e4 {[%clk 0:09:27.3]} 3... h6 {[%clk 0:09:49.8]} 4. Bxc4 {[%clk 0:09:14.4]} 4... e6 {[%clk 0:09:47.2]} 5. Nc3 {[%clk 0:08:48.5]} 5... c5 {[%clk 0:09:43.5]} 6. d5 {[%clk 0:08:32.8]} 6... exd5 {[%clk 0:09:35.9]} 7. Nxd5 {[%clk 0:08:29.2]} 7... Nf6 {[%clk 0:09:13.9]} 8. Nf3 {[%clk 0:07:08.4]} 8... Nxd5 {[%clk 0:09:08.2]} 9. Bxd5 {[%clk 0:07:05.7]} 9... a6 {[%clk 0:08:43.3]} 10. Bxf7+ {[%clk 0:06:34.7]} 10... Kxf7 {[%clk 0:08:31.1]} 11. Qxd8 {[%clk 0:06:27.8]} 1-0
+
+

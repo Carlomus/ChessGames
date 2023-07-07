@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.25"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "HumanFtw"]
+[Result "1-0"]
+[CurrentPosition "r7/1b6/p3k1p1/2pN3p/1p2P2B/1P6/1PP3P1/2KR1R2 w - c6"]
+[Timezone "UTC"]
+[ECO "B00"]
+[ECOUrl "https://www.chess.com/openings/Owens-Defense-2.d4-Bb7-3.Nc3"]
+[UTCDate "2020.12.25"]
+[UTCTime "22:48:53"]
+[WhiteElo "923"]
+[BlackElo "1361"]
+[TimeControl "600"]
+[Termination "SenseiDanya won by resignation"]
+[StartTime "22:48:53"]
+[EndDate "2020.12.25"]
+[EndTime "23:00:38"]
+[Link "https://www.chess.com/game/live/6058642436"]
+
+1. e4 {[%clk 0:10:00]} 1... b6 {[%clk 0:10:00]} 2. d4 {[%clk 0:09:54.6]} 2... Bb7 {[%clk 0:09:58.6]} 3. Nc3 {[%clk 0:09:44.2]} 3... g6 {[%clk 0:09:57.7]} 4. Be3 {[%clk 0:09:26.5]} 4... Bg7 {[%clk 0:09:56.3]} 5. Qd2 {[%clk 0:09:05.8]} 5... h6 {[%clk 0:09:55]} 6. O-O-O {[%clk 0:09:03.6]} 6... e6 {[%clk 0:09:53.7]} 7. h4 {[%clk 0:08:58.7]} 7... d6 {[%clk 0:09:47.5]} 8. f4 {[%clk 0:08:29.5]} 8... e5 {[%clk 0:09:25.8]} 9. dxe5 {[%clk 0:07:40.8]} 9... Ne7 {[%clk 0:08:33.2]} 10. h5 {[%clk 0:06:51.8]} 10... Nbc6 {[%clk 0:08:04.2]} 11. hxg6 {[%clk 0:06:50.1]} 11... fxg6 {[%clk 0:08:00.8]} 12. Nf3 {[%clk 0:06:05.2]} 12... a6 {[%clk 0:07:55.8]} 13. Bc4 {[%clk 0:05:55.9]} 13... dxe5 {[%clk 0:07:49.4]} 14. Qf2 {[%clk 0:05:41.7]} 14... Qc8 {[%clk 0:07:11.7]} 15. fxe5 {[%clk 0:05:40.9]} 15... Qg4 {[%clk 0:06:46.8]} 16. Nh2 {[%clk 0:04:54.2]} 16... Rf8 {[%clk 0:06:20.2]} 17. Nxg4 {[%clk 0:04:51.6]} 17... Rxf2 {[%clk 0:06:19]} 18. Bxf2 {[%clk 0:04:51]} 18... h5 {[%clk 0:06:05.3]} 19. Nf6+ {[%clk 0:04:40.9]} 19... Bxf6 {[%clk 0:05:50]} 20. exf6 {[%clk 0:04:39.4]} 20... b5 {[%clk 0:05:37.9]} 21. Bb3 {[%clk 0:04:30.6]} 21... Na5 {[%clk 0:05:21.3]} 22. fxe7 {[%clk 0:04:26]} 22... Nxb3+ {[%clk 0:05:20.1]} 23. axb3 {[%clk 0:04:24.1]} 23... Kxe7 {[%clk 0:05:16.5]} 24. Rhf1 {[%clk 0:04:05.7]} 24... b4 {[%clk 0:05:06.1]} 25. Bh4+ {[%clk 0:04:02.6]} 25... Ke6 {[%clk 0:05:00.9]} 26. Nd5 {[%clk 0:03:57.4]} 26... c5 {[%clk 0:04:35.5]} 1-0
+
+

@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.02.25"]
+[Round "-"]
+[White "FrankfurtAirport"]
+[Black "berryapplepie"]
+[Result "1-0"]
+[CurrentPosition "4kb1r/p2q1p1p/4p1p1/1B1p2B1/Q7/8/PP3PPP/2KR4 b k -"]
+[Timezone "UTC"]
+[ECO "B22"]
+[ECOUrl "https://www.chess.com/openings/Alapin-Sicilian-Defense-Barmen-Defense-4.d4-cxd4-5.cxd4-Nc6-6.Nf3"]
+[UTCDate "2023.02.25"]
+[UTCTime "06:18:58"]
+[WhiteElo "1774"]
+[BlackElo "1738"]
+[TimeControl "900+10"]
+[Termination "FrankfurtAirport won by resignation"]
+[StartTime "06:18:58"]
+[EndDate "2023.02.25"]
+[EndTime "06:39:40"]
+[Link "https://www.chess.com/game/live/71045026603"]
+
+1. e4 {[%clk 0:15:10]} 1... c5 {[%clk 0:15:00.9]} 2. c3 {[%clk 0:15:16]} 2... d5 {[%clk 0:15:02]} 3. exd5 {[%clk 0:15:19]} 3... Qxd5 {[%clk 0:15:11.9]} 4. d4 {[%clk 0:15:19]} 4... cxd4 {[%clk 0:15:12]} 5. cxd4 {[%clk 0:15:10.7]} 5... Nc6 {[%clk 0:15:07.8]} 6. Nf3 {[%clk 0:15:07.6]} 6... g6 {[%clk 0:14:39.3]} 7. Nc3 {[%clk 0:14:50]} 7... Qd8 {[%clk 0:13:22.4]} 8. d5 {[%clk 0:14:28.9]} 8... Nb4 {[%clk 0:12:35]} 9. Qa4+ {[%clk 0:14:11.5]} 9... Nc6 {[%clk 0:12:00.2]} 10. dxc6 {[%clk 0:14:10.3]} 10... bxc6 {[%clk 0:12:10.1]} 11. Ne5 {[%clk 0:13:28.1]} 11... Bd7 {[%clk 0:11:31.2]} 12. Bf4 {[%clk 0:12:20.1]} 12... Nf6 {[%clk 0:10:11.6]} 13. Bc4 {[%clk 0:11:23.1]} 13... e6 {[%clk 0:09:13.7]} 14. O-O-O {[%clk 0:11:20]} 14... Rc8 {[%clk 0:08:17.7]} 15. Bg5 {[%clk 0:10:15.3]} 15... Rc7 {[%clk 0:08:01.5]} 16. Nxd7 {[%clk 0:09:25.2]} 16... Rxd7 {[%clk 0:07:54.7]} 17. Rxd7 {[%clk 0:09:10.5]} 17... Qxd7 {[%clk 0:07:50.4]} 18. Rd1 {[%clk 0:09:04]} 18... Nd5 {[%clk 0:07:25.8]} 19. Nxd5 {[%clk 0:09:12.8]} 19... cxd5 {[%clk 0:07:06.7]} 20. Bb5 {[%clk 0:09:19.5]} 1-0
+
+

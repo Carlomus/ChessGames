@@ -1,0 +1,870 @@
+[Music]
+d4 okay so what should we what should we
+play let's go knight f6
+what did dan do let's go knight f6 and
+then we'll make a decision on the fly
+nimso indian is a good is a good idea
+kings yeah let's just play king's indian
+i mean i don't know why i'm resisting
+playing the opening that i play anyway
+i want to talk a little bit after the
+game about why i don't usually recommend
+the king's indian to a lot of a lot of
+players even though i played myself
+but that's for after the game so
+you've seen me play the king's indian
+enough to where you should know that d5
+is the grunfeld which i don't really
+play
+the king's indian
+uh is defined by the pawn being on d6
+you can play d6 now you can castle first
+it doesn't matter uh you'll play d6 on
+the next move it transposes there's no
+situation which you don't castle and
+chimpanzee plays a sort of a london type
+of setup with c4 rather than c3 a little
+bit incongruent i think
+with the move c4
+and um and i'll talk about those general
+things after the game like minimum
+rating and stuff
+so
+in the king's indian as a whole there
+are essentially two pawn breakthroughs
+that you're trying to achieve one of two
+right and if you're not achieving either
+of them
+then you better have a pretty good idea
+uh of what you're doing because 95 of
+the time you're trying to accomplish one
+of those fun breaks e5 or c5 and you can
+play the kings indian with either c5 is
+more of a benoni flavor to the king's
+indian it's sort of a cross between the
+king's indian and the bononi but there's
+nothing in some positions you you only
+want to go c5 in some positions you only
+want to go e5 and in some positions you
+can prepare either it's largely a matter
+of taste
+this is
+a position in which both are acceptable
+c5 is totally chill
+um i actually quite like c5 here
+and the reason i quite like c5 is
+because white is playing in a way that's
+aimed against us playing e5 so let's not
+force it right we we don't necessarily
+want to force it and white's got a lot
+of different pieces staring at e5
+so it makes sense to to strike with c5
+and after d5 you get this sort of benoni
+like position which i've also very
+experienced then of course
+okay and
+already part of the reason that i don't
+recommend this to a lot of people is
+that there are just so many very
+specific ideas that you have to
+understand
+and and here's one of them so i'm going
+to make the move knight c6 which you
+should be looking at this and saying
+it's a normal developing move but if you
+look a little bit more carefully you
+might say well wait a minute aren't we
+walking into d5 right closes the center
+attacks the knight it you know don't we
+not want to allow that move at tempo and
+if you have played the benonian or the
+benko gambit even for any length of time
+you will know
+where the knight belongs in such
+positions
+who can tell me where the knight belongs
+in the event of d5 we're not going to go
+there on our own will
+but we're going to go there if white
+goes d5 and closes the center not before
+it can be chased away with a3
+a lot of you want knight b4 but it can
+just be chased away a5 a violation of
+the rule that states that knights on the
+rim are dim but in this particular
+instances i'll explain after the game
+you know we want the knight on a5 so now
+we want to develop our bishop obviously
+obviously we devil we could play bishop
+g4 but then simply h3 so i like the f5
+square here yeah
+i like the f5 square we're also
+preparing potentially knight e4 which
+would open up the other bishop
+another typical idea in such positions
+to play bishop f5 and then knight e4
+hopefully that makes sense and again if
+d5 then we play knight a5
+and we'll cross that bridge if we get
+there
+well then the knight h4 is not scary
+knight h4 we can just drop our bishop
+back to d7
+and uh we're none the worst for wear
+whereas white has a very awkward knight
+on h4 so a3 by chimpanzee
+is a decent move
+what should we do now if you've been
+listening
+you already should be able to come up
+with a good move
+we're obviously our our plan is is
+centered around putting pressure on
+white center that is the
+zen behind the king's indian so
+some of you want to go a5 but that kind
+of misses the mark of the position
+uh
+b4 is not a threat here we're defending
+before enough times and a5 creates a big
+hole on b5 and it also takes the a5
+square away from the knight so it makes
+d5 really really annoying and yeah the
+typical idea is knight f6 to e4
+this opens up the bishop intensifying
+the pressure on the d4 pawn now if i
+understand the mentality of some people
+correctly you might say well i
+understand that but
+after 94 bishop takes e4 isn't the
+bishop sort of vulnerable in the center
+right can't why move the knight then and
+attack the bishop and again this has to
+do with not being scared of moves
+because they create a threat
+right and you always have to if you're
+afraid of a move
+you have to ask yourself am i afraid of
+it just because it creates a threat and
+in this case
+that would fit the category because the
+bishop from e4
+can simply drop back to f5 it's
+perfectly safe
+white can't really take the f5 square
+away from us thank you k sheezy for the
+prime
+does that make sense
+the other good thing about this is that
+after the trade we are then already
+threatening to eliminate the knight
+which would weaken the d4 pawn make it
+possible to capture it
+every ounce of fear has left my body 94
+is actually a very hard move to deal
+with in such positions very hard
+how are we planning to on time in
+exchange on d4 well we're not planning
+to take on d4 unless we're basically
+winning a pawn
+okay chimpanzee takes
+we take back
+and i i think black is already playing
+for a small advantage here
+now we've we're spoiled for choice here
+and there are some subtleties with the
+variations that need to be calculated
+already c takes d4 makes sense because
+after cd4
+ed4
+bishop f3
+bishop f3
+knight d4 bishop b7 and who can tell me
+whether that line does black of a move
+at the end of that line don't stop
+calculating rook b8 at the end very good
+and you're skewering the bishop to the
+b21 but that's actually not the only
+move
+we can also play the move queen d8 to b6
+putting
+massive pressure on white's center which
+i like almost as much as cd in fact
+maybe i like it even more
+there is a subtlety here
+which is that c takes d4 allows knight
+takes d4 but then we can take and go
+queen b6 so i think we're we're in the
+clear we can play cd
+we can play cd
+okay ed and we can go down the line we
+went upon and our strategy has been a
+success now we need to
+reorient we won the pawn we're
+chilling
+i mean maybe chimpanzee missed that
+after bishop b7 rook ba just can't stop
+calculating right you got to calculate
+as as far as you can
+we win the pawn on b2 which also ruins
+why it's queen side pawn structure
+creates ideas of 92
+this is really
+just bad i mean why it's just down a
+pawn for for no compensation at all
+well if white plays b4 we don't have to
+why would we give away the b7 button
+it's our move right we can take the
+bishop
+and then play like queen d7 and defend
+the pawn
+okay yeah that's what happens now we
+definitely want to get this bishop all
+right why does the bishop play that
+maybe is
+his only asset right now is the bishop
+bear so let's eliminate it now you might
+say well isn't the knight good in the
+center it is the 994 is good but so is
+the bishop so i think it's a fair trade
+i think it's totally a fair trade
+now we need to defend the b7 pawn we can
+do it in a variety of ways we can play
+b6
+um that's totally chill
+we can also i like moves like queen d7
+because they also connect
+right this move also connects the rooks
+and when possible you want to achieve
+more than one thing with your moves
+so queen d7 defends the pawn
+and now we're ready to get our rooks
+into the game rook ac rook fd8 seems to
+be a pretty logical follow-up probably
+rook fd1 is going to happen
+although
+rook fd1 actually creates a threat okay
+recap e1 is not scary i mean
+this this pawn on e7 is perfectly well
+defended so let's uh continue improving
+our position with rook ac8
+i actually missed uh a little detail
+here but it it really isn't the end of
+the world even if he plays it
+i i missed a slightly annoying move here
+let's see if chimpanzee can spot it
+queen e4 he does
+he does um i i wait no he doesn't
+queen e3 would have been better
+attacking a7 and e7
+not a double attack that we didn't have
+an answer to we could have gone e5 there
+but that's not a move i really wanted
+him to play queen e4 only attacks one
+pawn
+so we can obviously defend it with rook
+feat but i didn't identify undefended
+pawns didn't follow my own advice
+rook c2
+somebody asked if we're playing for b5 i
+wouldn't necessarily go for b5 you know
+b5c takes b5 is kind of annoying
+so we've got a gazillion different ways
+that we could play in this kind of
+position
+we can play it sort of slowly or we can
+play it for a quick knockout
+i like oh i love the move queen a4
+that's just been proposed
+i i love queen a4 because it puts the
+queen on a great square it attacks the
+pawn it pressures the rook
+and it it just pressures white's queen
+side
+and it makes you know white has a very
+hard time defending everything here
+because you've got all these flimsy
+pawns all these weaknesses the rook is
+vulnerable
+queen a4 looks like a phenomenal move to
+me
+and you can also play for a7 a5 here
+this is a classic idea trying to get
+this pawn out of the way so that you
+increase the pressure on c4 that's a
+good idea to note down
+a5 in this position we can actually play
+it
+we can also play b5 now that the c2 rook
+is under our
+um
+watchful
+gaze
+but i love a5 i think that's such a
+thematic move in these types of
+positions
+such a thematic move because if white
+takes then white ruins the queen side
+pawn structure if i goes b5 then white
+justifies our queen placement
+and then we can use the skewer against
+the bishop the x-ray against the bishop
+to make a very nice tactical move i hope
+he goes b5 okay
+goes ba
+now if we want to be really fancy here
+we have a super
+interesting move
+but i i don't necessarily know if we
+should play it
+we have an interesting idea i'll show it
+after the game i don't actually think
+it's the best
+yeah d5 so some of you are spotting a d5
+and whichever way white takes you win a
+piece if takes of the pawnee when the
+rook it takes for the queen
+actually the rook hangs in both cases
+but d5 is not so good because white can
+play rook e to c1
+and you've bitten off a little bit more
+than you can chew so
+i prefer
+well actually let me think about that
+for a second do you fibroxy one
+it's it's certainly very tempt actually
+no i do like it sorry i i do like d5
+there's something i noticed there we can
+do
+it's also just a sexy move so
+i'm kind of biased
+[Music]
+this has not been an easy game
+a lot of instructive positional ideas
+here
+okay rook c1
+what did i notice
+what how can we continue our initiative
+first of all first of all we we can take
+on c4
+and then take again and then take a5 and
+we're up upon like we we can do that as
+a backup option
+but i kind of like the idea of starting
+to push the center bonds going d4 and
+then e5 and trying to shove e4 through
+and we can start with d4 that's actually
+a very tricky way to do it
+you might be like wait a minute i don't
+understand what was the downside of
+going e5 first but this is just sets a
+trap right
+there's nothing wrong with switching the
+move order because our opponent might
+not realize what we want
+and might play a move like queen back to
+d2 or something and then we go e5 e4
+with tempo but bishop d2 is correct very
+good
+now we expand with e5 and if we can go
+e4 the game is basically over if we can
+get e4 n
+there will be hell to pay
+at f3 we go f5 anyway that's a i mean
+white is a very strong move here which i
+i wonder if he'll find i think white is
+only one way to defend everything else
+is almost lost
+white is only one way to defend here and
+it might actually put into qui call into
+question or my entire idea but let's see
+if he finds it
+okay he doesn't so he plays bishop b4
+and this allows us to shove this pawn
+down the board of the e4 now our pawns
+are just tearing white apart
+right chimpanzee focused on defending
+his queen side pawns which didn't need
+defending rather than stopping the big
+threat at hand which is our central
+expansion which is totally crushing
+queen e4 was the defense queen e4 just
+putting the body of the queen in front
+of the pawns okay what should we do now
+how shall we proceed just keep it simple
+make the most obvious move yeah just d3
+running this forward and now we have
+tactics everywhere
+now we have tactics everywhere
+we're actually winning the rook
+so think about what we're going to do if
+he plays rook d2 because there you have
+to look at the whole board
+and if you look at the whole board or if
+you make the right types of observations
+you should spot the move very quickly
+right any time the rooks are aligned and
+you have a bishop of that caller you
+should be looking for pins that's a
+no-brainer now here
+first thing i see is that we have a back
+ranker if the rook is gone from c1 so we
+have rook takes c4 but this is a great
+and very instructive example of not
+automatically playing a move just
+because it looks good
+i think there is a move that's even more
+clinical than rook takes c4 which
+literally wins the rook on a2
+which wins the rook on a2 queen b3 right
+it's not gonna win you a brilliant
+surprise but it wins the rook because
+rook d2 again there's bishop h6 or
+there's rook take c4 right rook c4 is
+not going anywhere
+so i'll show oh rook c4 actually
+threatened brook takes b4 so maybe in
+that case rook takes c4 was also good
+no rook c4 was more accurate i'm wrong
+but it's fine i i didn't see that rook
+c4 also threatened rook takes b4 which
+won the bishop but this is also winning
+still the fact remains i think that it's
+still an important point
+which is to to look for the most
+clinical continuation
+and resigns
+okay um a an instructive game for sure
+good game chimpanzee thank you for
+volunteering to play i appreciate it
+okay
+so how do i formal verbalize this what
+is the reason why i don't always
+recommend the kingston first of all i
+would put a rating minimum at like 1600.
+i think anybody below like 1600 or so
+shouldn't even consider playing the
+king's indian because it
+i've explained this before
+you can't break the rules until you've
+learned them you need to spend some time
+learning the rules
+and the kings indian is an opening it's
+a hyper modern opening that breaks basic
+rules of controlling the center
+allowing white in the case of a four
+pawns attack just massive control over
+the center what i often see when like
+people in the 14 1500 range play the
+king's indian
+is just like
+they really struggle to understand
+the basic ideas and
+there's nothing more tilting than
+playing the king's indian not knowing
+the ideas because you just get crushed
+every time
+white just shoves the pawns down the
+board and you feel like this opening
+sucks whoa chimpanzee with a 10. damn
+girl
+thank you for the 10 subs i appreciate
+it
+can you can you make a brief comment on
+why the four pawns attack is fringe well
+if you know how to face it the four
+pawns attack is not dangerous although i
+wouldn't call it fringe it's it's one of
+the main it's close to being mainstream
+so against the four pawns attack is a
+good example of where you can actually
+play e5 here that's a pawn sacrifice
+line
+but the accepted line is c5
+the accepted line is c5 and then
+basically playing this like a bononi
+and white's center is somewhat
+overextended in the in like the
+theoretical lines
+so
+according to theory the four bonds
+attack does not present any objective
+difficulties but it's still
+a viable weapon
+yeah this line of bishop f4 is not very
+dangerous
+and but but just to finish that
+discussion
+you know when you hit like 16 1700 you
+get to a point where you can start
+considering playing the king's indian
+and the other thing that sort of stands
+behind my
+coldness toward the king's indian is the
+fact that i i don't recommend for
+beginner and intermediate players to
+play cramped openings in general i think
+it's important to under to
+get positions where you're not cramped
+and
+to learn to use space it's again one of
+those things you need to learn to how to
+use space in order to learn how to be
+cramped
+and you guys know that i play a ton of
+cramped position i think i'm good at
+that
+but it's because i've had so many years
+of experience in the king's indian thank
+you riley pool fan
+and you
+have to accept a lot of cram position to
+play the king's indian
+so anyways now that i've like crapped on
+it for five minutes let's take a look at
+the game so bishop f4 is not the
+greatest line
+chimpanzee because the bishop is on a
+fundamental level is just biting on
+granite here
+which openings are not cramped well
+anything other than the kings any queens
+gamma declined which i played
+exclusively the first half of the
+speedrun
+which is why king nimzo indian
+even the dutch um is a little bit less
+cramped than the king's indian although
+it's borderline
+and the england yes love queens get
+accepted
+that's why i recommend the queen's game
+of decline as your first opening until
+you're like 14 1500. before you even
+think about
+playing a different opening
+that's that's my recommendation
+you have to make an investment
+in terms of being able to play these
+boring positions you have to suffer
+through it
+and then you will reap the rewards
+tremendously as opposed to starting to
+as opposed to saying i want to have fun
+right away and then
+setting a rotten foundation like the
+question is are you in it for the long
+term so okay anyways
+hopefully the the rationale behind going
+c5 makes sense
+um
+if you wanted to prepare e5 obviously
+you can't do it immediately right that
+blunders a pawn
+so one
+factor in the king's indian is that
+generally the b8 knight is developed to
+d7 you generally unless it's the main
+line you don't go knight c6 very often
+although in this particular instance
+knight c6 is totally fine in fact knight
+c6 is probably the best way to do it
+because if white plays d5 you have the
+intermediate move e5
+another reason why bishop f4 is not a
+very good developing move because it
+walks into e5
+yes definitely
+so after knight c6 let's say white goes
+bishop b2
+and this is another thing that i see
+inexperienced kings indian players do
+all the time they love going rookie 8
+but rookie 8 is actually very often a
+bad way to prepare e5
+it's an something that
+sounds weird right what could be wrong
+with it well let me show you after
+castles
+e5 still doesn't work the rook is
+overloaded when it's on e8 because it
+also has to defend the queen so what
+often happens and i see this blunder so
+many times is after queen takes in
+you're like like you know i have to
+take with a rook
+and then you give up the pawn on e5
+or take with the knight give up on e5
+so
+you'll see
+experienced king's indian players often
+go queen e8 precisely for this reason it
+looks awkward but it's a better way to
+prepare e5
+um another way to prepare e5 in this
+position is to move the f6 knight back
+to d7
+which is a
+type of line against the london this is
+called the armenian variation you
+prepare e5
+and
+then you can also go f5 which is a very
+typical king city move thank you simon
+okay so we want c5 which is much simpler
+to play
+aven asked why not dc so dc
+is not dangerous for a variety of
+reasons
+you probably are aware that queen a5 can
+be good in some of these positions but
+here we would play dc
+you've opened up the bishop
+and black's bishop and position is just
+more equipped to handle
+the open center
+because we've developed the bishop to
+such a nice square
+i mean what what could possibly be bad
+about this end game for black this is
+just a great position
+and white is not castled and if white
+goes bishop e2 you can start
+various shenanigans like queen b6 and
+rook d8 or you can just develop knight
+c6 bishop e6
+pressure c4 i mean
+black has no targets the bishop on f4 is
+neither here nor there
+so
+i mean this is just good for black
+so bishop e2 is fine knight c6 and this
+is another thing right d5 you have to
+know that the knight belongs on a5 in
+these positions
+why does the knight be long in a5 well
+first of all it pressures c4 and in
+conjunction with
+this benco gambit style idea the knight
+is actually very good on a5 here and the
+benko gamut style idea that you'll see
+very often in the fianchetto for example
+is a6 the other that which is the other
+line or the knight lens on
+on a5 so in the fiance kings indian the
+traditional main line
+is to play knight c6
+and then
+the the sort of most popular line
+nowadays it's not the line that i play
+but it's super popular is to put the
+knight on a5
+and i i've done this before like i put
+the knight on a5 before and then you go
+c5 of course you have to be careful
+about b4 and games have been lost when
+people just for forgot about
+b4
+but that's just
+comes with the territory
+so yeah the knight in general the king's
+indian you often use a5 as a transit
+point for peace this is one of those
+things that you just don't know unless
+you're very experienced frankfurt
+airport i have the greatest frankfurt
+airport example if you guys want
+this is from my tournament where i got
+my first gm norm it was a fian kettle
+king's indian he's playing the spanish
+gm cabrera alexis cabrera
+rook b8 is the line that i
+used to play a lot and the point is to
+prepare a6b5 but it's a very very
+flexible move so h3 a6 so here white
+decided against going d5 he played a
+different line
+so he allowed me to go e5
+and after d5 b4 counter attack in the
+night
+so
+at first i go back to e7
+and then i went c6 to open up the center
+but in this position
+who can tell me what i did i made a move
+that i was very very proud of after the
+game like i found a maneuver that i
+thought was was really really strong
+so the knight on c6 may not look bad but
+it's sort of not doing anything it's
+staring at a square that's already well
+protected
+so where do you want it
+where do you want it knight a5 yeah
+knight a5 where is it going so first i i
+decided to complete my development i'm
+not rushing to get it away from a5
+but now i get it to the square i want it
+to go b7 and c5
+and that night was an integral part of
+what ultimately won me the game
+that same night later on in the game
+once i broke through in the center
+went to e4
+and it finally sacrificed itself on e4
+but not until white was down a gazillion
+pawns
+so a good example of using the a5 square
+as a rerouting point which is very
+different from what we did here
+which is to use the a5
+square as the final destination but
+nonetheless i just think it was a this
+example came to my mind
+and uh back to the actual
+game we would get this position which is
+a little bit different but the ideas are
+the same you want to go b5 and you want
+to go benco gambit style in many cases
+you just go b5 anyway
+you sacrifice the pawn and then you go
+bishop a6
+and you develop play on the queen side
+anybody who plays the banco gamut will
+recognize this this is very familiar but
+you don't have to sack the pawn you can
+also prepare it with bishop d7 and rook
+b8 and try to induce the move a4 and the
+move a4 essentially makes it impossible
+for white to ever go before so the
+knight is now safe
+and it weakens the b b4 square so
+sometimes you'll see these ideas
+sometimes you'll see black pushing e6 or
+e5
+trying to get white to take so that the
+knight is freed up
+very positionally complex situation
+anyways i i hope that makes sense
+um
+[Music]
+chimpanzee didn't go d5 castles bishop
+f5 a3 i think is a serious inaccuracy i
+actually think
+sorry i actually think d5
+should be played d5 and knight d2 i
+think is the way to play this with white
+and the bishop is a little bit
+awkward on f5
+so once white doesn't play d5 and we go
+94 the pressure on the center becomes
+tremendous
+and the problem is that the train has
+left the station because if you go d5
+now
+you open up the bishop and after knight
+a5 the pressure on b2 is really hard to
+stop i mean you can still go knight t2
+bishop f5 you can chase the bishop
+around but now black is in great shape
+to play a6 and b5 so
+um and and we don't have to go knight a5
+we can also go like knight b8 here but i
+think even this was better than the game
+continuation because once you allowed cd
+you're already in trouble
+after 94 what if d5 well d5 knight c3
+same concept but now white has a ruined
+pawn structure
+or you can go knight b8 yeah knight b
+and knight z but i like a5 because
+you're pressuring c4 so
+once this happened you're in trouble cd
+yeah and if knight d4 then we don't go
+e5 that's a common mistake right knight
+c6 like counter attacks the queen and
+the bishop can move
+um
+sorry but knight d4 you play knight t4
+ed and then queen b6 attacking two pawns
+at the same time
+right
+so once we win the pawn
+it's bad news
+bishop b7 rogue b8
+and then we win b2
+yeah and this is just bad so
+next important moment
+one thing i wanted to point out before
+we get to that moment what would have
+how do we stop c5
+so white threatens c5 because of the pin
+what should black do against it and this
+is what i call type 2 prophylaxis
+i've talked about this before on stream
+type 1 prophylaxis is physically
+stopping a threat type 2 prophylaxis is
+taking the sting out of it you allow the
+move but you prepare a response to it
+and people are not as good at type 2
+reflex yeah rook fd8
+right now you're not stopping c5 but
+you're preparing the move d5 which
+renders this totally
+ineffective
+engine says equal here interesting oh
+well because of queen e3
+yeah yeah i know that makes sense i
+blundered queen e3 which is a double
+attack against the two pawns and of
+course black can save the pawn by going
+e5 but that is a serious positional
+concession you're blocking in your own
+bishop
+although maybe black can play f5 and
+turn this into a classic king's indian
+pawn storm
+so it's bad this way and that way and
+the other way but queen e3 was i think
+the best chance
+once you allow me to defend the pawn and
+get my queen to a4 i feel like things
+are going downhill rapidly and the last
+chance for you i think was
+to go queen e4 here
+or sorry in this position to go queen e4
+stopping e4
+once you allow e4 it's over
+but here i wasn't exactly sure what
+black should do because if i go queen c6
+white can actually take and then you can
+start harassing my b7 pawn
+and this gets very double edged like e4
+rook b7 and white gets a far advanced
+faster on a5 so
+it's not entirely obvious what the
+evaluation is here
+in any case once you allow e4 it's it's
+over what about f5
+well f5 blunders the b-pawn
+and you can play e4 here but it's come
+at the cost of allowing a past eight
+bond so this is getting really spicy
+again
+so black maybe should defend the pawn
+with queen d7 then white continues to
+harass black with rook beyond i wasn't
+totally sure what to do here
+so that's why i was skeptical about d5
+but we decided to play it anyway just
+because it's an instructive move i think
+so
+anyways once one c4 was allowed the game
+was the game was over
+so any questions
+before we wrap up for the day
+have a great night everybody i'll see
+you in ohio
+later
+[Music]
+you

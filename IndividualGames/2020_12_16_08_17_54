@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.16"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "dobur"]
+[Result "1-0"]
+[CurrentPosition "rnbqkb1r/pppp1ppp/4p3/3nP3/2PP4/8/PP3PPP/RNBQKBNR b KQkq c3"]
+[Timezone "UTC"]
+[ECO "B03"]
+[ECOUrl "https://www.chess.com/openings/Alekhines-Defense-Normal-Variation-3.d4"]
+[UTCDate "2020.12.16"]
+[UTCTime "08:17:54"]
+[WhiteElo "2047"]
+[BlackElo "2058"]
+[TimeControl "300"]
+[Termination "SenseiDanya won - game abandoned"]
+[StartTime "08:17:54"]
+[EndDate "2020.12.16"]
+[EndTime "08:19:01"]
+[Link "https://www.chess.com/game/live/5979001056"]
+
+1. e4 {[%clk 0:04:58.1]} 1... Nf6 {[%clk 0:04:59.9]} 2. e5 {[%clk 0:04:56.7]} 2... Nd5 {[%clk 0:04:59]} 3. d4 {[%clk 0:04:53.1]} 3... e6 {[%clk 0:04:57.8]} 4. c4 {[%clk 0:04:23.7]} 1-0
+
+

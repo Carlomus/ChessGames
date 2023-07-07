@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.08"]
+[Round "-"]
+[White "viethorn"]
+[Black "SenseiDanya"]
+[Result "0-1"]
+[CurrentPosition "r1b2rk1/p1p3pp/2p5/3p2B1/3Pp1n1/1BP2P2/PP1N2Pq/R2Q1RK1 w - -"]
+[Timezone "UTC"]
+[ECO "C44"]
+[ECOUrl "https://www.chess.com/openings/Ponziani-Opening-Ponziani-Countergambit-4.d4"]
+[UTCDate "2020.12.08"]
+[UTCTime "03:30:26"]
+[WhiteElo "1725"]
+[BlackElo "1763"]
+[TimeControl "300"]
+[Termination "SenseiDanya won by checkmate"]
+[StartTime "03:30:26"]
+[EndDate "2020.12.08"]
+[EndTime "03:35:07"]
+[Link "https://www.chess.com/game/live/5913668334"]
+
+1. e4 {[%clk 0:04:59.9]} 1... e5 {[%clk 0:04:57.4]} 2. Nf3 {[%clk 0:04:59.3]} 2... Nc6 {[%clk 0:04:56.5]} 3. c3 {[%clk 0:04:58.7]} 3... f5 {[%clk 0:04:29.5]} 4. d4 {[%clk 0:04:36.1]} 4... fxe4 {[%clk 0:04:25.1]} 5. Nxe5 {[%clk 0:04:34.8]} 5... Nf6 {[%clk 0:04:18.9]} 6. Bc4 {[%clk 0:04:30.1]} 6... d5 {[%clk 0:04:06.7]} 7. Bb3 {[%clk 0:04:28.1]} 7... Bd6 {[%clk 0:03:46]} 8. Nxc6 {[%clk 0:04:13.6]} 8... bxc6 {[%clk 0:03:45.1]} 9. O-O {[%clk 0:04:10.4]} 9... O-O {[%clk 0:03:26.1]} 10. Bg5 {[%clk 0:04:08.8]} 10... Qe8 {[%clk 0:02:50]} 11. Nd2 {[%clk 0:04:02.4]} 11... Bxh2+ {[%clk 0:02:41.6]} 12. Kxh2 {[%clk 0:03:51.8]} 12... Ng4+ {[%clk 0:02:40.1]} 13. Kg1 {[%clk 0:03:47.8]} 13... Qh5 {[%clk 0:02:29.8]} 14. f3 {[%clk 0:02:59.7]} 14... Qh2# {[%clk 0:02:27.1]} 0-1
+
+

@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.25"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "Gainztrain13"]
+[Result "1-0"]
+[CurrentPosition "2Q1k2r/4bqpp/8/2pp4/2p2B2/2P3P1/PP3P1P/R3R1K1 b kq -"]
+[Timezone "UTC"]
+[ECO "B22"]
+[ECOUrl "https://www.chess.com/openings/Alapin-Sicilian-Defense-Barmen-Defense-4.d4-Nc6-5.Nf3-Nf6"]
+[UTCDate "2020.12.25"]
+[UTCTime "23:51:13"]
+[WhiteElo "1188"]
+[BlackElo "1093"]
+[TimeControl "600"]
+[Termination "SenseiDanya won by checkmate"]
+[StartTime "23:51:13"]
+[EndDate "2020.12.25"]
+[EndTime "23:58:56"]
+[Link "https://www.chess.com/game/live/6059011255"]
+
+1. e4 {[%clk 0:10:00]} 1... c5 {[%clk 0:10:00]} 2. c3 {[%clk 0:09:59]} 2... d5 {[%clk 0:09:51.2]} 3. exd5 {[%clk 0:09:55.6]} 3... Qxd5 {[%clk 0:09:45]} 4. d4 {[%clk 0:09:27.4]} 4... Nc6 {[%clk 0:09:29.5]} 5. Nf3 {[%clk 0:09:26.3]} 5... Nf6 {[%clk 0:09:10.9]} 6. Na3 {[%clk 0:09:12]} 6... a6 {[%clk 0:09:03.4]} 7. Nc4 {[%clk 0:08:48.5]} 7... Nd7 {[%clk 0:08:35.3]} 8. Ne3 {[%clk 0:08:00.1]} 8... Qd6 {[%clk 0:08:22.9]} 9. d5 {[%clk 0:07:49.1]} 9... Nce5 {[%clk 0:08:09]} 10. Be2 {[%clk 0:07:38.1]} 10... Nxf3+ {[%clk 0:08:00]} 11. Bxf3 {[%clk 0:07:37.4]} 11... e6 {[%clk 0:07:57.2]} 12. Nc4 {[%clk 0:07:20.4]} 12... Qc7 {[%clk 0:07:45.2]} 13. dxe6 {[%clk 0:06:57.5]} 13... fxe6 {[%clk 0:07:36.7]} 14. O-O {[%clk 0:06:56.8]} 14... Nf6 {[%clk 0:07:27.8]} 15. g3 {[%clk 0:06:26.9]} 15... b5 {[%clk 0:07:24]} 16. Bxa8 {[%clk 0:06:22.8]} 16... bxc4 {[%clk 0:07:09.2]} 17. Bf4 {[%clk 0:06:21.7]} 17... Qf7 {[%clk 0:07:07]} 18. Qa4+ {[%clk 0:06:09.9]} 18... Bd7 {[%clk 0:07:02.9]} 19. Qxa6 {[%clk 0:06:09]} 19... Nd5 {[%clk 0:07:02.5]} 20. Bxd5 {[%clk 0:05:56.6]} 20... exd5 {[%clk 0:07:00.7]} 21. Rfe1+ {[%clk 0:05:56.1]} 21... Be7 {[%clk 0:06:59.3]} 22. Qa8+ {[%clk 0:05:42.2]} 22... Bc8 {[%clk 0:06:46.9]} 23. Qxc8# {[%clk 0:05:42.1]} 1-0
+
+

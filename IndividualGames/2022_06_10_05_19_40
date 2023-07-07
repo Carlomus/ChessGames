@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.06.10"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "omegachilling"]
+[Result "1-0"]
+[CurrentPosition "r1k4r/6p1/pBQ2n2/4p1p1/4P3/8/PP3PPP/6K1 b - -"]
+[Timezone "UTC"]
+[ECO "B21"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Smith-Morra-Gambit-Accepted-4.Nxc3-e6-5.Bc4-a6-6.Nf3"]
+[UTCDate "2022.06.10"]
+[UTCTime "05:19:40"]
+[WhiteElo "1897"]
+[BlackElo "1871"]
+[TimeControl "900+10"]
+[Termination "SenseiDanya won by resignation"]
+[StartTime "05:19:40"]
+[EndDate "2022.06.10"]
+[EndTime "05:48:20"]
+[Link "https://www.chess.com/game/live/48577186749"]
+
+1. e4 {[%clk 0:15:08.4]} 1... c5 {[%clk 0:15:08.6]} 2. d4 {[%clk 0:15:17]} 2... cxd4 {[%clk 0:15:16.3]} 3. c3 {[%clk 0:15:21]} 3... dxc3 {[%clk 0:15:23.3]} 4. Nxc3 {[%clk 0:15:29.8]} 4... e6 {[%clk 0:15:30.6]} 5. Nf3 {[%clk 0:15:02.8]} 5... a6 {[%clk 0:15:29.8]} 6. Bc4 {[%clk 0:14:26]} 6... Be7 {[%clk 0:14:48.8]} 7. O-O {[%clk 0:13:30.8]} 7... d6 {[%clk 0:14:54.1]} 8. Qe2 {[%clk 0:12:51.2]} 8... Nd7 {[%clk 0:14:21.5]} 9. Rd1 {[%clk 0:12:33]} 9... Qc7 {[%clk 0:14:26.6]} 10. Bf4 {[%clk 0:11:57.3]} 10... Ngf6 {[%clk 0:13:49]} 11. Rac1 {[%clk 0:10:11.5]} 11... e5 {[%clk 0:12:08.4]} 12. Bxf7+ {[%clk 0:07:59.9]} 12... Kxf7 {[%clk 0:07:34.6]} 13. Ng5+ {[%clk 0:08:00.1]} 13... Ke8 {[%clk 0:07:32.6]} 14. Nb5 {[%clk 0:07:40.1]} 14... Qxc1 {[%clk 0:06:17.3]} 15. Nxd6+ {[%clk 0:07:36.2]} 15... Bxd6 {[%clk 0:06:10.2]} 16. Bxc1 {[%clk 0:07:44.9]} 16... Ke7 {[%clk 0:06:01.5]} 17. Qc4 {[%clk 0:06:49.4]} 17... Nc5 {[%clk 0:05:13.8]} 18. Qf7+ {[%clk 0:06:52.9]} 18... Kd8 {[%clk 0:05:18.4]} 19. Rxd6+ {[%clk 0:07:01.3]} 19... Bd7 {[%clk 0:05:21.8]} 20. Be3 {[%clk 0:05:51.7]} 20... h6 {[%clk 0:04:19.2]} 21. Bxc5 {[%clk 0:05:43.9]} 21... hxg5 {[%clk 0:04:20.9]} 22. Bb6+ {[%clk 0:05:43.3]} 22... Kc8 {[%clk 0:04:28.9]} 23. Qc4+ {[%clk 0:05:15.7]} 23... Bc6 {[%clk 0:04:14.3]} 24. Rxc6+ {[%clk 0:05:24.3]} 24... bxc6 {[%clk 0:04:21]} 25. Qxc6+ {[%clk 0:05:31.9]} 1-0
+
+

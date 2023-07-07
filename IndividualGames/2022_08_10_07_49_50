@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.08.10"]
+[Round "-"]
+[White "wxxdj"]
+[Black "SenseiDanya"]
+[Result "0-1"]
+[CurrentPosition "r4rk1/pbp3pp/1p1pp3/5p2/2PPn3/P3qP2/1PQNB1PP/3R1RK1 w - -"]
+[Timezone "UTC"]
+[ECO "E20"]
+[ECOUrl "https://www.chess.com/openings/Nimzo-Indian-Defense-4.Bd2-O-O"]
+[UTCDate "2022.08.10"]
+[UTCTime "07:49:50"]
+[WhiteElo "2014"]
+[BlackElo "2088"]
+[TimeControl "600"]
+[Termination "SenseiDanya won by resignation"]
+[StartTime "07:49:50"]
+[EndDate "2022.08.10"]
+[EndTime "07:53:47"]
+[Link "https://www.chess.com/game/live/53856616589"]
+
+1. d4 {[%clk 0:09:59.9]} 1... Nf6 {[%clk 0:09:56.7]} 2. c4 {[%clk 0:09:58.8]} 2... e6 {[%clk 0:09:53.4]} 3. Nc3 {[%clk 0:09:57.6]} 3... Bb4 {[%clk 0:09:51.9]} 4. Bd2 {[%clk 0:09:56.7]} 4... O-O {[%clk 0:09:35.1]} 5. a3 {[%clk 0:09:55.7]} 5... Bxc3 {[%clk 0:09:25.2]} 6. Bxc3 {[%clk 0:09:53.9]} 6... b6 {[%clk 0:09:07.2]} 7. e3 {[%clk 0:09:49.2]} 7... Bb7 {[%clk 0:09:05.6]} 8. Nf3 {[%clk 0:09:48]} 8... d6 {[%clk 0:08:53.5]} 9. Be2 {[%clk 0:09:46.4]} 9... Nbd7 {[%clk 0:08:52.5]} 10. O-O {[%clk 0:09:42.7]} 10... Ne4 {[%clk 0:08:22.1]} 11. Qc2 {[%clk 0:09:39.9]} 11... f5 {[%clk 0:08:20.2]} 12. Rad1 {[%clk 0:09:33]} 12... Nxc3 {[%clk 0:07:38.9]} 13. Qxc3 {[%clk 0:09:29.1]} 13... Nf6 {[%clk 0:07:38.3]} 14. Qc2 {[%clk 0:09:21.2]} 14... Ne4 {[%clk 0:07:33.5]} 15. Nd2 {[%clk 0:09:18.2]} 15... Qg5 {[%clk 0:07:13.2]} 16. f3 {[%clk 0:09:12.7]} 16... Qxe3+ {[%clk 0:07:10]} 0-1
+
+

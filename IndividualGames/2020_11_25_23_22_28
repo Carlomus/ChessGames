@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.11.25"]
+[Round "-"]
+[White "et_tu_brute"]
+[Black "SenseiDanya"]
+[Result "0-1"]
+[CurrentPosition "r3k2r/pp3ppp/2pb4/3pn2Q/B3n3/2N1P2P/PPPP2PR/R1BK1q2 w kq -"]
+[Timezone "UTC"]
+[ECO "A03"]
+[ECOUrl "https://www.chess.com/openings/Birds-Opening-Dutch-Variation-2.Nf3-Bg4-3.e3-Nd7"]
+[UTCDate "2020.11.25"]
+[UTCTime "23:22:28"]
+[WhiteElo "1612"]
+[BlackElo "1500"]
+[TimeControl "300"]
+[Termination "SenseiDanya won by checkmate"]
+[StartTime "23:22:28"]
+[EndDate "2020.11.25"]
+[EndTime "23:26:39"]
+[Link "https://www.chess.com/game/live/5821733499"]
+
+1. f4 {[%clk 0:04:59.9]} 1... d5 {[%clk 0:04:58.6]} 2. Nf3 {[%clk 0:04:59.6]} 2... Bg4 {[%clk 0:04:54.3]} 3. e3 {[%clk 0:04:59.5]} 3... Nd7 {[%clk 0:04:45.1]} 4. h3 {[%clk 0:04:58.8]} 4... Bxf3 {[%clk 0:04:39]} 5. Qxf3 {[%clk 0:04:58]} 5... e5 {[%clk 0:03:56.3]} 6. Bb5 {[%clk 0:04:55]} 6... c6 {[%clk 0:03:48.2]} 7. Ba4 {[%clk 0:04:49.4]} 7... Ngf6 {[%clk 0:03:46.5]} 8. fxe5 {[%clk 0:04:44.1]} 8... Nxe5 {[%clk 0:03:45.7]} 9. Qe2 {[%clk 0:04:42.5]} 9... Ne4 {[%clk 0:03:18.3]} 10. Qh5 {[%clk 0:04:01.7]} 10... Bd6 {[%clk 0:03:05.9]} 11. Rh2 {[%clk 0:03:47.3]} 11... Qf6 {[%clk 0:02:29.9]} 12. Nc3 {[%clk 0:03:34.2]} 12... Qf2+ {[%clk 0:02:27.7]} 13. Kd1 {[%clk 0:03:28]} 13... Qf1# {[%clk 0:02:27.6]} 0-1
+
+

@@ -1,0 +1,947 @@
+[Music]
+so we are um going hopefully with a
+windcrust uh 1800
+uh and um
+okay so
+hopefully we'll get a white game we've
+been playing a lot with black recently
+on the speed run so
+hopefully we can play a white game let's
+play something very aggressive you know
+i feel like playing something aggressive
+uh so let's let's do something let's go
+e4 let's go e4 this time um
+and let's play
+yeah let's play vienna let's play a good
+old-fashioned vienna vienna gambit with
+knight c3 and f4
+um if if if he goes knight f6 of course
+and um let's see how the vienna holds up
+at this level bishop before okay so this
+is um
+yeah this is this move kind of takes the
+fun out of the position a little bit
+it's not a great move
+uh it's sort of like a trompowski
+inverted to the other side of the board
+and
+i think a lot of you guys might be
+instinctually tempted to go knight d5
+here as you would in like a trumpowski
+but the problem there i mean as far as i
+know the bishop drops back to c5
+and that knight on d5 is not stable
+black can chase it away with c6 so
+um instead of going knight d5 i feel
+like that's a little bit reactionary
+we have a couple of other interesting
+moves here
+and
+one of those interesting moves is just
+to play this as if it were a vienna just
+to play f4
+uh because i don't really see how this
+bishop on b4 impacts the uh
+effectiveness of the move f4 so let's
+keep the spirit of the vienna let's play
+f4 probably not the best move uh but i
+do want to get this kind of structure
+and see how you know an 1800
+holds up against it so e takes f4
+now a common misconception is that we
+follow this up with the immediate d4 we
+do not we don't want to play d4 here
+that's a big mistake in almost all of
+these positions because it allows this
+nasty check on h4 so what should we
+start with same with bishop c4 we allow
+the check on h4 we don't want to do that
+we want to start by developing the
+knight to f3 that is a crucial
+uh component of the vienna you don't go
+d4
+generally without going knight f3 first
+to prevent the possibility of queen h4
+all right
+so
+now uh of course he can take the knight
+okay goes h6
+now i think his
+his his intentions are nakedly obvious
+he wants to go g5 and build up a pawn
+chain and basically uh not allow us to
+win the pawn back on f4 and you know at
+this level when you play an opening you
+you it's not enough just to memorize the
+theory and stuff you also have to uh be
+very very flexible you have to adjust
+your opening strategy based on how your
+opponent handles uh the opening himself
+so
+this is a very good example of that i
+think you know generally speaking you
+would go d4 in such a position you would
+try to win back the spawn but here d4
+walks right into his plan d4 g5
+and i'm not really sure what we gain
+honestly from controlling the center
+like this i don't think we need to play
+d4 i think we should instead prioritize
+our immediate minor piece development
+and try to punish him for not developing
+his own pieces in the most timely manner
+and
+once i say that you guys should already
+be
+basically aiming at the correct move
+some of you are proposing h4 and as i'll
+show you after the game
+h4 is way too weakening in such
+positions pushing this pawn out like
+that it really burns all the bridges it
+weakens the g3 square which actually is
+very significant let's play
+uh bishop c4 that's a calm move
+and let's see how he arranges his pieces
+before we decide on anything else
+so this move h4 uh generally these
+things occur better on the other side of
+the board if he would have gone a6 a4 is
+far less committal knight f6 is an
+excellent move okay
+so what should we do now
+no i wouldn't say we're clearly better
+i'd say the position is complex
+yeah i like e5
+um
+i also like the simple
+castle short
+when in doubt just develop ah there is a
+small tactical issue with the word with
+the move d3
+and that is that it it opens up this pin
+uh and it essentially justifies the
+placement of the bishop on before now
+what nasty little move does d3 allow
+and i've just given you a hint by
+you know
+by guiding your eyes to the pin
+yeah black can play d5 and get very nice
+piece development e takes d5 knight
+takes d5 you've seen that a million
+times
+and this knight cannot capture because
+it's pinned
+so
+if we go e5
+black is going to go d5 most probably
+that's
+the very classic technique that exists
+in such positions so
+instead of any of that we just castle
+let's just as zakar would say let's just
+castle
+and if he castles then e5 becomes a much
+more
+uh
+effective move now we go e5 now what's
+the difference here what if he goes d5
+well the difference is that we're
+castled we don't have to worry about
+king safety anymore
+uh while he does so what happens if d5
+what is the simplest approach there for
+white and i still don't think that we're
+better there i think it's very complex
+but it gets a nice position we just play
+no we don't play on passant
+we take the knight you know we take the
+knight then we take g7 we ruin his pawn
+structure
+uh permanently and then we go after this
+f4 pawn so
+he's got a pretty big decision on his
+hands as to like whether he wants to go
+for that or to move the knight i think
+he should go for that anyway that seems
+to be the best that he can do
+if he goes knight g4 okay because knight
+h7 is a really passive move
+that is a really passive move
+how should we follow this up
+yes so there's a couple of options we
+can go d4
+but also just because a particular move
+isn't good in one position doesn't mean
+that it's not good in another and this
+is a concept which i think you can take
+away from this game
+when i mentioned that knight d5 is not
+as good as it appears i think some of
+you may have in your mind might have
+just put a big red x over that but i'm
+not going to consider knight t5 but
+the circumstances have changed and now
+our primary motivation primary goal is
+to win back this f pawn so that we can
+start attacking down the f-file
+and in order to do that knight d5 is the
+ideal move because it literally forks
+the bishop and the pawn
+now d4 would have also been a perfectly
+good move d4 would have given an
+advantage but i think knight d5 is more
+forcing uh and it's more aggressive
+bishop c5 check and now rather than just
+meekly dropping our king to h1
+i'm not going to ask you guys i know
+everybody sees that we can play just d4
+now we have the best of all worlds
+and this is i mean this is like the
+vienna at its finest look at how
+crushing this position is
+look how crushing this is i mean just
+his pieces are shoved to the side of the
+board okay so what should we do
+first thing first things first uh we
+should decide whether to take the bishop
+or not
+i wouldn't take the bishop
+and the reason has nothing to do with
+anything specific well it does
+let me rephrase that the reason is that
+uh the bishop's not going anywhere we
+don't have to do that yet we can take
+the bishop on demand so let's play the
+most flexible move let's play bishop
+takes f4 let's do what needs to get done
+first and then play the moves the
+optional moves later if that makes sense
+so okay goes d6
+so he's
+he's making reasonable moves but uh i
+think we'll find a way to push him off
+the board in a second so let's see
+yeah i mean obviously we have various
+sacrifices like bishop takes h6 but i
+don't think we've got enough there yet
+i honestly don't think we've got quite
+enough there
+at the moment
+now
+there's many different approaches to
+this position some of them are more
+complicated and intricate some of them
+are simpler
+i want to make sort of a russian school
+of chess move and just me saying that
+already might uh guide some of you
+toward the correct move well not not the
+correctness the move that i want to play
+now what really bothers me about this
+situation joe you're absolutely right is
+the fact that he's exerting this pin
+over our king and here's the funny thing
+we can eliminate the pin by taking on b6
+but
+it may very well be that i want to keep
+this knight alive in case it
+participates in some sort of combination
+with knight f6 so king h1
+is perhaps not the best move i'm sure
+the engine will laugh at me but it's the
+sort of move that's very hard to play
+against because
+my opponent's sitting there saying man
+this guy doesn't give me any chances he
+was maybe hoping for something related
+to the pin
+you guys can see how like the right
+balance of aggressive chess
+and this kind of very
+you know circumspect
+um mature moves like king h1
+that can be totally deadly okay so he
+plays d takes e5
+now what should we take with
+and i think this is pretty intuitive
+how can we resist the opportunity
+to take with the knight look at these
+snappers on e5 and d5 this just looks
+too nice we could also play d e that's
+fine as well but
+i like knight takes c5
+beautiful looking position
+okay so this guy is good he's not going
+down without a fight
+now um
+in such situations you should be ready
+to transform your advantage several
+times and what that means is that you
+might have pieces that are very well
+placed right and you don't want to part
+with them but you have to if you want to
+convert such positions against good
+defense
+then you shouldn't get overly attached
+to any one particular piece and if you
+just consider for a second the most
+obvious sequence of moves what's the
+most
+natural
+sequence of moves the one that we should
+begin calcula begin by calculating
+because if it works
+then it saves us a great deal of work
+well first
+we should begin by taking on b6
+and then we should take a second to
+meditate on
+the possible candidate moves here and if
+you do that then you'll immediately find
+a very powerful candidate move uh after
+he plays at xb6 we can simply take the
+bishop and then drop the queen of g4
+with a huge attack
+but i have a much better move in mind
+just strike and strike d5 striking in
+the center getting rid of the bishop
+and the domination continues
+we've got a huge attack but now we got
+to be ready for some sort of tactics
+like you just got a sense
+that look at how centralized our pieces
+are look at how undeveloped he is i
+mentioned this earlier when analyzing
+one of the viewer games
+um
+one of the ways you know one of the
+tripwires for your intuition could be a
+situation in which
+um could be a situation which you've got
+basically very well coordinated pieces
+and a lot of them are aimed at your
+opponent's king
+number one and number two your
+opponent's got very lackluster
+development or very passively developed
+pieces that's
+a
+tactically fertile situation you should
+start looking at sacrifices captures
+diagonals
+you know
+anything that may
+uh act as you know some sort of a
+tactical movement here we don't even
+need to reinvent the wheel
+he puts his bishop in harm's way you
+should immediately spot the x-ray
+and the simplest move is just to take on
+h6 and we can
+in the interest of time we don't have to
+even really look for anything that much
+better than this even though maybe we
+could have played something like d6 but
+i don't i don't see the need to
+get bogged down in the details
+okay
+bishop g6
+oh man
+now here
+i can almost guarantee that
+most of you are probably thinking let's
+take and give go d6 check
+but what do i always say when you've got
+a sequence of two moves
+when you've got a sequence of two moves
+what do you need to consider what do you
+need to not forget to look at
+both ways check both ways check both
+move orders because both might be good
+but one might be
+you know miles and miles more
+overwhelming than the other and if you
+look at this for a second if we play
+knight takes g6
+okay f takes g6 d6 check he drops his
+king to h and somehow black is still
+kicking there there's no obvious path to
+victory but if we start with d6 we keep
+the bishop alive we keep the knight
+alive we're threatening to take on g6 we
+keep all of the benefits of the position
+without relinquishing anything
+so very you know clearly d6 is the
+better move order
+this is a simple thing you guys can
+apply and just improve your tactical
+results very quickly so here we
+obviously trade queens
+and this culminates
+the variation we trade queens but that
+doesn't diminish
+the dominance now we take we take and
+then we take on f7 and the game is over
+very simple
+non-sacrificial sequence just the way i
+like it
+and this is the kind of tactical play
+that you've got to master in order to be
+in order to then you know start playing
+those super flashy sacrificial games
+this is simple attack and play
+if you have good command of this then
+you'll be able to produce uh sort of
+more flashy combinations but
+you can't have the second without
+mastering the first rook takes f7 of
+course not bishop takes f7 because to
+check rook takes f7 because
+we set up a devastating discovery
+against the king
+okay so
+this is sort of a windmill
+and in such positions one of the most
+common mistakes that players make
+is that they get impatient with the
+discovered check remember that
+um
+you know
+you're not forced to move the rook
+immediately and on i mean unless there
+is a clearly a good discover check
+one of the things that you should always
+consider in such situations can we
+accumulate the pressure can we bring the
+final piece into the game in order to
+make the threat of a discover check
+stronger we absolutely can rook af1 is
+simple and uh coincidentally it creates
+a mate threat which he misses we now
+have checkmate in two moves who can spot
+it excellent
+rook f 8 check
+double check check check
+and the rook on f1 crucially defends the
+rook on f8
+he drops his king down and of course we
+can take the rook on aaa but a much
+better move is rook 1 f7 mate
+that was a very satisfying game i have
+to say
+very satisfying
+okay so king g7 again
+always look for a better move when you
+see a good one
+checkmate the game is over
+very nice
+so
+conclusions from the game so bishop b4
+um
+again
+i would encourage those of you who play
+the vienna full-time to actually look
+into this line with an engine i don't
+really feel like doing that right now
+but you feel free to do that on your own
+uh we decided on the conventional move
+f4 anyway all right guys so f4
+e takes f4 knight f3 again uh do not
+automatically go d4 because of queen h4
+check
+uh and we have to move our king out this
+is not the end of the world people used
+to play like this in like the 1800s but
+i think this is just a little bit too
+too dubious but if you look at steiner's
+games and he
+people play played like this and white
+is not losing by any stretch i mean
+knight f3 is coming thank you xenovape
+for the prime
+uh so this is okay but very very dubious
+knight f3
+uh h6 which is
+you know which is pretty slow and again
+jumpy gifting to four zucks thank you
+um you have to learn to read your
+opponent's
+move like when you face a move that you
+might not be familiar with
+oh man man simon
+i'm sorry that sucks it you know
+when you face a move that you may not be
+familiar with you've got to be calm and
+you've got to ask yourself
+well let me put myself in my opponent's
+shoes what do i think my opponent wants
+to do and clearly there's only one
+idea that h6 has and that is to play g5
+and as i explained
+you have to be ready to be flexible one
+of the problems with trying to memorize
+the theory of whatever opening you play
+is that um you become too
+narrow-minded to become tied into the
+idea that
+you know you play the same set of moves
+against everything and i'll take this
+opportunity to crap on the london a
+little bit it's the same problem if you
+play these systemic openings
+uh you know that have a particular
+system of play
+yeah you know you
+you become too accustomed to playing the
+same moves against everything and you
+got to be careful about that
+so
+understanding that he wants to play g5
+leads us to the
+next logical step which is that well
+what's the drawback of h6 oh it doesn't
+develop any pieces how do we exploit our
+opponent's lack of development will we
+develop as fast as possible ourselves
+i hope that makes sense bishop c4
+knight f6 now again
+if we had gone e5 immediately i thought
+this was premature to d5
+you guys might look at this and say wait
+a minute we can win a piece let's give a
+check on b5 and then take the knight
+but
+why does this not win a piece
+t page i'll get to you in a second
+because of c6 counter attacking the
+bishop this is pretty common
+and see the thing is we can go like this
+we can play fg and
+uh ef and fg and i was thinking about
+this but i didn't
+you know the problem here paradoxically
+is that when we castle he plays rook
+takes g7 and all of a sudden he's got
+this g-file pressure going his king
+could seek shelter on f8
+i honestly thought this was
+very unconvincing but maybe this was the
+best way to play i don't know
+anyways we decided to castle now t page
+asks what happens after bishop takes c3
+and knight takes e4 what's up for now
+uh who can tell me what happens here
+this is sort of a very classic there's
+many things that white can do to win the
+game
+yeah i mean the simplest is to start
+with rookie one
+black must play f5
+and now who can follow up with a
+powerful attacking move here there's
+again there's many ways i think to win
+the game here with white
+uh but there's one sort of very classic
+you know just move that asks to be
+played i think queen d5 maybe queen f6
+uh although even here i'm just playing
+bishop to except f4 you're winning but
+see when i look at the move f5 the first
+thing i always see is this diagonal
+getting weakened i think you guys may be
+looking at the king directly but i'm
+looking at that diagonal and i'm and i'm
+immediately thinking of knight e5
+because this sets so many threats i love
+moves
+that create more than one threat
+so clearly like when h5 is the main
+threat but you're also threatening to go
+knight fc bishop f7 check is also a
+threat
+because you know there's almost an
+insurance policy that comes with these
+moves because if one of the ideas is
+parried then you'll always have
+uh some of the other ideas if that makes
+sense so
+if you're not sure you're trying to
+choose between a sequence of moves the
+move that carries the most ideas can
+often be the most dangerous one
+you know it's a little bit of a vague
+piece of advice but something hopefully
+that will help so he castles and now we
+play five so what's the difference
+again using the method of comparison
+well now his king is committed to the
+king side his king is committed to the
+king side which means that
+uh not only can the rook not like go to
+g8 as it could in the previous line
+but our king is also safe
+you know we go d4
+on passant we can play bishop takes f4
+look at how bad his king is here i mean
+just the king is permanently
+in trouble and i love these kinds of
+positions
+because we might be down a pawn but
+white's compensation for the pawn is
+completely overwhelming rook 81 is
+coming 95
+things are falling apart here in a grand
+scale for black
+okay does that make sense and by the way
+if he goes knight g4 here
+uh what would we have done
+yeah i'll get to your question in a
+second to neberty
+i'm not sure which pawn you're referring
+to honestly
+oh rookie oh rookie there i'll get to
+you in a second yeah h3
+and again bishop c5 check ah we're
+winning in exchange king h1 knight f2 no
+you're not because of the move d4 and
+very elegantly this bishop on c1 covers
+the e3 square so he doesn't have this
+intermediate move he loses a piece the
+knight is no other no other squares to
+escape to
+now an excellent question being asked by
+tineberti
+you've definitely earned a sub that
+question
+hint wink wink i'm just kidding i would
+never make anybody gift anybody else's
+stuff i am not that kind of toxic
+streamer so d5 ef dc fg
+rookie a
+nothing changes we go d4 this is the
+umbrella method you're basically using
+this pawn as an umbrella
+um but the issue is that the king is
+still tremendously weak here so it
+doesn't really change the spirit of the
+position if that makes sense cd bishop
+f4 it's still terrible for black does
+that make sense numery
+so this would be a good approach for
+black but it doesn't solve the
+underlying problem that the king's pawn
+structure is totally ruined
+thank you to neberty oh he subs himself
+two months damn girl
+i guess the explanation made sense
+all right so knight h7
+knight d5
+um attacking everything bishop c5 throws
+oil onto the fire he should have gone
+probably to a5 or to e7 but
+the position is still very rough
+d4 bishop f4 and here king h1 so does
+this move make sense to everybody we're
+basically saying okay
+i'm annoyed by this pin i want the d4
+pawn to be able to move should it be
+necessary
+and obey it's almost a waiting move you
+know it's almost a move
+that that tosses the ball back into his
+court and this is a move which a kind of
+move which a lot of players
+struggle to play when push comes to
+shove
+um
+but you know and i'm sure it's not the
+best move i think a simpler approach
+would have been just to take the bishop
+straight away and then you know you
+could even play e takes d6 if you wanted
+although i don't see a reason to take
+that pawn maybe drop the bishop to d3
+try to target them
+queen d3 is another good move
+so
+lots of good stuff here that you could
+do
+lennard 3500 thank you for three months
+so i wouldn't
+go too crazy and try to oh i want to
+find like the most precise move you're
+not a computer that's part of the reason
+we play king h1 is i've come to terms
+with the fact that it's probably not the
+best move but i know for a fact that it
+keeps all of the advantages of the
+position in addition
+if he would have gone bishop e6 here
+after knight takes b6 a takes b6 this
+bishop is actually detrimental to his
+position because it allows now what move
+which we basically played in the game
+well no we could have played it in the
+game but d5 boom
+boom e6 just blasting through the gates
+here
+and this seems pretty crushing to me
+okay
+so d d takes c5 knight takes c5
+centralizing the other knight
+bishop b6 yeah we did play knight takes
+a takes in d5 okay so bishop f5 loses
+immediately after bishop takes h6 but
+what would have happened if we've got if
+he got bishop ca
+we have quite a pretty tactical sequence
+here very beautiful move i think i'll
+get beautiful maybe overstating it now
+like i said guys
+look at the
+uh the preponderance of
+just pieces in the center versus oh oh
+50 bucks from infield trader
+i am way too dumb to contribute to your
+stream in a meaningful way but you're
+probably the greatest chess educator of
+all time aww
+um
+i watch your youtube content every day
+with my morning coffee pardon me for
+only spamming the chat while wasted on
+bourbon 50 bucks from infield trader
+with an incredibly sweet message i
+uh as we say i stand on the shoulders of
+giants and i stand on the shoulders of
+supporters so
+thank you so much i really appreciate it
+um
+incredible level of support today thank
+you so the move is knight takes f7 this
+is the sort of move that plays itself
+second only to peter gionatus yeah and
+john bartholomew
+boom
+boom
+goodbye i mean this is this is game over
+there are too many threats there's dc
+there's bishop f7 this bishop can also
+move
+this is totally crushing for example cd
+takes takes bishop g actually wait a
+minute no that here there's knight f6
+so maybe we should be a little bit more
+careful
+uh i guess we can throw in a check on d5
+first and just basically checkmate the
+king
+so bishop b6 there's b7 that's hanging
+so one way or another this is totally
+crushing or or you could start by
+playing d6 that's also fine but i like
+knight takes f7 quite a lot
+boom boom goodbye
+so does this make sense does it make
+sense how knight takes f7 works here and
+i haven't been
+specific for a reason because i want
+people's intuitions
+to suggest this move this move can be
+arrived at virtually without too much
+calculation as long as you see d6 you
+know that you're not even sacrificing
+that much material okay at most you're
+sacrificing two pieces for a rook and
+that's not even such a big investment
+this is a no-brainer
+okay please but please don't be afraid
+to ask questions and and say that you
+know you're not sure about this
+um i want
+to make sure
+yeah what what a pimps i was thinking
+about this so we could have it's an
+alternative method we could have taken
+and done queen g4
+we could have taken a gun queen she
+poured this also looks winning i mean
+we're threatening queen takes e6 check
+with mate we're threatening bishop takes
+h6 the only thing that i found to be a
+little bit nasty here is the move queen
+to f6
+this seems to walk into a discovery but
+remember if you move the bishop he'll be
+able to take the rook
+so that's the only thing i found to be a
+little bit annoying
+now what if you had gone into this could
+somebody propose for me
+a good move for white here and i'll give
+you guys a hint
+it's a move in the same spirit as king
+h1 it's not the same type of move it
+doesn't do the same thing it's the same
+general spirit here
+which we're trying to encapsulate so
+back to this position
+so there's a couple of moves that i like
+and you guys are naming both of them
+this is amazing the first one is rook f3
+you're just lifting the rook but you're
+not trying to lift the rook to g3
+primarily you're trying to put the rook
+and establish it on a defended square
+so that then you can move the bishop
+wherever you want to move it
+the second move that you could play is
+h3
+which
+solves the pro
+solves the problem
+of this move being a back rank mate so
+for example
+if you drop the bishop back now
+and he goes for this position the king
+is very safe on h2
+and the queen is totally dominant here
+black technically has enough material
+but i mean you guys should be able to
+see how discombobulated black's pieces
+are
+so i love the fact that people are
+suggesting both moves shows me that
+everybody's paying attention great to
+see
+bishop takes h6 in the game and bishop
+g6 d6 is just game over
+um probably the most resilient would be
+to play queen f6 here
+um and white has a gazillion winning
+moves we could even drop the bishop back
+to f4 and keep the extra pawn and then
+you know go queen h5 and stuff it
+doesn't really matter
+the reason he didn't take the bishop is
+because then we take his bishop and look
+at how bad his king is then we go d6 uh
+you know all uh how we played it in the
+game
+well queen f6 the only reason i'm saying
+is because if he moves the bishop away
+then f7 is dead meat we can play d6 so
+he has to keep the bishop on f5 at all
+costs
+still two primes to be matched says
+jumpy the ever generous jumpy dev
+vision 11 asks after knight takes f7
+what if he takes with the king and not
+the rook
+you tell me vishen i want you to answer
+the question what do you think white is
+gonna do here
+what do you think white should do here
+look at the king very carefully
+look at all of the sources
+of possible attacking moves the simplest
+is not to play d6 although d6 is
+crushing the simplest is to play bishop
+takes c7 check
+bishop g5 simon i fell into the same
+thing amazingly black as knight f6
+covering the discovery
+so bishop c7 is actually important here
+uh remember this trick by the way this
+is an important trick
+this this idea of covering the discovery
+all of a sudden with a knight knights
+are pretty good at this kind of stuff
+okay another question after bishop takes
+h6 what about the desperado bishop takes
+c2
+all right
+daniel mrs reilly and only mrs riley how
+many fingers am i holding up
+daniel bereznov
+what do you think white's best move here
+is
+so there's a couple of moves there's
+queen g4 joe pointing it out that would
+be crushing but
+if you want to keep it simple take the
+bishop take
+boom the game i mean look at this the
+game is completely over so remember
+pawns are not important anymore this is
+all about checkmate you don't really
+care if your opponent takes a couple of
+extra pawns
+right
+and i think one of the key takeaways of
+the speed run in an attacking sense of
+in this level is that
+a lot of players and i see this
+particularly now
+they
+and there's nothing wrong with this they
+watch you know me on twitch shikara and
+stuff and you know you comment i want to
+like miss some people up i want to sack
+some pieces but
+you know you have to climb the staircase
+and
+to climb the staircase you need to
+master the art of simple attacking no
+sacrifices no bs
+uh you have to master the mechanics of
+what makes an attack successful patient
+moves preparing slowly attacking fast
+spotting the tactic when it presents
+itself
+if you get better at that then you will
+start finding that you know these
+sacrifices which at some point don't
+work
+all of a sudden they start to work
+because you're supporting them with
+uh with good fundamentals thank you pog
+64 for the tier one
+all right
+so
+if anything is to come out of this
+you know
+if if if you want to play my style of
+chess
+and also if you look at my classical
+games
+um who is this guy just curious this is
+another handle if you look at my
+classical games
+i'm not going crazy every game right uh
+it's it's all about getting the
+fundamentals down
+and that's one of the things that some
+people are not doing they're going
+straight to the uh let's go crazy let's
+get crazy and sacrifice part
+i'm sorry to
+keep repeating that but i think it's
+important
+so d no i'm not i'm very tough
+i am not a positional player by any
+stretch of the imagination thank you
+lewis hamilton gifting to kappa kid but
+um
+you know sometimes there are times to to
+play solid chess
+and um
+exactly simon
+exactly why shouldn't we feed our
+instant gratification so look out for
+foreign
+but i i think i'm gonna i'm gonna be
+back tomorrow guys and we're gonna do
+more speedrunning so
+[Music]

@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.07.17"]
+[Round "-"]
+[White "OhMyLands"]
+[Black "suryabakti58"]
+[Result "1-0"]
+[CurrentPosition "rnbqkbnr/ppN2ppp/3p4/4P3/5p2/5N2/PPPPQ1PP/R1B1KB1R b KQkq -"]
+[Timezone "UTC"]
+[ECO "C28"]
+[ECOUrl "https://www.chess.com/openings/Vienna-Game-Falkbeer-Vienna-Gambit"]
+[UTCDate "2021.07.17"]
+[UTCTime "03:41:11"]
+[WhiteElo "2058"]
+[BlackElo "2065"]
+[TimeControl "600"]
+[Termination "OhMyLands won by resignation"]
+[StartTime "03:41:11"]
+[EndDate "2021.07.17"]
+[EndTime "03:44:57"]
+[Link "https://www.chess.com/game/live/20232020955"]
+
+1. e4 {[%clk 0:09:58.3]} 1... e5 {[%clk 0:09:54.1]} 2. Nc3 {[%clk 0:09:52]} 2... Nf6 {[%clk 0:09:48.7]} 3. f4 {[%clk 0:09:50.5]} 3... exf4 {[%clk 0:09:37.4]} 4. e5 {[%clk 0:09:21]} 4... Qe7 {[%clk 0:09:33.5]} 5. Qe2 {[%clk 0:09:02.2]} 5... Ng8 {[%clk 0:09:14.7]} 6. Nf3 {[%clk 0:08:45.2]} 6... d6 {[%clk 0:08:43.4]} 7. Nd5 {[%clk 0:08:21.7]} 7... Qd8 {[%clk 0:08:26.1]} 8. Nxc7+ {[%clk 0:08:06.9]} 1-0
+
+

@@ -1,0 +1,357 @@
+so this is the 10 minute speed run
+um which is going to be a climb from the
+beginner level
+to approximately 2000 to 2200
+um but this time we're playing 10 minute
+games
+rather than five minute games the
+motivation behind this we play very
+aggressively with white
+very positionally with black so i'll
+i'll play subs
+maybe a little bit later but right now
+i'm just playing the general pool
+because i'm playing at the rating that i
+currently am
+um and we uh
+you know we discuss more during the game
+so that the post game
+analyses are more targeted toward
+people's questions um
+and you know sometimes i'll talk about
+stuff that i talked about in the five
+minute speed run
+but i'll also try to very vary the
+conversation vary the types of openings
+we play so hopefully we'll get a chance
+to talk about new stuff thank you the
+overtaker
+um and uh without further ado let's go
+ahead and play
+a 10-minute game you guys ready
+[Music]
+let's go caesar alonso one so we're
+playing with the white pieces
+now we're gonna play e4 most of the
+games and the opening that i have been
+experimenting with we played this
+yesterday nobody actually accepted this
+gambit
+uh but that is the danish gamut the
+danish gambit is definitely
+a full-fledged weapon for for beginners
+it's a great
+opening to teach you about how the
+pieces work
+and you can obviously score some quick
+wins okay so b6
+by my opponent is not a you know not not
+a great move he's turning it into a
+gambit himself
+um and there's no reason that we don't
+want to just take this pawn
+um i assume he wants to fianchetto his
+bishop
+i assume okay so f6 is
+i mean he's sort of playing kind of like
+a a danish gambit on the other side of
+the board now f6 is a very weakening
+move
+uh because it weakens the diagonal two
+blacks king
+and one of the big temptations that
+people have
+when they face a move like f6 is to
+deliver this check immediately queen h5
+check
+why is quinn h5 not as effective as it
+looks though and what should we do
+thank you mila ciar for the for the
+prime yeah so the reason is that black
+can block with his pawn and force the
+queen back
+it's too early does that mean quinn h5
+is
+uh not useful absolutely not it might
+become useful
+in many different circumstances so
+instead we should not overthink it
+you know the pawn on e5 it's not really
+hanging due to the threat of queen h5
+um and that's actually a pretty
+important detail
+so bishop c4 looks like an amazing move
+to actually exploit another weakness
+that f6 has
+uh the weakening of this diagonal which
+will
+make it impossible in the long term for
+black to castle right because the bishop
+covers the g8 square that would become
+illegal
+um julia one one if you're a beginner
+chances are you've heard the principle
+nights before bishops
+um and you might look at this and say
+well aren't you violating that
+how did you know that here you should
+develop your bishop first well the logic
+is
+uh he's played a move like f6 which is
+sort of beyond the pale
+and for that reason um
+that necessitates a change of our
+approach and we actually have a really
+cool idea here
+now 97 is is he's trying to develop his
+pieces
+but now he's allowing a really cool
+combination queen h5 check
+and i hope he plays g6 that'll allow us
+to play a really cool move
+knight g6 here would actually be
+relatively speaking the best move
+yes he's got g6 so what idea am i
+thinking of guys
+very pretty main how do i even see this
+in the first week the moment he played
+97
+i'm looking at his king and i'm saying
+that his king is
+um his king
+is devoid of squares thank you the red
+eye jedi tv it has no squares and the
+knight is just taking away its final
+square
+the bishop takes away the f7 square so
+immediately
+i'm starting to think about potential
+mates and because we have a pawn on e5
+i'm just seeing
+that this pawn could land on f7 and so
+that's why
+we induced g6 now the pawn on f6 loses
+its support
+and we might get a chance to deliver the
+pawn made i'm assuming he takes the
+queen yep and f7 is made very nice
+that's kind of a cool name i lie always
+i always like pond mates
+um so well that was a nice one
+so e4 e5 d4 nobody
+has actually taken the pawn yet nobody
+has accepted the danish gambit we faced
+knight c6
+we faced ed and then c5 this guy plays
+b6
+um and after d takes e5 the best
+approach for black would have been
+to follow through with bishop b7
+obviously black is no compensation for
+the fun
+okay so f6 and now bishop c4
+um so what exactly would we have done in
+the event of f take c5 who can tell me
+the most precise idea here for white and
+white is several good moves
+but there is sort of a classic
+refutation
+to uh something like this which occurs
+in other positions and that is
+so knight f3 is fine of course but we
+can win the game with queen h5
+so what has changed from from this
+position right what has changed
+well the only thing that's changed is
+that the pawn has landed on e5 and
+paradoxically
+the fact that black spawn is now on e5
+rather than white spawn is actually in
+white's favor because after queen h5 g6
+queen takes e5 forks the great king in
+the rook this is a very common tactical
+theme
+in many different types of openings
+particularly in an opening called the
+damiano
+which i've talked about before that's
+where after knight f3 black plays the
+move f6 immediately
+and as some of you may know white has
+knight takes c5 very famous
+sacrifice that's been around since 17th
+century
+and the idea is to position black's pawn
+on e5 in order to pick it off with a
+fork
+this literally is as old as the hills so
+it's the same kind of concept here
+of course in a slightly different
+slightly different clothing
+and if the king moves up then this is
+literally checkmate
+and that's part of the reason the bishop
+is so so good here okay
+so he goes 97 and now we go queen h5
+check
+um and once again always look at your
+opponent's king in these situations
+and in the moment that the king has no
+squares you need to start looking at
+potential checkmating configurations
+eventually if you solve a lot of puzzles
+your brain will do
+will do this for you i don't need to
+turn the engine on kind of thing it goes
+into the gear
+automatically right the transmission is
+automatic i know to look for this
+because i've seen a million patterns
+like this before some other mate type
+ideas
+but if you're new to chess or if you
+don't have as much experience you don't
+need to feel
+embarrassed to tell yourself this okay
+now i need to look for mates
+and it takes a long time for this to
+become automatic so queen h5 check
+g6 he takes f6 and he's absolutely
+busted because we're threatening the
+night with threatening mate
+uh had he gone knight g6 ryan smith
+thank you the best thing to do would
+have just been to develop our night and
+to develop the other night in castle and
+we're
+absolutely dominating here because he
+cannot castle like
+basically ever because the bishop covers
+the g8 square
+okay so there's nothing extraordinary
+that i had cooked up here oh there's
+actually one thing we can do
+thanks anu there's actually one thing we
+can do let's let's say it makes a random
+look now i'm looking at this pin right
+and in the first speeder and i talked
+frequently about um
+a way of categorizing or classifying
+pins by how dangerous they are
+the bottom line is that there is a pawn
+defending the pinned piece
+and i i made a funny i think i don't
+think this is actually a word but
+i call the knight the pin piece and then
+the king is the penny
+like you know like hunter hunty um it's
+not a real word but that's a good way to
+keep straight the two components of a
+pen this is the pinner
+the king is the penny the piece that is
+on the opposite end
+and then the knight or whatever pieces
+in the middle is the pinned piece
+right the knight is the piece that is
+pinned and if the pin piece is defended
+by a pawn
+it's a lot safer most of the time than a
+pin piece that's not defended by a pawn
+that doesn't mean you can't put pressure
+on a pin piece even if it's defended by
+a pawn
+and uh you have a crushing idea knight
+h4 yeah knight h4
+and you're not trying to win the night
+it's what what makes this crushing is
+the fact that black is a rook on a tree
+that's undefended and
+this entire construction falls apart you
+can take on g6 and give may you can also
+take the rook
+this is just a very one-sided stuff okay
+um so you have to look for this kind of
+stuff when you're pinning
+uh a piece to the king and when the king
+is this exposed lpdo type two that's
+right
+um and i'll talk about that a little bit
+later okay any questions about this game
+we'll definitely be able to sneak
+another one in attacker and attackee
+any questions ladies and gentlemen and
+again i say this yesterday questions are
+great
+um please don't feel like oh people are
+going to think you're weak or
+you people know that you're a beginner
+we're here to learn chances are
+if you have a question you're not sure
+whether to ask it a lot of people have
+the same question
+um you know try i know you have jobs
+stuff that you do a lot better than i do
+this is like we're not here to uh to
+posture and to compare ratings
+um so totally i mean as long as it's a
+good faith
+question you can feel free to ask it
+is it better to accept or decline the
+danish so the best line against the
+danish i won't reveal it just yet
+but the best thing to do is to accept
+both pawns actually to take on
+on v2 and now there's a disconnect
+between what
+um some books recommend and what i think
+the best variation actually is i do need
+to analyze this to
+tell you for sure but i think this check
+on before according to the computer
+is the best move and then you know the
+theory is very complicated black is
+better here if he plays very accurately
+but obviously um that shouldn't stop you
+from playing the danish the fact that
+the computer evaluates it a certain way
+should by no means enter into your
+considerations at all
+until you're like 16 1700.
+um well queen e7 here
+would would not fix the underlying
+problem which is that black is
+underdeveloped and
+i would actually invite black to take
+the pawn and yesterday i introduced
+this notion a little bit cheesy but
+again i call this gambit mentality
+gambit mentality is when you're not only
+just like
+sacrificing the pawn that you're
+supposed to sacrifice
+uh to play the gambit but you're ready
+to sacrifice more than just that initial
+pawn
+um in order to play in the spirit of the
+gambit so it would be very inconsistent
+here to say oh no you know my pawns on
+e4 is attacked
+let's play queen takes d4 if you want to
+have that mentality fine but don't play
+the gamut in the first place you have to
+be consistent in how you're approaching
+the position
+okay um so and by the way
+the classical move in this position that
+is recommended that has been recommended
+for
+over 100 years is d5 sacrificing back
+one of the pawns in order to open up and
+pave the way
+for rapid more rapid development and
+this leads to its own theory
+we'll talk about it later let's jump
+into the next game unless there are any
+other questions um
+[Music]
+okay

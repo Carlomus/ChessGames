@@ -1,0 +1,588 @@
+well let's do some speed running we are
+11 12.
+climbing up this is the third
+the third speed run
+and uh just to remind everybody we're
+playing
+fundamental openings we're playing e4 e5
+d4 d5 and with white we're playing e4
+repertoire but very
+very basic openings to emphasize
+to emphasize fundamentals
+[Music]
+okay
+let's begin
+let's go e4
+all right so g6 uh this is the first
+time that we are encountering this move
+in the speed run
+we've encountered it many times before
+and of course as you guys know
+first we need to play d4
+maybe i should have bishop h16
+uh and and in this situation there's
+there's many many setups that you can
+adopt many setups that you can adopt
+with white but i'm going to teach you
+guys one that i like to play in blitz
+and it's quite annoying to face because
+people who play the modern generally are
+looking for a pretty tactical game
+and knight c3 will often lead to those
+kinds of positions
+but you can play an interesting move
+here you can play the move c3 with the
+pawn
+and this creates
+essentially a pawn chain
+so that the bishop is biting on granite
+and the downside of this move
+is that it deprives the knight of the c3
+square but as i often say that's not a
+problem later on the knight can develop
+to d2
+and just like in the london when you
+build a little pawn house you want to
+put the bishop
+in in that hole bishop d3
+and now you develop normally and so the
+only real point of this is that black's
+bishop is essentially harmless for the
+time being
+yeah we can play knight f3 first it
+doesn't doesn't really matter bishop d3
+knight f3
+don't put too much weight into like
+which particular developing movement as
+long as you try not to develop this
+knight until the dark squared bishop is
+out
+if possible that's not always possible
+and there's ways of dealing with it if
+you have to play knight t2 first
+okay so he goes d5
+um so we have to determine whether e5 is
+good for us and i think it is
+there's a couple of reasons for that
+he's weakened all these dark squares
+and closing up the center is going to
+give us an easier job of of exploiting
+them so to me e5 is basically a
+no-brainer here he can play this like in
+a french you can play c5 but then we're
+just gonna go knight f3
+okay so knight f3 let's continue
+developing
+and c5 so he does end up going c5 now we
+don't need to react to that move we can
+play d take c5 that's a possibility and
+try to cling to the extra pawn but i
+don't really think that's in the spirit
+of the position i think we should just
+continue developing we don't have to
+worry about the pressure on the d4 pawn
+it's not reached any kind of
+dangerous levels just yet okay so c4 i
+think helps us a lot
+he continues to lock up the center and
+what's going to eventually happen is
+that we're going to have
+basically a blank check to attack on the
+king side and why do i say we're going
+to attack on the king side largely
+because he's got these massive
+weaknesses
+on the dark squares which eventually
+we're going to try to occupy with
+possibly this night
+who can tell me what maneuver is
+necessary in order to get the b1 knight
+in a position where it can ultimately
+try to exploit uh the the the f6 square
+and i propose that we start with a move
+that may seem mysterious it looks
+actually quite bad
+which is rookie one and a lot of you
+guys are finding it and the point is to
+vacate the f1 square for the night what
+we're going to do is go knight bd2
+knight f1 and then either knight e3
+knight g4
+or even knight g3 with a potential
+sacrifice on h5
+which sometimes happens if you think
+about this bishop you can kind of put
+together
+the dots
+and we also could play bishop g5 but
+that's not mandatory we're not worried
+about him pushing his f pawn so let's
+just continue with the general plan
+knight f1
+knight e3 knight g4 and then we're going
+to try to put that knight on f6
+okay so a little
+spanner in the works goes knight f5
+which is a good move now we can take
+that knight but i don't really like that
+idea why give up this bishop we can go
+g4 to kick the knight away
+but
+i'll show this after the game there's
+the move knight h4 in those kinds of
+positions which is quite nasty
+um
+so bishop g5 feels very natural here
+because we're exploiting the drawback of
+knight f5 we're hitting the queen with
+tempo and we're still clamping down on
+the f6 square
+and now the move g4 becomes
+more possible although if we put a pawn
+on g4 we take away that square from the
+knight so let's see where he puts his
+queen and then we'll decide okay goes f6
+and this basically does our work for us
+because when this move is played in the
+wrong types of positions
+what's going to happen at the end of the
+day is that this e5 square is going to
+be a huge huge weakness for black
+and our job is to occupy that square
+preferably with a knight but not
+immediately if we go 95 immediately he
+takes it and then the knight has to be
+replaced to the rook and the rook's not
+the best blockader
+so we can take different approaches in
+this position
+my favorite approach is to start by
+trading off black's only active piece
+which is the f5 knight but not with a
+bishop i still like this bishop i want
+to give it away
+so what move am i thinking of which is
+still in accordance with our general
+plan
+which is still in accordance with the
+general point we can also play queen d2
+here very flexible move knight e3 or
+knight g3 i like knight e3 because we're
+also aiming for g4 once again
+and if black ignores us we can play
+knight g495 which is exactly what's
+going to happen knight g4 this is not
+worrisome the pawn on c3 is safe
+and another thing to remember when
+you've got this kind of situation with
+full control over a square you don't
+need to rush
+i see this very often you don't need to
+rush to put a piece there right there's
+no nobody's going to do anything with
+that e5 square so what i like is a more
+flexible player so let's connect the
+rooks first
+and maybe on the next move we'll put a
+knight on e5 but sometimes the threat is
+stronger than the execution here
+so we connect our rooks maybe we'll
+double on the e file
+and such positions are generally not
+you can't win them very fast you have to
+be very patient okay so he's basically
+forcing us to go 95.
+uh i will oblige
+and of course we take on e5 with the
+knight
+yeah this pawn is like in general
+black's pawn structure is just horrific
+we can also put a queen on g5
+okay but in general i propose a slow
+approach here where we improve our
+position methodically and slowly and not
+you know we don't do anything drastic
+even queen g5 i don't like as much
+because black can go queen f6 in
+response
+and offer a queen trade and i i want to
+keep the queens on the board in this
+position so
+what's the go-to plan
+when uh
+in such positions is is to double the
+rooks on the e-file but
+before we even do that there is a
+potentially worrisome source of counter
+play which is the move g5
+um
+but it doesn't really work and if he
+goes g5 i'll show you guys why
+in general if you're playing these kinds
+of positions with black
+you have to try to get some form of
+activity whether it's on the king side
+or
+in the center i mean if you just sit
+around passively and let your opponent
+destroy you
+you're not going to last very long
+okay so in this position i think it's a
+great idea to prevent g5 why is g5
+dangerous because
+if we let black unfold his pieces on the
+king's side you know you can go g5 h4
+and then this bishop from e8 can
+activate on h5 so why allow
+the ex king side expansion so the move
+that comes to mind is either h or f4
+but f4 is a little bit weakening f4
+cuts off the diagonal for the queen so
+let's go h4 and then we can go g3 you
+often see this pawn arrangement on the
+king side knight g4
+and general as i said
+uh we want to keep a knight on e5 so
+generally speaking a trade wouldn't be
+good but if you just look at this
+position concretely you can see that
+we're just transforming our advantage
+our knight did its job on e5 now we take
+on g4 and we can simply take this pawn
+on e6
+and now we are we're up upon and we
+still have
+this monster e5 square
+and bishop d7 and this will often happen
+just total collapse
+don't automatically move your rook back
+just
+marinate on this position for a second
+don't forget about your bishop on c2
+there's a reason we kept it on the board
+there's a reason we kept it on the board
+and the reason is rook takes g6 and he
+resigns
+before we get a chance to play it
+okay that was a nice positional game
+simple but
+but nice
+okay
+time for some analysis
+so yeah this is called the modern the
+modern defense it's closely related to
+the perk
+which is e4 d6 and these openings often
+transpose into each other and the perk
+black plays knight f6 and then g6 so in
+the modern black delays the development
+oops black delays the development of
+the g8 knight
+for
+many reasons sometimes then i goes to e7
+as it did here
+um and sometimes black waits for the
+most opportune moment to go knight f6
+so d4 bishop g7 now the move c3 which is
+far from the most popular and most
+people develop one of the knights here
+knight c3 and knight f3 and in previous
+speed runs we've played knight c3 which
+is sort of the classical approach i like
+knight c3 more than knight f3 uh because
+this allows you to play the austrian
+attack and the austrian attack is the
+move f4
+often considered sort of the most
+principled way of meeting the perk of
+the mod not necessarily the best but the
+most ambitious
+and you can also play f3 in these
+positions and go for an english attack
+setup with bishop e3
+and in a sense we're doing the same
+thing on the other side of the board
+which is of course a lot more positional
+we go c3
+uh blunting the bishop
+and and then bishop d3 so generally of
+course black does not play e6 black
+plays d6 and gets into a perk
+and i play this line very frequently in
+in over the board blitz against strong
+opponents thank you curious for the five
+gifted godakamsky is also well known for
+liking the setup with white and
+basically this bishop goes to g5 then
+the knight goes to d2 and you're playing
+against the g7 bishop if black is
+accurate
+are you curious again if black is
+accurate
+this is not the most dangerous system
+but it's easy to play and it's easy to
+understand
+um he plays z6 which is like i don't
+remember what what is the setup called
+is that the hippo when black goes like
+97 97 and then double fiance i never
+remember what it's called
+i think it's the hippo yeah
+so the hippo can be good against certain
+setups but
+here our opponent played some weird
+mixture of the hippo in the french which
+is no good d5 is a mistake strategically
+yeah i mean if you can trade dark
+squared bishops that would be awesome
+because it would oftentimes expose even
+further expose the weakness of the dark
+squares
+if black wants to play a hippo then you
+should go d6 and then b6
+bishop b7 and it's not so bad it's not
+so easy to crack the hippo
+um
+it's a highly underrated
+opening in fact against many different
+setups if white plays the right setup
+the hippo i think can be shattered
+pretty quickly
+but not not necessarily the way that
+i've played it
+okay so d5 i hope e5 made sense of
+course we don't want to trade on d5 here
+that just
+solves all of black's problems thank you
+for the thousand bits yes i will
+um 97 now we play knight f3
+a lot of people in this type of position
+make a
+a move that i don't really like as much
+which is f4 this looks good right you're
+building up your center first of all
+this is unnecessary it's not like e5 the
+five pawn is a weakness that needs to be
+defended second of all you're making it
+harder for yourself to exploit the dark
+squared weaknesses now your bishop can't
+come out
+and you know you occupy real estate on
+the king side it's going to make it
+harder for you to maneuver
+so
+f4 is is good in positions where you
+have a realistic shot at playing f5
+but here you obviously don't because
+black is defending this with like 800
+pieces
+uh so i think knight f3 is just more
+more reasonable okay so c5
+castles and and c4 is a
+i think another inaccuracy black should
+probably keep some tension going on the
+square
+to at least uh
+to at least divide our attention because
+the way he played it we
+we can just divert all of our attention
+to the king side
+okay
+so castles
+and now again rookie one the whole point
+is to open up this pathway for the night
+and you might be asking well i've talked
+before about the three move role and how
+to evaluate whether ideas are realistic
+remember that this is a highly closed
+center so
+you have a lot more time the atoms in
+the position move a lot more slowly
+so
+you can think of the temperature as
+being pretty low here um and so you have
+a lot of time to to move your pieces
+around from side to side
+all right so knight bc6 and now we start
+the maneuver
+basically the three move rule says well
+it's not a formal rule but
+if you have an open a position with an
+open or semi-open center
+if an idea takes three moves or longer
+it's likely unrealistic like that's all
+that it is
+um and it's it's got a lot of exceptions
+okay
+what should black play if not for f6
+well black should probably play for
+queen side pressure b5 before
+i i honestly think black is
+strategically in huge trouble
+uh so he's already made a lot of
+mistakes
+um what about h4 instead of castles asks
+dave h four instead h4 is an interesting
+approach but it kind of burns the
+bridges
+because now if you want to castle king
+side it's not as appetizing yeah in some
+of these positions h4 is good but black
+can go h6
+and create these these annoying pawns
+where if you go h5 then black goes g5
+uh but i'll tell you when h4 is good if
+if the f pawn can move to f4 then
+sometimes h4 can be good
+but for example
+in this position i would
+consider h4 more heavily because if
+black plays h6 there's this typical idea
+of going h5
+creating a weakness on g5 and now
+hitting it with f4
+this is an example of when f4 actually
+impacts the position and you start
+opening up black's king side so this
+would be an interesting approach if we
+played knight f3 then it doesn't make as
+much sense
+okay so knight f1 knight f5
+now we get our bishop out with tempo and
+f6 is maybe even the decisive mistake
+i would say that
+black has to keep
+i mean
+black has to refrain from that move and
+play like queen b6
+but again this is really bad we would go
+queen c1
+yeah you can go h4
+you can move the h-bond but not in order
+to attack but in order to go knight h2
+knight g4 and knight f6 that is another
+pathway to the f6 square
+that is another pathway to the f6 square
+so
+[Music]
+black is strategically busted here
+there's very little the black can do
+very little little the black can do
+against
+kind of dark square infiltration
+um
+yeah i'm at a loss to say
+what black can even play here maybe the
+lesser evil is to go queen c7 and try to
+go b5 b4 but that doesn't even give
+black anything
+okay so f6 takes takes bishop f6 queen
+f6 and now knight e3
+our main
+advantage of course is this e5 square
+more broadly the fact that black has a
+terrible bishop
+a terrible pawn on e6 and we have
+massive pressure down the e file
+um b5
+knight g4 well like i explained f6 was a
+mistake because it increases the
+accessibility to
+this weak square it also basically
+prevents black from ever having any
+counterplay because black is never going
+to be able to go e5
+um
+and as long as that's the case
+you're basically sitting on black's
+position permanently
+okay queen d2
+h5 creates even more weaknesses although
+again the position's already hopeless
+strategically
+and now very patiently just doubling
+rooks on the e-file
+yeah white also has zero risk of losing
+this position thank you aiden parker for
+the five gifted subs
+um
+i mentioned earlier that
+we weren't afraid of the move g5
+who can find a strong response for white
+in this position
+yeah i mean you can play rookie one but
+that that doesn't really uh prevent
+black from continuing to expand yeah
+knight f3 i think is a very strong move
+here
+it's a very hard move to find for
+multiple reasons it's a night move
+backwards which is already
+one of the most difficult moves in chess
+it also moves the knight away from the
+outpost but here we're simply going
+after black spawns we're attacking g5
+we're attacking e6
+and if black plays g4
+then you go knight g5 and the e6 bond
+cannot be defended and black's hole
+position collapses
+and this leads me to an important point
+which is that if you have
+a piece on an outpost don't assume that
+it has to stay there for all of eternity
+the important thing isn't that we have a
+knight on e5 it's that we have control
+of the square
+that's also why in isolated queen pawn
+positions
+i always try to emphasize it's less
+important to put a piece on the
+blockading square in front of the pawn
+but
+much more important rather to have full
+control of that square so you don't have
+to worry about
+uh your opponent playing e5 and freeing
+himself up does rook f5 defend the epon
+yeah i mean you can play rook f6 but
+then you'll lose the g pawn
+but once he played sorry once he played
+uh
+knight h6 now g5 is more of a well it's
+still not really a threat but i was just
+this was giving me a headache so we now
+have a possibility of just stopping
+everything
+so knight g4 and of course
+again we are flexible in regards to
+trading knights because we win the pawn
+more resilient would have been bishop f7
+but then we would have just parked the
+rook on e5 h5 is now a threat and the
+position is lost
+yeah this isn't just about upon black
+soul position falls apart instantly as
+soon as the flood gates open and black's
+position is just so riddled with
+weaknesses it's impossible to hold um
+g5 is not such a big threat again
+don't think of things just as threats or
+not threats right when i say a move is
+unpleasant it doesn't mean because oh
+you're going to lose your queen on the
+next one
+g5 and h4 opens up some space on the
+king side and especially as i mentioned
+that this bishop can come alive through
+h5 that gives black unnecessary counter
+play and if possible you want to prevent
+these things what was the critical
+mistake for black
+there wasn't one there were several i
+mean already d5 is a mistake
+then c4 is a mistake because it takes
+the pressure off of the d4 pawn
+and then f6 might be the decisive
+mistake
+[Music]

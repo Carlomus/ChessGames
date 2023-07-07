@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.30"]
+[Round "-"]
+[White "OhMyLands"]
+[Black "basir533333"]
+[Result "1-0"]
+[CurrentPosition "r3kb1r/ppp3p1/1n2q3/3n3p/8/8/PPP2PPP/RNBQR1K1 b kq -"]
+[Timezone "UTC"]
+[ECO "C41"]
+[ECOUrl "https://www.chess.com/openings/Philidor-Defense-Hanham-Variation-4.Bc4"]
+[UTCDate "2021.03.30"]
+[UTCTime "08:20:00"]
+[WhiteElo "1307"]
+[BlackElo "1304"]
+[TimeControl "600"]
+[Termination "OhMyLands won by resignation"]
+[StartTime "08:20:00"]
+[EndDate "2021.03.30"]
+[EndTime "08:24:19"]
+[Link "https://www.chess.com/game/live/10831566525"]
+
+1. e4 {[%clk 0:10:00]} 1... e5 {[%clk 0:09:58.4]} 2. Nf3 {[%clk 0:09:59]} 2... d6 {[%clk 0:09:57]} 3. d4 {[%clk 0:09:31.6]} 3... Nd7 {[%clk 0:09:51.5]} 4. Bc4 {[%clk 0:08:50.4]} 4... Ngf6 {[%clk 0:09:48.5]} 5. Ng5 {[%clk 0:08:41.8]} 5... d5 {[%clk 0:09:44.8]} 6. exd5 {[%clk 0:08:41.2]} 6... Nb6 {[%clk 0:09:36]} 7. Bb5+ {[%clk 0:08:21.1]} 7... Bd7 {[%clk 0:09:25.9]} 8. Bxd7+ {[%clk 0:08:20.1]} 8... Qxd7 {[%clk 0:09:20.1]} 9. dxe5 {[%clk 0:08:06.3]} 9... Nfxd5 {[%clk 0:09:18.1]} 10. O-O {[%clk 0:08:04]} 10... h5 {[%clk 0:09:05.2]} 11. e6 {[%clk 0:07:25.5]} 11... fxe6 {[%clk 0:08:59.9]} 12. Nxe6 {[%clk 0:07:24.5]} 12... Qxe6 {[%clk 0:08:35.5]} 13. Re1 {[%clk 0:07:23.3]} 1-0
+
+

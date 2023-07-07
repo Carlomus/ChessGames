@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.03.06"]
+[Round "-"]
+[White "AZ_Zeka"]
+[Black "SenseiDanya"]
+[Result "0-1"]
+[CurrentPosition "r3k2r/pp3pp1/1q2p3/2bpP2p/2pN1P2/2PbnN1P/PP3RP1/R2Q2K1 w kq -"]
+[Timezone "UTC"]
+[ECO "B21"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-McDonnell-Attack-2...d5-3.e5"]
+[UTCDate "2022.03.06"]
+[UTCTime "04:55:52"]
+[WhiteElo "1606"]
+[BlackElo "1665"]
+[TimeControl "600"]
+[Termination "SenseiDanya won by resignation"]
+[StartTime "04:55:52"]
+[EndDate "2022.03.06"]
+[EndTime "05:03:58"]
+[Link "https://www.chess.com/game/live/40281581605"]
+
+1. e4 {[%clk 0:09:58.2]} 1... c5 {[%clk 0:09:55.8]} 2. f4 {[%clk 0:09:56.7]} 2... d5 {[%clk 0:09:31.5]} 3. e5 {[%clk 0:09:54.9]} 3... Bf5 {[%clk 0:09:06.3]} 4. Nf3 {[%clk 0:09:48.4]} 4... Nc6 {[%clk 0:08:56.1]} 5. Bb5 {[%clk 0:09:45.8]} 5... Qb6 {[%clk 0:08:20.4]} 6. Bxc6+ {[%clk 0:09:41]} 6... Qxc6 {[%clk 0:08:19.3]} 7. d3 {[%clk 0:09:31.9]} 7... e6 {[%clk 0:08:16.4]} 8. O-O {[%clk 0:09:28.9]} 8... Be7 {[%clk 0:07:22.8]} 9. c3 {[%clk 0:09:24.1]} 9... h5 {[%clk 0:06:59.9]} 10. h3 {[%clk 0:09:19.5]} 10... Nh6 {[%clk 0:06:56.3]} 11. Ng5 {[%clk 0:09:05.3]} 11... Bg6 {[%clk 0:06:31.6]} 12. Nd2 {[%clk 0:08:38.2]} 12... Bxd3 {[%clk 0:06:20.2]} 13. Rf2 {[%clk 0:08:29.1]} 13... c4 {[%clk 0:05:47.6]} 14. Ndf3 {[%clk 0:07:58.9]} 14... Nf5 {[%clk 0:05:31.6]} 15. Nd4 {[%clk 0:07:40.4]} 15... Qb6 {[%clk 0:04:55.8]} 16. Ngf3 {[%clk 0:07:27.6]} 16... Bc5 {[%clk 0:04:49.3]} 17. Be3 {[%clk 0:07:19.5]} 17... Nxe3 {[%clk 0:04:47.7]} 0-1
+
+

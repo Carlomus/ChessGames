@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.04"]
+[Round "-"]
+[White "zaidanferizqo"]
+[Black "OhMyLands"]
+[Result "0-1"]
+[CurrentPosition "rn2k2r/p1pp1ppp/8/1p2p3/P3b3/B7/1Kqb2PP/R6n w kq -"]
+[Timezone "UTC"]
+[ECO "C20"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Mengarini-Opening"]
+[UTCDate "2021.03.04"]
+[UTCTime "08:45:46"]
+[WhiteElo "231"]
+[BlackElo "465"]
+[TimeControl "600"]
+[Termination "OhMyLands won by checkmate"]
+[StartTime "08:45:46"]
+[EndDate "2021.03.04"]
+[EndTime "08:54:46"]
+[Link "https://www.chess.com/game/live/8586389713"]
+
+1. a3 {[%clk 0:09:43.4]} 1... e5 {[%clk 0:09:54]} 2. e4 {[%clk 0:09:39.3]} 2... Nf6 {[%clk 0:09:11.4]} 3. Ba6 {[%clk 0:09:31.7]} 3... bxa6 {[%clk 0:08:55.5]} 4. Nc3 {[%clk 0:09:25.5]} 4... Bb7 {[%clk 0:08:21.9]} 5. Nb5 {[%clk 0:09:15.8]} 5... axb5 {[%clk 0:08:16.7]} 6. b4 {[%clk 0:09:12.5]} 6... Nxe4 {[%clk 0:07:48.5]} 7. a4 {[%clk 0:09:02.3]} 7... Bxb4 {[%clk 0:06:43.4]} 8. Ba3 {[%clk 0:08:57.4]} 8... Bxd2+ {[%clk 0:06:24.8]} 9. Ke2 {[%clk 0:08:27.3]} 9... Nc3+ {[%clk 0:06:09]} 10. Kf1 {[%clk 0:08:22.1]} 10... Nxd1 {[%clk 0:06:07.8]} 11. c4 {[%clk 0:08:06.4]} 11... Nxf2 {[%clk 0:05:21.8]} 12. Ne2 {[%clk 0:08:02.2]} 12... Nxh1 {[%clk 0:05:19.9]} 13. Nd4 {[%clk 0:07:53.6]} 13... Qf6+ {[%clk 0:05:18.1]} 14. Ke2 {[%clk 0:07:44.7]} 14... Qf2+ {[%clk 0:05:16.7]} 15. Kd3 {[%clk 0:07:42.3]} 15... Qxd4+ {[%clk 0:05:00.8]} 16. Kc2 {[%clk 0:07:37.1]} 16... Be4+ {[%clk 0:05:00]} 17. Kb3 {[%clk 0:07:28.2]} 17... Qc3+ {[%clk 0:04:59.1]} 18. Ka2 {[%clk 0:06:39.2]} 18... Qxc4+ {[%clk 0:04:57.7]} 19. Kb2 {[%clk 0:06:13.9]} 19... Qc2# {[%clk 0:04:55.7]} 0-1
+
+

@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.10"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "Malush13"]
+[Result "1-0"]
+[CurrentPosition "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3"]
+[Timezone "UTC"]
+[ECO "B00"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening"]
+[UTCDate "2020.12.10"]
+[UTCTime "07:36:57"]
+[WhiteElo "1893"]
+[BlackElo "1885"]
+[TimeControl "300"]
+[Termination "SenseiDanya won - game abandoned"]
+[StartTime "07:36:57"]
+[EndDate "2020.12.10"]
+[EndTime "07:37:19"]
+[Link "https://www.chess.com/game/live/5930610989"]
+
+1. e4 {[%clk 0:04:59.7]} 1-0
+
+

@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.05.23"]
+[Round "-"]
+[White "adyagv"]
+[Black "OhMyLands"]
+[Result "0-1"]
+[CurrentPosition "2kr3r/1p3p2/6bb/1N5p/2n2p1P/P1P1pP2/1P4P1/RN2K2R w KQ -"]
+[Timezone "UTC"]
+[ECO "A45"]
+[ECOUrl "https://www.chess.com/openings/Indian-Game...5.Nd2-Qb6-6.Qb3-c4"]
+[UTCDate "2021.05.23"]
+[UTCTime "06:47:53"]
+[WhiteElo "1811"]
+[BlackElo "1778"]
+[TimeControl "600"]
+[Termination "OhMyLands won by resignation"]
+[StartTime "06:47:53"]
+[EndDate "2021.05.23"]
+[EndTime "06:57:51"]
+[Link "https://www.chess.com/game/live/15491538871"]
+
+1. d4 {[%clk 0:09:59.6]} 1... Nf6 {[%clk 0:09:56.6]} 2. Bf4 {[%clk 0:09:58.6]} 2... d5 {[%clk 0:09:13.2]} 3. e3 {[%clk 0:09:33.3]} 3... c5 {[%clk 0:08:58.5]} 4. c3 {[%clk 0:09:29.1]} 4... Nc6 {[%clk 0:08:41]} 5. Nd2 {[%clk 0:09:00.8]} 5... Qb6 {[%clk 0:08:16.2]} 6. Qb3 {[%clk 0:08:57]} 6... c4 {[%clk 0:07:51.5]} 7. Qxb6 {[%clk 0:08:50.5]} 7... axb6 {[%clk 0:07:50.1]} 8. a3 {[%clk 0:08:46.6]} 8... b5 {[%clk 0:07:12.4]} 9. e4 {[%clk 0:08:43.9]} 9... dxe4 {[%clk 0:06:38.6]} 10. Bg5 {[%clk 0:08:41.2]} 10... Bf5 {[%clk 0:05:59.7]} 11. Ne2 {[%clk 0:08:36.9]} 11... Bg6 {[%clk 0:05:47.1]} 12. Ng3 {[%clk 0:08:31.6]} 12... e5 {[%clk 0:05:02.3]} 13. Bxf6 {[%clk 0:08:12.1]} 13... gxf6 {[%clk 0:05:00.9]} 14. dxe5 {[%clk 0:08:04.7]} 14... f5 {[%clk 0:04:30.6]} 15. h4 {[%clk 0:07:56.9]} 15... h5 {[%clk 0:04:25.7]} 16. f3 {[%clk 0:07:50.6]} 16... e3 {[%clk 0:04:00.7]} 17. Nb1 {[%clk 0:07:42]} 17... f4 {[%clk 0:03:58.4]} 18. Ne2 {[%clk 0:07:34.9]} 18... Bh6 {[%clk 0:03:37.4]} 19. Nd4 {[%clk 0:07:32.5]} 19... Nxe5 {[%clk 0:03:00.3]} 20. Nxb5 {[%clk 0:07:29.9]} 20... O-O-O {[%clk 0:02:54.1]} 21. Bxc4 {[%clk 0:07:24.1]} 21... Nxc4 {[%clk 0:02:52.6]} 0-1
+
+

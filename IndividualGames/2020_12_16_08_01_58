@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.16"]
+[Round "-"]
+[White "Levansalamadze"]
+[Black "SenseiDanya"]
+[Result "0-1"]
+[CurrentPosition "r3r1k1/p4ppp/8/2n5/2p2P2/2P2R1P/PP1Nq2P/R1B4K w - -"]
+[Timezone "UTC"]
+[ECO "B20"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Bowdler-Attack-2...Nc6"]
+[UTCDate "2020.12.16"]
+[UTCTime "08:01:58"]
+[WhiteElo "2056"]
+[BlackElo "2038"]
+[TimeControl "300"]
+[Termination "SenseiDanya won by resignation"]
+[StartTime "08:01:58"]
+[EndDate "2020.12.16"]
+[EndTime "08:07:47"]
+[Link "https://www.chess.com/game/live/5978933171"]
+
+1. e4 {[%clk 0:05:00]} 1... c5 {[%clk 0:04:55.1]} 2. Bc4 {[%clk 0:04:58.7]} 2... Nc6 {[%clk 0:04:52.2]} 3. Nh3 {[%clk 0:04:57.5]} 3... Nf6 {[%clk 0:04:22.1]} 4. d3 {[%clk 0:04:54.2]} 4... e6 {[%clk 0:04:16.8]} 5. O-O {[%clk 0:04:53.1]} 5... d5 {[%clk 0:04:16.2]} 6. exd5 {[%clk 0:04:52]} 6... exd5 {[%clk 0:04:15.7]} 7. Bb5 {[%clk 0:04:51.2]} 7... Bxh3 {[%clk 0:04:02.1]} 8. gxh3 {[%clk 0:04:47.9]} 8... Be7 {[%clk 0:04:01.6]} 9. c3 {[%clk 0:04:46.4]} 9... O-O {[%clk 0:03:37.8]} 10. Bxc6 {[%clk 0:04:45.1]} 10... bxc6 {[%clk 0:03:36.6]} 11. f4 {[%clk 0:04:44.3]} 11... Re8 {[%clk 0:03:14.6]} 12. Qf3 {[%clk 0:04:43]} 12... c4 {[%clk 0:02:43.4]} 13. dxc4 {[%clk 0:04:40.9]} 13... Bc5+ {[%clk 0:02:27.2]} 14. Kh1 {[%clk 0:04:38.3]} 14... dxc4 {[%clk 0:02:24.3]} 15. Qxc6 {[%clk 0:04:34.3]} 15... Qd3 {[%clk 0:02:07.2]} 16. Nd2 {[%clk 0:03:54.5]} 16... Ne4 {[%clk 0:01:47.1]} 17. Rf3 {[%clk 0:03:44.7]} 17... Qe2 {[%clk 0:01:34.1]} 18. Qxc5 {[%clk 0:03:03.9]} 18... Nxc5 {[%clk 0:01:30.3]} 0-1
+
+

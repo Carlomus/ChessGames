@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.02.01"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "amit-sa"]
+[Result "1-0"]
+[CurrentPosition "2kR1b1r/1p4pp/pB3n2/4p1N1/8/2P5/P1P2PPP/5K2 b - -"]
+[Timezone "UTC"]
+[ECO "B00"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-St-George-Defense-2.d4"]
+[UTCDate "2022.02.01"]
+[UTCTime "08:05:28"]
+[WhiteElo "1469"]
+[BlackElo "1489"]
+[TimeControl "600"]
+[Termination "SenseiDanya won by checkmate"]
+[StartTime "08:05:28"]
+[EndDate "2022.02.01"]
+[EndTime "08:13:41"]
+[Link "https://www.chess.com/game/live/37441804843"]
+
+1. e4 {[%clk 0:09:59.8]} 1... a6 {[%clk 0:09:58.3]} 2. d4 {[%clk 0:09:51.4]} 2... d5 {[%clk 0:09:56.8]} 3. exd5 {[%clk 0:09:33.3]} 3... Qxd5 {[%clk 0:09:54.5]} 4. Nc3 {[%clk 0:09:21.7]} 4... Qd8 {[%clk 0:09:49.5]} 5. Bc4 {[%clk 0:08:47.2]} 5... Nc6 {[%clk 0:09:43.7]} 6. Nf3 {[%clk 0:08:20.7]} 6... Bg4 {[%clk 0:09:38.4]} 7. Bxf7+ {[%clk 0:08:11.8]} 7... Kxf7 {[%clk 0:09:33.4]} 8. Ng5+ {[%clk 0:08:10.6]} 8... Ke8 {[%clk 0:09:16.5]} 9. Qxg4 {[%clk 0:08:09.4]} 9... Nf6 {[%clk 0:09:11.2]} 10. Qe6 {[%clk 0:07:29.8]} 10... Nxd4 {[%clk 0:08:45.3]} 11. Qf7+ {[%clk 0:07:27.7]} 11... Kd7 {[%clk 0:08:41.8]} 12. O-O {[%clk 0:07:09.6]} 12... Kc8 {[%clk 0:08:32.3]} 13. Rd1 {[%clk 0:06:28.3]} 13... Ne2+ {[%clk 0:08:29]} 14. Kf1 {[%clk 0:06:15.5]} 14... Nxc3 {[%clk 0:08:19.3]} 15. Rxd8+ {[%clk 0:06:10.9]} 15... Kxd8 {[%clk 0:08:18.6]} 16. bxc3 {[%clk 0:06:08.9]} 16... Kc8 {[%clk 0:08:15.7]} 17. Bf4 {[%clk 0:05:42.8]} 17... Kb8 {[%clk 0:08:05.8]} 18. Rd1 {[%clk 0:05:19.7]} 18... Ka7 {[%clk 0:08:03.4]} 19. Bxc7 {[%clk 0:05:12]} 19... Rc8 {[%clk 0:08:00.7]} 20. Qc4 {[%clk 0:04:37]} 20... e5 {[%clk 0:07:50.9]} 21. Bb6+ {[%clk 0:04:30.1]} 21... Kb8 {[%clk 0:07:44.9]} 22. Qxc8+ {[%clk 0:04:17]} 22... Kxc8 {[%clk 0:07:42.8]} 23. Rd8# {[%clk 0:04:15.9]} 1-0
+
+

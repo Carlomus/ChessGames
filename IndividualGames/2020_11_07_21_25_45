@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.11.07"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "GroovyWorld"]
+[Result "1-0"]
+[CurrentPosition "rn1qkbnr/pp2pppp/2p5/3pPb2/3P4/8/PPPN1PPP/R1BQKBNR b KQkq -"]
+[Timezone "UTC"]
+[ECO "B12"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-Advance-Variation-3...Bf5-4.Nd2"]
+[UTCDate "2020.11.07"]
+[UTCTime "21:25:45"]
+[WhiteElo "1045"]
+[BlackElo "1205"]
+[TimeControl "300"]
+[Termination "SenseiDanya won by resignation"]
+[StartTime "21:25:45"]
+[EndDate "2020.11.07"]
+[EndTime "21:27:41"]
+[Link "https://www.chess.com/game/live/5704083103"]
+
+1. e4 {[%clk 0:04:59.9]} 1... c6 {[%clk 0:04:58.9]} 2. d4 {[%clk 0:04:54.1]} 2... d5 {[%clk 0:04:54.7]} 3. e5 {[%clk 0:04:49.3]} 3... Bf5 {[%clk 0:04:22.3]} 4. Nd2 {[%clk 0:04:38.2]} 1-0
+
+

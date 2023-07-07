@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.09.19"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "chessmeister2"]
+[Result "1-0"]
+[CurrentPosition "2r3k1/pp4p1/4n3/4pBB1/7R/8/PP4PP/7K b - -"]
+[Timezone "UTC"]
+[ECO "B21"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Smith-Morra-Gambit-Declined-Alapin-Formation-4.e5-Nd5"]
+[UTCDate "2022.09.19"]
+[UTCTime "06:58:40"]
+[WhiteElo "2207"]
+[BlackElo "2276"]
+[TimeControl "900+10"]
+[Termination "SenseiDanya won by resignation"]
+[StartTime "06:58:40"]
+[EndDate "2022.09.19"]
+[EndTime "07:38:09"]
+[Link "https://www.chess.com/game/live/57309469893"]
+
+1. e4 {[%clk 0:15:04.3]} 1... c5 {[%clk 0:15:03.3]} 2. d4 {[%clk 0:15:08.7]} 2... cxd4 {[%clk 0:15:08.4]} 3. c3 {[%clk 0:15:17.5]} 3... Nf6 {[%clk 0:15:12.5]} 4. e5 {[%clk 0:15:13.4]} 4... Nd5 {[%clk 0:15:19.6]} 5. Nf3 {[%clk 0:14:44.6]} 5... d6 {[%clk 0:15:18.8]} 6. cxd4 {[%clk 0:14:44.4]} 6... Nc6 {[%clk 0:15:24.9]} 7. Bc4 {[%clk 0:14:12.6]} 7... Nb6 {[%clk 0:15:31.4]} 8. Bb5 {[%clk 0:14:19.2]} 8... dxe5 {[%clk 0:15:36.7]} 9. Nxe5 {[%clk 0:14:28.2]} 9... Bd7 {[%clk 0:15:45.3]} 10. Nxd7 {[%clk 0:14:37.4]} 10... Qxd7 {[%clk 0:15:54.4]} 11. Nc3 {[%clk 0:14:30.9]} 11... e6 {[%clk 0:15:59.8]} 12. O-O {[%clk 0:14:38.5]} 12... Rd8 {[%clk 0:15:43.7]} 13. Be3 {[%clk 0:13:37.8]} 13... Be7 {[%clk 0:15:44.9]} 14. Rc1 {[%clk 0:11:53.2]} 14... O-O {[%clk 0:15:20]} 15. Qg4 {[%clk 0:09:03.1]} 15... Kh8 {[%clk 0:12:31.2]} 16. Rfd1 {[%clk 0:09:03.7]} 16... Nd5 {[%clk 0:09:39.4]} 17. Nxd5 {[%clk 0:08:29.6]} 17... Qxd5 {[%clk 0:09:46]} 18. Bc4 {[%clk 0:08:13.7]} 18... Qd6 {[%clk 0:08:18.4]} 19. Rd3 {[%clk 0:05:54]} 19... Bf6 {[%clk 0:06:24.4]} 20. Qe4 {[%clk 0:04:18.3]} 20... Bxd4 {[%clk 0:02:08.9]} 21. Rcd1 {[%clk 0:03:05.8]} 21... e5 {[%clk 0:02:13.8]} 22. Bg5 {[%clk 0:03:14.6]} 22... Rc8 {[%clk 0:01:34.1]} 23. Rh3 {[%clk 0:02:30.1]} 23... Qg6 {[%clk 0:01:02.3]} 24. Qxg6 {[%clk 0:01:24.9]} 24... fxg6 {[%clk 0:01:09.3]} 25. Rxh7+ {[%clk 0:01:33.7]} 25... Kxh7 {[%clk 0:01:14]} 26. Rd3 {[%clk 0:01:42.9]} 26... Bxf2+ {[%clk 0:01:02.9]} 27. Kh1 {[%clk 0:01:51.9]} 27... Bh4 {[%clk 0:00:26.2]} 28. Rh3 {[%clk 0:02:00.4]} 28... Rf4 {[%clk 0:00:34.6]} 29. Bxf4 {[%clk 0:02:09.2]} 29... g5 {[%clk 0:00:43.9]} 30. Bxg5 {[%clk 0:02:17.6]} 30... Nd4 {[%clk 0:00:48.9]} 31. Bd3+ {[%clk 0:01:50]} 31... Kg8 {[%clk 0:00:27.7]} 32. Rxh4 {[%clk 0:01:56.6]} 32... Ne6 {[%clk 0:00:35.5]} 33. Bf5 {[%clk 0:01:16.9]} 1-0
+
+

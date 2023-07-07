@@ -1,0 +1,631 @@
+okay so we're making some progress we've
+already gotten two games in
+for those of you
+um
+recently joining
+this is a third speed run in which
+essentially
+and it's very similar to the first two
+i'm not gonna lie
+but uh
+the the idea here is to play very
+traditional conservative openings
+at least until i'm 12 or 1300 and really
+get deep into the fundamentals
+because i think one of the comments from
+my previous ones has been
+that sometimes i tend to win fast out of
+the opening especially in the earlier
+games
+and i wanted to sort of rectify that
+this time i'm not saying i'm not going
+to win quick games but
+we're going to try to emphasize middle
+game
+middle game play and and fundamentals
+all right let's go
+[Music]
+we're playing a 1400 so we've played up
+a couple of games now
+but that's fine with me
+and we are playing absolute classical
+openings queen's gambit declined with
+black
+e4 e5 okay so this is
+this is the queen's gambit declined
+which i recommend to every beginner
+it's it's sort of a gateway opening for
+for a lot of other stuff and in this
+position the traditional move is bishop
+e7 but if you want to play with a little
+bit of an edge
+uh i'm sure some of you are familiar
+with this move knight b to d7 which
+looks like it blunders upon and
+you'll be surprised at how many people
+fall into this trap c takes d5 and then
+knight takes d5
+um
+but then after knight takes d5 bishop
+takes queen there's bishop before check
+and black wins a beast i'll show that
+after the game this is a very very
+famous trap
+that's been around for a very very long
+time
+e3 is of course the main move and now
+we develop our bishop to e7 why e7 and
+not d6 well mostly because white is
+pinning us so now white is threatening
+to win this pawn so it's it's time for
+us to unpin
+okay
+now
+we would like to complete our
+development with castle short
+our kingside development at least
+and then we have to decide what to do
+with this bishop now there's a couple of
+ways to play this type of position a
+couple of ways to play the sniper
+position
+um and and this line has been around
+since you know the 1800s
+um a lot of people like to play b6 and
+bishop b7
+perfectly
+perfectly reasonable line but i'm going
+to show you guys a a system that i only
+know by the russian name
+which roughly translates to
+uh the simplifying system of capablanca
+so this was introduced to me by my coach
+many years ago
+i am entirely clueless as to modern
+theory i haven't played this myself
+since i was 1600 so get take this with a
+grain of salt the move looks bad i'm
+going to warn you the move looks bad it
+looks passive you play c6
+okay now you might say
+all right c6 maybe it doesn't look that
+bad
+but it does leave this bishop
+pretty hemmed in
+never play c6
+now we do something
+which might seem even more paradoxical
+we take on c4 now notice that i have
+waited for white
+to move his light squared bishop once
+uh now i take on c4 and essentially i
+win a tempo
+and here once again there are two setups
+that i'm familiar with one involves a
+more aggressive move b5 and then bishop
+b7
+but
+the capoblanca system that i
+uh that that i was referring to does
+anybody know
+what i'm referring to what move leads to
+essentially for simplification to some
+degree
+and don't worry this is not a draw or
+anything like that
+well a5 is not a simplifying move
+no c5
+also not a simplifying i'm looking for
+piece trades knight d5 yeah knight t5 is
+the simplifying move
+it invites a trade of dark squared
+bishops we'll of course recapture with
+the queen to keep the knight on a
+stronghold
+and
+i think the great thing about this
+system is it really
+it really teaches you how pieces and
+pawns work because at first sight
+black's position seems to be
+quite a bit worse passive bishop
+white has more central control i can
+play e4 at some point even now
+but in reality the position is very
+close to equal
+a lot of this has to do with the lack of
+weaknesses in black's position this is a
+very underrated thing
+that people don't always realize when
+you don't have any weaknesses
+i mean your position is going to be very
+hard to crack even if
+even if uh your position is
+very passive
+all right that's just a fact about chess
+that you have to factor in
+now we continue to simplify
+we continue to simplify
+and the other thing about this type of
+structure is that
+we can uncoil our pawns with a timely e5
+e5 immediately blunders upon right
+because the knight on d5 is going to be
+left
+insufficiently protected
+so we take on c3 first and then we
+expand with e5 we kind of uncoil
+and later we can open our bishop and
+develop it along this diagonal so e5
+this is essentially as far as i know the
+position is very balanced let's see if
+we can win
+if we can win the resulting position
+which is very simple
+okay d takes c5 knight takes c5 this guy
+is playing very well i have to say
+he's playing
+great moves
+so let's see
+[Music]
+whether we can make something happen in
+this position
+i think it's clear that black has
+essentially equalized the only thing
+that remains is for us to get our bishop
+out but should be six is good
+to neutralize white's bishop if i were
+white i would be contemplating a move
+like queen b3 to discourage bishop e6
+yeah four is not scary at four we drop
+our queen back
+and f4 doesn't really
+scare us that much once again black's
+position is so solid no targets
+white's position two but
+we're playing black so we're obviously
+trying to equalize out of the opening
+okay queen c2
+and we have two distinct ways to develop
+our bishop bishop e6 i mentioned
+previously
+the other one is of course to play
+bishop f5 with tempo
+but again the way we're playing in the
+speed run is just to emphasize
+very simple chess and and fundamentals
+even if it means
+getting into a drawn position
+even if it means getting into a wrong
+position so let's complete our
+development we fully equalize of course
+we want to take with the queen we don't
+want to ruin our pawn structure
+and i'm i'm actually hoping that he
+plays queen b3 because
+i want to play an end game
+so what's our next moves going to what
+is our next c sequence of moves going to
+be we're probably going to go rook d8
+it's a good idea to create some lift and
+that is a
+lapse in concentration by our opponent
+who can tell me why
+it's a free pawn
+now before taking such a pawn you just
+verify that your queen isn't getting
+trapped
+always a necessary step because
+okay queen takes a2 he can play rook a3
+but our queen safely returns back to e6
+the square where it came from thank you
+very much for the pawn
+now we need to be careful
+so
+who wants to propose a move here
+yeah so some of you are proposing g6
+which is a good move
+but it allows rook d7 i don't want to
+allow rook d7 so the mover fda comes to
+mind but if you calculate rook ft8 you
+can trade
+and then you can play the move rook to
+a3 forking the queen and the a pawn
+all right and just these queen side
+pawns you got to be very careful about
+so i propose a a much simpler move which
+is just to return with the queen to e6
+and you guys are getting it
+back to e6 i guess i'm allowing rook t3
+so it's not entirely clear but still
+yeah rook d3 good good stuff by my
+opponent
+all right so how do we deal with this he
+wants rook d7
+can't stop it by playing rook d8
+so
+what we need to do is ask ourselves
+all right
+after he goes rook d7 what do we want to
+be able to play
+we don't necessarily want to go rook ba
+that's very passive
+i'll talk about
+passive and active defense afterward but
+there is a
+a
+relatively common technique for dealing
+with a rook infiltration to the seventh
+rank
+okay this is sort of a is something that
+you can kind of commit to memory and
+that is the move rook fe-8 first
+with the idea of meeting rook d7 with
+rook e7
+essentially forcing and very important
+detail of course rook d8 is not made we
+take it and we drop the rook back to e8
+rook d6 this guy is good this guy is no
+joke
+all right let's think i was planning
+queenie five in this position
+i think queenie five is just fine
+oh he's got something crazy there
+you just think
+yeah i'm trying to figure out maybe it's
+actually not the queen's theater queen
+e5 let's go queen e5
+maybe three
+another excellent move
+preparing work d7
+now queen f5 we can take
+i think a queen b5
+yeah queen b5 let's go queen b5 again
+not blundering mate rook d8 check we
+have a rook e8
+at the first opportunity i'm going to
+create some lift
+yet i don't see like a mate or anything
+here i hope i'm not blundering something
+now notice the x-ray defense right
+notice the x-ray defense okay now we're
+up upon i'm happy
+the problem is that he's got this super
+active rogue first of all we have to
+defend this pawn i don't see a reason to
+just give it away
+so let's go rookie to b8 we could have
+also gone b6 but
+rook d5 we have to defend this pawn he's
+not leaving me with much choice
+ah very nicely played rook c5 and then
+rook c7
+yeah so this is going to be a draw
+because we have to
+prevent the rook from doubling on the
+seventh ring so let's go rook bc8
+basically allowing him to take v7
+now let's create some luft
+with
+g6 for
+example and i'm gonna do my best to win
+this actually
+who can give me a club or move here we
+have a very clever move it doesn't
+really work but it's a good try
+yeah we can give him a check first and
+then go rook c2
+or we can go rook a1 we can try to be we
+can try to be fancy let's go rook c2 and
+let's hope he doesn't yeah okay he does
+find gg3
+all right now we take it and it's a draw
+you can go h5 here just to create
+the ideal pawn structure push the b-pawn
+rook b1 we're just going to try to push
+the b-pawn all the way and see what
+happens
+sometimes people mess up in those
+positions
+let's give him a check on b2 you see
+he's already not okay so he what is he
+doing
+now he's just giving up all the pawns
+and now he's giving up another one we
+can win this pawn with rook g3
+yeah very str i mean honestly very
+strange play because he was playing
+excellent and then he just gave
+everything up and resigned
+accuracy was nice 90 to 97.
+no i think he's legit i just just think
+he's good i don't know what to say
+okay
+all right all right guys let's take a
+look at the game
+let's take a look at the game
+okay so
+queen's gambit decline now the line here
+c takes d5e takes d5 knight takes d5
+remember this
+knight takes d5
+bishop takes queen and bishop before
+check it's not mate he's got queen d2
+you can either take on d8 or take on d2
+and at the end of the day you're up with
+peace
+i've seen some 15 1600s fall into this
+by the way so knight pd7 is a great way
+to make a theoretical move while also
+setting a trap
+while also sending a trap
+okay
+um
+e3 bishop e7 knight f3 castles rook c1
+again
+there's multiple moves in this position
+b6
+is one of them
+um
+let me see c6 is the main move two
+thousand
+uh 100 games so we followed the main
+line dc4
+and knight t5
+yeah this is over a thousand games in
+this position so it's a very reputable
+system
+this is all mainline
+if he goes e4
+then we take on c3
+and who can tell me let's say rook takes
+c3 how black should respond here
+and this is one of the main ideas of of
+the line of course
+not queen before so queen b4 is tempting
+but very superficial right
+think about it this way
+is the black queen operating alone going
+to really cause a lot of damage for
+example queen c2 i want to remind you of
+an important point i made in the first
+speed run how do you assess whether pins
+are dangerous so there's two factors you
+have to consider the first thank you
+great odin's raven for the five gifted
+the first factor is whether the pinned
+piece is defended by a pawn if it is
+pins are generally less dangerous that
+should be
+intuitive right because if this rook
+wasn't defended by a pawn it would be a
+lot more vulnerable the second
+is how temporary is the pin likely to be
+pins
+against the king that is if the king
+is at the end of the pin not the pin
+piece but i call it the uh the penny
+um
+and the king is likely to castle on the
+next move then the pin
+loses
+you know its value greatly
+so
+here white's gonna castle on the next
+move white can also play a3 b4 that's
+why queens aren't very good at
+delivering pins or at holding pins
+because they're so easy to chase away
+so this doesn't do anything whoops my
+bad
+um
+any other attempts yeah so chris
+mistronic got it
+the move here is e5 we have to contest
+the center
+we have to contest the center and our
+pieces notice how perfectly poised they
+are they're both controlling e5
+and in the event of a trade
+black is in excellent shape here we're
+attacking e4 we can go bishop b6 just
+because white is a little bit more space
+in the center doesn't mean white's
+better
+all right so space advantage itself is
+not a reason to be overly concerned
+how can i choose between e5 and c5
+well that's a good question i mean it's
+like c5 is not that dumb here either c5
+is an interesting move
+but but here's my problem with c5 i'm
+going to castle and ignore you
+and then you can trade in the center
+i'll give you that thank you malha's
+gifting to create great owners raven but
+the problem is that you haven't solved
+the underlying issue of your bishop
+i feel like e5 not only breaks in the
+center but also opens up the diagonal
+for black slide squared bishop
+okay so
+generally in these positions i would
+prefer e5 so he castles this is still
+the main line knight c3 rook c3 5 600
+games
+d5 95 95 queen e5 and yeah f4 is the
+most popular move
+queen c2 has about 11 games
+yeah so bishop e6 of course bishop f5 is
+also perfectly fine
+and of course here rook d1 was a very
+surprising move
+i was expecting a3
+why don't we want our bishop on b7 well
+yeah we can put our bishop on b7 you can
+play b6 but this is just a little bit
+passive this is just a little bit
+passive there are like 30 games in this
+line queen c2 bishop
+b7 but
+you can get in a little bit of trouble
+bishop d3 h6 bishop e4 and you're gonna
+have a hard time defending the spawn
+so it's just a little bit passive to
+fianchetto in this position okay so rook
+d1 he allows us to take the pawn
+h3
+yeah and here
+i don't know if i
+if i really played this accurately but
+again rook fda
+takes takes rook a3 wins the pawn back
+right
+um
+so that's not very satisfactory
+a lot of you were suggesting g6 but that
+lets the rook get into d7 immediately
+also don't like that so that's why i
+played queen e6
+but rook cd3 is a very nice move
+okay so man of the raid thank you i'm
+about to end but i appreciate it
+i really appreciate it man
+and good good good games
+i am about to finish though
+okay so rookie 8 rookie 7 is something
+that you should remember
+and people had questions at this point i
+don't know what they
+were rook d6 is another excellent move
+basically forcing the queen onto an
+awkward square and this move loses
+because of rook d8 check
+why not queen g6 asks alexander eve
+after rookie six so it's the same exact
+principle that i shared earlier
+you have a pin going against white
+screen but it's very easy to eradicate
+it's just a one move thread i call it
+one move itis where you think that
+you know okay i'm stopping rook d7 but
+white's just going to reinforce the
+threat with a move like queen b3 your
+queen might be out of the game here
+i think maybe queen g6 is better but
+you're not gonna stop rook d7 with that
+move
+okay
+so a lot of people would make the
+mistake of just automatically going rook
+apa this is the definition of being
+passive right
+passive position means you have a lot of
+pieces that are either in a defensive
+role
+or just not doing anything
+i i don't like the situation white gets
+in with the other rook this can get
+pretty annoying yeah but b6 again rook
+d6 and now you lose the c6 one so i
+actually think this is the most accurate
+here here
+queen b3 is a great move aiming at the
+b7 pawn
+so i wouldn't think of it in terms of
+good versus well you could think of it
+in terms of good versus bad but
+sometimes passive can be good right if
+you're defending for example you might
+have a fortress and that's another way
+of saying passive defense right you just
+bring all your pieces back you set up a
+fortress and then you start moving back
+and forth that's an example of
+successful passive defense there's no
+simple answer to the question mo yeah
+most of the time you want to play
+actively and you want to defend actively
+well h6 is necessary
+as soon as possible the problem is that
+i don't get a chance to play it because
+if i go h6 he goes rook d7
+this is what i was worried about at
+least but for some reason i thought i
+have to take the rook in reality i don't
+and i think the move b5
+gives black a pretty good position here
+so
+maybe queen b5 was premature
+so in any case we have this big trade
+rook d rugby rook d5
+a6 or c5 and here i'm forced to give up
+upon because of the possibility of rook
+c7 we certainly don't want to allow
+doubling on the
+c file
+by the way if i'd gone with this rook
+white has the very cute rook takes b7
+tactic just something to keep in mind
+so
+not good
+rook bc8 rook takes rook takes or takes
+b7
+and of course this should have ended in
+a draw
+this is just a dead draw but he went the
+wrong way i mean already king d2 is just
+weird i mean if you just
+sorry if he just chills on f3 black is
+never going to be able to move the rook
+away from v1 this is a dead draw and
+neither side can make progress here i
+mean you've seen this a million times
+so
+this would have been a draw but i don't
+know if he just totally collapses here
+king b2 we give a check
+here white should have brought the king
+back to e1 probably still a draw
+but this just loses all of the pawns
+so a bit of an anti-climactic end to the
+game kind of weird but
+uh definitely
+i'm glad we got a chance to play this
+opening it's a very solid system
+and i'm going to bore you guys to death
+for the next 500 points of the speed run
+just playing super
+solid
+you know kind of conservative stuff
+and and that's what we're going to work
+on the speed run is building those
+very
+basic fundamentals
+because trust me if you want to play
+like tall or you want to play
+aggressively
+building up your ability to play boring
+positions in my opinion is an absolute
+prerequisite so
+hopefully you'll find that instructive
+we're just getting started but right now
+i'm gonna go to bed guys
+fun day a lot of bullet
+got to 3 300 at the end of the day and
+we did a speedrun game so
+nice productive stream
+i'll definitely stream tomorrow probably
+earlier in the day maybe after the world
+championship
+and in the meantime i am going to raid
+my friend zura java hodze at les chess
+live he's an international master living
+in texas good friend of mine
+uh so enjoy his stream giving your love
+thank you guys for hanging out thank you
+cellway for the sub
+have a great night see you guys later
+bye
+[Music]
+you

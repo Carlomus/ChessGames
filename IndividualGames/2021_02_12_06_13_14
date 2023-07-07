@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.02.12"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "ThirstyMonsterTwitch"]
+[Result "1-0"]
+[CurrentPosition "r3kb1r/pp1q1ppp/4p3/1BpnP3/6b1/1QP5/PP1N1PPP/R1B1K2R b KQkq -"]
+[Timezone "UTC"]
+[ECO "B22"]
+[ECOUrl "https://www.chess.com/openings/Alapin-Sicilian-Defense-Barmen-Modern-Line-6.Nbd2"]
+[UTCDate "2021.02.12"]
+[UTCTime "06:13:14"]
+[WhiteElo "2400"]
+[BlackElo "1909"]
+[TimeControl "300"]
+[Termination "SenseiDanya won by resignation"]
+[StartTime "06:13:14"]
+[EndDate "2021.02.12"]
+[EndTime "06:15:19"]
+[Link "https://www.chess.com/game/live/6530749295"]
+
+1. e4 {[%clk 0:05:00]} 1... c5 {[%clk 0:05:00]} 2. c3 {[%clk 0:04:56.9]} 2... d5 {[%clk 0:04:57.2]} 3. exd5 {[%clk 0:04:54.5]} 3... Qxd5 {[%clk 0:04:57.1]} 4. d4 {[%clk 0:04:53.4]} 4... Nf6 {[%clk 0:04:53.6]} 5. Nf3 {[%clk 0:04:51.8]} 5... Bg4 {[%clk 0:04:49.9]} 6. Nbd2 {[%clk 0:04:37.1]} 6... e6 {[%clk 0:04:31]} 7. Bc4 {[%clk 0:04:29.4]} 7... Qd7 {[%clk 0:04:28]} 8. Qb3 {[%clk 0:04:11.2]} 8... Nc6 {[%clk 0:04:24]} 9. Ne5 {[%clk 0:04:09.1]} 9... Nxe5 {[%clk 0:04:17.6]} 10. dxe5 {[%clk 0:04:08]} 10... Nd5 {[%clk 0:04:02.9]} 11. Bb5 {[%clk 0:04:06.3]} 1-0
+
+

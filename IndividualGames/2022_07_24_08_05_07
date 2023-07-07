@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.07.24"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "pepidp1"]
+[Result "1-0"]
+[CurrentPosition "1rr3k1/4bpp1/4p2p/2q5/p7/1P2P1P1/PN1Q1P1P/2RR2K1 b - -"]
+[Timezone "UTC"]
+[ECO "E06"]
+[ECOUrl "https://www.chess.com/openings/Catalan-Opening-Closed-4...Be7-5.Nf3-O-O-6.O-O"]
+[UTCDate "2022.07.24"]
+[UTCTime "08:05:07"]
+[WhiteElo "2070"]
+[BlackElo "2035"]
+[TimeControl "600"]
+[Termination "SenseiDanya won on time"]
+[StartTime "08:05:07"]
+[EndDate "2022.07.24"]
+[EndTime "08:21:24"]
+[Link "https://www.chess.com/game/live/52388993645"]
+
+1. d4 {[%clk 0:10:00]} 1... d5 {[%clk 0:10:00]} 2. c4 {[%clk 0:09:52.4]} 2... e6 {[%clk 0:09:58.8]} 3. Nf3 {[%clk 0:09:49.5]} 3... Nf6 {[%clk 0:09:57.5]} 4. g3 {[%clk 0:09:48.1]} 4... Be7 {[%clk 0:09:56.2]} 5. Bg2 {[%clk 0:09:46.6]} 5... O-O {[%clk 0:09:56.1]} 6. O-O {[%clk 0:09:44.1]} 6... a6 {[%clk 0:09:55.7]} 7. Qc2 {[%clk 0:09:10.4]} 7... Nc6 {[%clk 0:09:52.2]} 8. Rd1 {[%clk 0:08:41]} 8... Nb4 {[%clk 0:09:36.4]} 9. Qb3 {[%clk 0:08:36.1]} 9... dxc4 {[%clk 0:09:33.6]} 10. Qxc4 {[%clk 0:08:35.1]} 10... b5 {[%clk 0:09:32.4]} 11. Qb3 {[%clk 0:08:20.3]} 11... Bb7 {[%clk 0:09:31.1]} 12. Nc3 {[%clk 0:08:16.7]} 12... Nbd5 {[%clk 0:08:46.3]} 13. Bg5 {[%clk 0:07:12.9]} 13... h6 {[%clk 0:08:23.2]} 14. Bxf6 {[%clk 0:07:06.5]} 14... Bxf6 {[%clk 0:08:21.7]} 15. Ne4 {[%clk 0:06:54.2]} 15... Be7 {[%clk 0:08:11.8]} 16. Rac1 {[%clk 0:06:52.6]} 16... Nb6 {[%clk 0:07:30.8]} 17. Ne5 {[%clk 0:06:38.3]} 17... Bd5 {[%clk 0:06:52.5]} 18. Qc2 {[%clk 0:06:36.6]} 18... Nc4 {[%clk 0:06:34.6]} 19. Nxc4 {[%clk 0:06:13]} 19... bxc4 {[%clk 0:06:33.6]} 20. e3 {[%clk 0:05:29.6]} 20... Rb8 {[%clk 0:05:46.9]} 21. Nd2 {[%clk 0:05:21.7]} 21... Bxg2 {[%clk 0:03:38.4]} 22. Kxg2 {[%clk 0:05:20.4]} 22... Qd5+ {[%clk 0:03:38.1]} 23. Kg1 {[%clk 0:05:12.6]} 23... c5 {[%clk 0:02:49.2]} 24. dxc5 {[%clk 0:05:03.1]} 24... Qxc5 {[%clk 0:01:15.2]} 25. Nxc4 {[%clk 0:04:57.4]} 25... Rfc8 {[%clk 0:00:58.7]} 26. b3 {[%clk 0:04:42.9]} 26... a5 {[%clk 0:00:37.4]} 27. Qd2 {[%clk 0:04:07.6]} 27... a4 {[%clk 0:00:19.3]} 28. Nb2 {[%clk 0:03:57.3]} 1-0
+
+

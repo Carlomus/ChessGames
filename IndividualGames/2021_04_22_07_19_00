@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.04.22"]
+[Round "-"]
+[White "OhMyLands"]
+[Black "tuvshinbat99"]
+[Result "1-0"]
+[CurrentPosition "r1bk1Qnr/pp1p1ppp/2n5/qN2p3/4P3/P1P5/2P2PPP/R1B1KB1R b KQ -"]
+[Timezone "UTC"]
+[ECO "B32"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Open-Lowenthal-Variation-5.Nb5"]
+[UTCDate "2021.04.22"]
+[UTCTime "07:19:00"]
+[WhiteElo "1525"]
+[BlackElo "1415"]
+[TimeControl "600"]
+[Termination "OhMyLands won by checkmate"]
+[StartTime "07:19:00"]
+[EndDate "2021.04.22"]
+[EndTime "07:25:23"]
+[Link "https://www.chess.com/game/live/12815041777"]
+
+1. e4 {[%clk 0:09:54.9]} 1... c5 {[%clk 0:09:58.8]} 2. Nf3 {[%clk 0:09:44]} 2... Nc6 {[%clk 0:09:57.9]} 3. d4 {[%clk 0:09:42.8]} 3... cxd4 {[%clk 0:09:56.7]} 4. Nxd4 {[%clk 0:09:42.1]} 4... e5 {[%clk 0:09:54.8]} 5. Nb5 {[%clk 0:08:57.8]} 5... Qa5+ {[%clk 0:09:39.9]} 6. N1c3 {[%clk 0:07:51.1]} 6... Bb4 {[%clk 0:09:24]} 7. a3 {[%clk 0:06:31.7]} 7... Bxc3+ {[%clk 0:09:20]} 8. bxc3 {[%clk 0:05:19]} 8... Ke7 {[%clk 0:08:50.2]} 9. Qd6+ {[%clk 0:05:07.7]} 9... Kd8 {[%clk 0:08:46.1]} 10. Qf8# {[%clk 0:04:56.4]} 1-0
+
+

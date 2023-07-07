@@ -1,0 +1,838 @@
+[Music]
+okay let's go c5
+let's play an excellent now let's play
+nighter
+because i wanted to play a knight or
+last
+game and again nobody seems to play the
+opens to sell anymore c4
+c4
+okay that's not a
+conventional move and it's not that bad
+white aims to get some sort of a marotzi
+bind structure by playing d4 on the next
+move
+so i don't
+my memory is quite hazy on how to deal
+with this properly let's start by going
+knight f6
+and let's try to counteract this by
+developing our bishop to g4 early
+the idea is that if white plays d4 now
+then we can take the knight on f3 and
+white will have to take with the pawn
+which is kind of annoying okay now we
+can play knight c6 and again d4 is
+impossible because we take the knight
+and then we've got two attackers
+on d4 and white will have only one
+defender the queen
+so as long as we prevent d4 we keep this
+a major hole
+and we've got a nice position
+now i don't think that we should play e5
+here i think some people might be
+tempted to do that and say well now we
+really control the d4 square but when
+you play e5 you create a corresponding
+weakness on d5
+so i think we should restrict ourselves
+to e6 in order to keep d5 protected
+that's an important square
+we could have fianchettoed also g6
+bishop g7 but i think
+uh i think this is fine
+yeah g6 was also was also fine i think
+both moves are totally acceptable
+e6 bishop e7 g6 bishop g7 okay d4 so
+white loses his patience it's funny that
+he waited so long and then ultimately
+decides to blunder bishop takes f3 of
+course was our whole point
+people don't like it when they're like
+only ideas are stopped
+and then they panic so we're gonna be up
+a pawn okay now what should we take with
+this is an important moment
+i i will preface this by saying
+no i think there is a correct answer i
+think both captures are fine
+but
+i think we should take with the pawn and
+the reason has nothing to do with the
+fact that it attacks white's knight that
+the fact that it carries a threat is
+less important but if you look a little
+bit further i think the good thing about
+pawn takes is that we can then play the
+move e5 and we literally have a
+protected extra passer in the center of
+the board that's a huge deal now knight
+takes d4 is good conceptually it's good
+from the perspective of keeping control
+over the d4 square but if you look very
+carefully i think white has a very
+annoying
+resource
+in response to knight takes d4 i'll let
+you guys find it after the game but
+let's play let's take cd
+there is a specific move that i'm
+worried about after an a takes d4 and
+some of you already found it it is e5
+yes it is e5
+okay so cd
+the knight has to move back then we go
+e5 and once we go e5 we're up a pawn the
+bishop is lame
+and we are much much better close to
+winning
+okay e5 anyway wow
+that's a bold move okay so we shouldn't
+pay i mean that's a bad move that's a
+bad move we can do basically whatever we
+want i mean we can play d takes e5
+simply and snag a second pawn but let's
+try to be let's try to be clinical here
+i mean we're at the level where
+precision has become very very important
+so
+let's not uh
+do anything drastic the one thing we
+should not do the one thing we should
+not do is we shouldn't take on e5 with a
+knight because then white takes on d4
+with the queen
+and then you might say well wait a
+second can't we take the bishop in that
+position well you can but it's not worth
+giving up upon
+over ruining white's king side pawn
+structure it's just not worth it
+yeah d take c5 is clean
+tight tight tight yeah d65 is clean but
+i like a different move
+uh i i actually like dc
+i like dc
+the point is after ef bishop f6 white
+is not only down two pawns but lands in
+even more trouble the b2 pawn is hanging
+with a fork
+and bc bishop takes e3 forks the two
+rooks so
+this is likely to lead to more
+simplifications
+which i like because we're up to pawns
+and i just don't feel like
+i just don't feel like white is
+an adequate response to this
+yeah that's an important point if white
+plays b3 notice that we have the move c2
+exposing the attack on the rook
+discovered attack
+no but that's a that's simple
+calculation
+and
+i'm making an intuitive judgment call
+this position just looks horrendous for
+white i would call this clinical i think
+it deserves it merits that label
+i don't see a move for white
+i just don't see a move for white
+i think okay rook b1 that is the best i
+think that's probably the only move
+actually oh yeah that is a very good
+move um
+i would go so far as to say that i
+missed that move
+and had i seen it it probably would have
+changed my mind on what we should have
+played
+that's annoying because that that
+basically forces it forces us to
+liquidate we'll take our two extra pawns
+no no problem but
+that's quite a bummer i just i forgot
+about rook b1
+now we should take here we should
+simplify
+and we can primo bishop b2 whatever
+scrap the video next next video yeah
+no it totally escaped me though for some
+reason i thought that white has to
+defend the pawn of the queen
+and then we had tactics with knight e4
+which i'll show after the game
+so
+mistake mistake there
+should have played d we'll check with
+the engine but i'm okay what is this i
+mean our opponent's not recapturing any
+pawns
+okay so so
+we need to prioritize here what is our
+top priority in this position is it what
+is the priority and our priority
+dictates what move we should play
+so knight d4 is interesting but it does
+give up b7 to castle our priority is to
+castle right if we castle
+then everything is safe we're up a bunch
+of pawns
+so i think a lot of people here would
+react instinctively
+to
+the d6 pawn being hanging and you would
+say well let's play e5 or let's play
+knight t4 but all of that is very
+complicated the simplest is just a
+castle king side yeah we give up d6 with
+tempo big deal
+bfd we just go rookie eight
+okay c5
+this is nothing we can circumvent this
+this is not a problem
+um at least we've castled now and we
+don't have to worry about our king and
+we can focus on
+converting our two extra pawns
+okay
+so
+while this is not a problem the pieces
+i've highlighted
+they are annoying so ideally we would
+like to successfully deal with the dark
+squared bishop and we would like to deal
+with it
+without giving up our b2 pawn so we
+should keep our bishop on f6 now you
+might say okay how do we deal with the
+bishop on d6 well why is the bishop on
+e6 annoying well it's annoying because
+there's a pawn on c5 right that's
+supporting that bishop that's where the
+source of annoyance comes from so you
+might say well i want to play b6 but you
+can't play b6 because the knight on c6
+is hanging
+so then you might say okay what if we
+defend the knight on c6 first and that's
+where i come up with the move rook c8
+we want to play b6 and undermine the
+support of this bishop once the bishop
+loses its support
+it becomes a sitting duck
+yeah quinn a5 was tempting but i will
+show why i didn't like it afterwards
+hopefully the logic was clear
+bishop b4
+bishop before what does our opponent
+want
+probably want some sort of
+shenanigans with queen h5 but queen h5
+is not a problem
+i think i'm pretty sure we can uh
+proceed with our plan
+yeah i don't i don't see
+so the one thing you would have to be
+careful of b6 does loosen the knight
+right it loosens it
+um so you would have to check for
+various forks
+and double attacks and stuff like that
+um you know white is a move like queen
+a4 here
+which could potentially be annoying we
+could move our queen up to d7 if
+necessary to reinforce the knight again
+but you would want to be careful about
+that you know
+queen a4 played
+okay so it's important to point out that
+bc
+is wrong
+why is it wrong it's wrong because the
+bishop takes c6
+and if you take the bishop on d6 the
+rook on e8 is hanging
+so in fact i think queen d7 is quite
+important supporting the knight on c6
+and finally we are ready to remove
+remove the pawn on c5 and once it's
+removed i can guarantee you that white's
+position is going to collapse like a
+house of cards because white's only
+asset in this position
+is that bishop on d6
+all right get out of here
+we are not afraid of any discoveries
+there is nothing
+right there's no
+yeah bishop takes
+okay now where should we put our queen
+and i have to give our opponent a lot of
+credit he's defending as as well as he
+could be
+well i don't like queen b7 right why
+walk into a pin you want to eliminate
+potential sources of
+trouble
+and queen b7 potentially walks into a
+move like rook d6
+and i actually think that might win the
+night so
+queen c7 is very important here
+yeah it's actually the only move
+now my guess is that he might return to
+d6 but then we can sort of circle around
+we can circle back to d to b6
+yeah gen saki would make that move
+i think we're safe
+yep there we go
+okay queen v6 we are in good shape
+notice that all throughout this entire
+operation we have
+kept
+we've kept the bishop on f6 in order to
+support the pawn on b2 this is
+you know we need to support this pawn
+with everything that we've got it's like
+the golden fleece it's the
+pride of our position we cannot give
+this pawn up
+yeah white is starting to shoot blanks
+that's right
+you can sense that white's uh initiative
+is fizzling out and
+once it's our turn
+it you know the wind is going to come
+very very quickly
+so
+what we do next depends quite heavily on
+what white does rook d3
+okay does this create a threat i don't
+think so
+we're never really worried about these
+kinds of moves because we can always
+play g6
+okay so what should we do this is an
+instructive moment
+because i think a lot of people here
+would just sort of get lost
+and not realize you know like what what
+specifically
+should we do thank you nanime for the
+raid we have a very very strong move
+here we have a very very strong move now
+what do i notice in this position okay
+i notice a couple of things the moment
+that rook d3 is played the first thing
+that i notice is that it weakens the
+back rank
+and if we can get a rook to c1 well that
+wouldn't be checkmate because the rook
+could come back to d1 but that would be
+a big deal
+now what do we need in order to get the
+rook to c1 we probably need to move the
+knight so you start thinking okay well
+where can i put the knight and hopefully
+you also notice that the queen is
+x-raying the bishop what is the bishop
+defended by well why did we why did we
+play b6 we played it in order to make
+the bishop more vulnerable so let's make
+a move that exploits the vulnerability
+of that bishop but it's not knight e5
+95 is a one move threat that doesn't do
+all that much if the rook just moves
+back
+that's not how you attack the bishop you
+attack the bishop by intercepting the
+rook and the bishop you play knight t4
+and this simultaneously creates several
+threats first of all you're attacking
+the bishop second of all rook c1 is very
+annoying although we should be very
+careful about making that move because
+now white's queen is making contact with
+that rook something we should notice but
+there is a third threat here which is
+the reason i played this move
+does anybody see it
+this is virtually unstoppable i think
+like it has a very strong move here
+actually to stop it but it's it's almost
+unstoppable does anybody see the third
+threat we have
+look carefully 92 check and knight back
+to c3 forking
+the queen and the rook on b1 that is the
+third threat 92 knight c3
+how do i how do i see this well any time
+queen and the rook are in portable
+positions i mean this is just this is
+just tactical pattern recognition
+there's no science to this that the
+science is just pattern recognition
+you just need to see the fork i mean
+it's the kind of thing you either see or
+you don't
+okay
+so
+white is lost
+yeah mr white yes science
+if the d3 rook takes yeah but we don't
+need to move the stroke at all the point
+is that we will take the rook on d4
+oh oh oh oh you're asking if the rook
+takes here well no our bishop will take
+yeah yeah that's a great question what
+he was saying is that
+it's very important again that the
+bishop also controls c3
+because otherwise indeed the rook would
+have taken
+so
+the one thing that you can notice and
+and white resides one thing that you can
+notice is that the margins of our wins
+are a little bit more narrow like i'm
+relying more heavily on specific
+calculation where if one line doesn't
+work it's actually a problem whereas in
+earlier games like
+you know there are like 15 different
+wins in most positions
+good game so let's go over it
+so c4 has been played against me once
+it's not a bad move i mean it's it's a
+move
+you know it's it's a third rate it's a
+third rate sideline
+um
+the purpose the why is c4 even played
+well if you play
+i mean if you play as one would a knight
+or right if you play a move a6 for
+example when white's gonna play d4
+and get kind of a favorable marotzi bind
+structure this by the way is the reason
+why
+it is considered inaccurate
+to play a6 here first right this is why
+in the night or black starts with knight
+f6 and then plays a6 this was taught to
+me a very long time ago a6 allows the
+extra option of c4
+which controls the center more tightly
+now
+if you've allowed this the best that
+black can do in a situation like this is
+to to set up what's called a hedgehog
+hedgehog setup i'm sure that most people
+in the chat
+probably you've if you've been in chess
+long enough you've heard of that term
+now the hedgehog setup refers to a very
+specific arrangement of pieces
+that is frequently played against kind
+of a marotzi setup
+and it is characterized by the following
+arrangement of minor pieces you play e6
+um the order doesn't matter right now
+i'm like just showing you the moves you
+play queen c7 b6
+bishop b7 and knight bd7 this is the
+hedgehog structure
+so it's characterized by a sort of
+cheveningen pawn formation
+and then four of these pieces on the uh
+on the the seventh rank the queen the
+bishop the knight and the other bishop
+so this is what characterizes the
+hedgehog the pawns and the pieces
+now
+sergey shipov noted russian commentator
+and jim has written like a 500 page book
+on the hedgehog it's an incredibly
+complicated structure it first started
+to get popular around the 70s my former
+coach
+left sakis
+um
+popularized the hedgehog in like the
+late 70s early 80s
+and
+the interesting thing about the hedgehog
+is that it can be played against a lot
+of different structures white can set up
+his pieces
+uh his or her pieces in in many
+different ways
+so
+the hedgehog is more of a setup than it
+is an actual one it's not actually one
+line
+but it can lead to some beautiful wins
+and and incredible ideas for black
+one game that i remember in the hedgehog
+that could give you a pretty good
+impression of like the way that it's
+played
+hopefully this is interesting i mean
+this is a bit of a detour into a line
+that most people won't play but
+i i think
+just general chess education is
+important
+just educating yourself on things that
+are out there
+is important because
+you can always borrow ideas and
+you know just being knowledgeable i
+think in in across different openings
+that you don't play is it's just good in
+general
+you know it's just just being educated
+in in a chess context
+yeah there have been some famous
+kasparov car karpov games in the
+hedgehog but one slightly less famous
+game that i
+really really like is this one
+uh kaspar uh sorry taimanav against
+yusuf two soviet gm's
+so you can see 1982 at this point the
+hedgehog is becoming like pretty damn
+popular
+so you can see here
+yep they get this structure
+so there's e6 a6 knight bishop queen
+okay black delays queen c7 and then
+plays it
+okay so
+here black applies a super popular
+hedgehog idea you play queen b8
+bishop d8 and bishop c7
+super super typical hedgehog idea you
+defend b6 and then you aim at the h2
+pawn
+which can become important if black
+breaks through with d5 later and then
+the hedgehog like black has these two
+pawn breaks b5 and d5 that white needs
+to be very very careful and vigilant
+about watching
+so
+in this position yusupov
+uh
+applies an idea and i remember reading
+yusuf buff's commentary to this game
+and what's amazing about the idea that
+yusuf carries out on this position is
+that he learned it directly from robert
+fisher
+fisher
+had a game
+um
+fisher had a game against wolf anderson
+in uh
+an olympiad 10 years before
+the current one was played
+in which fisher applies this incredible
+idea it's generally considered that
+fisher was the first
+to apply this idea
+um just a second
+so i'll show you the full
+order of operations here
+fisher plays this crazy idea in the 70s
+and then yusuf applies it in his own
+game
+so here's the fischer game
+here's the fischer game
+yeah it's a fisher from 1970. uh fischer
+plays the reverse hedgehog so he plays
+the hedgehog structure but he plays it
+with the white pieces
+and
+you can see the hedgehog and here fisher
+does something crazy he goes king h1
+then he goes rook g1 anderson is like
+la dee da improving my pieces and then
+knight e4 and then g4
+he starts pushing this king's side pawn
+then he doubles on the g file and he
+just checkmates him
+just checkmates him
+knight h4
+and then knight f5 look at this knight
+f5 bang
+if you take it then gfgf
+bishop f5 rook g7 oh let me give up the
+queen for two pieces no knight f6 first
+then i take your queen and then the
+other rook
+just incredible power
+then the other knight gets to c5 so he
+just destroyed i mean just destroys him
+and fischer ends up winning you can look
+at this game in its entirety on your own
+but back we go to the taimanov game
+what did yusupopov do
+in this position who can tell me
+who can tell me what yusupov
+played in this position
+yeah ulf anderson was very young it was
+sub 20 i think yeah he plays king h8 and
+he plays rook g8
+then he plays g5
+and then he plays rook g6 he literally
+applies the idea move for move
+and then he plays beautifully he gets
+the queen
+around the king's side pushes g4 bang
+bang
+and then he gets the bishop around to h4
+the attack rages on and then he wins
+upon takes here
+takes here and then takes white's
+central pawn out of the picture and he
+ends up winning the game this is part of
+the yeah i started youtube video
+um
+so just a beautiful win
+so
+that's enough but to go back to
+um what i'm saying to conclude
+so
+a6 here would not have been a mistake
+but it would have allowed white to get
+into the hedgehog pawn structure
+yeah the engine the engine is okay with
+a hedgehog it's not refuted or anything
+okay
+so bishop g4
+again the point of this move is aimed
+against d4
+you know we want to take on f3 here and
+we want to force white to play gf which
+is
+quite undesirable then we go knight c6
+and we're in pretty good shape
+okay does that make sense so bishop b2
+knight c6 castle's e6
+i think black is already slightly better
+i think i think white probably should
+have played d4
+because at this point this gaping hole
+on d4 is no good for white okay rookie
+one is weird
+yeah and then d4 blunders upon the way
+white should play this is play d white
+should play d3
+d3 bishop e3 maybe prepare d4
+yeah white should prepare d4
+um
+and the game you know probably still
+closer to equality than to anything else
+the d4 we take it
+okay so why didn't i play knight takes
+d4 the reason is because of this move e5
+which i found to be quite annoying
+because we've exposed our back side the
+bottom b7 is exposed
+so if we take on e5 then white can take
+b7
+and i thought this was a little bit
+unconvincing
+but if we take on f3 then white takes on
+f3 and then again takes on v7
+and again i
+black is better but i wasn't too
+convinced by this
+um i'm quite positive the cd is just
+better
+okay so e5
+uh e5 e5 is is obviously panic very bad
+and here i made a mistake definitely dc
+dc is misjudgment
+the best move was was just d e
+and this this pawn mass is just
+going to destroy white
+okay knight e4 maybe keep some chances
+alive if white plays knight back to e2
+then we have e4
+yeah 94 i thought this wasn't like
+totally super convincing because this
+bishop is annoying and bl white is
+threatening to take on c6 and take on e5
+so i just wasn't like 100
+sold on this
+um
+and so for this reason i took here and
+then took back
+um
+okay
+if bishop takes knight
+a bishop takes knight we take it what's
+the what's the issue here
+because the knight is still hanging so
+you can't take on e5
+right
+okay
+so anyways we took on c3 we took back on
+f6 and i just forgot about rook b1
+somebody asked in the chat why rook b1
+is so strong it's less that it's like
+strong per se just defends against the
+threat of cb and the other the
+additional problem
+is that if we just sort of
+nonchalantly simplify then after rook
+takes me to the rook is perfectly
+positioned to attack black's only
+weakness b7
+and i found this to be
+very unconvincing white actually gets
+quite the initiative here
+okay maybe queen c7 and black is just
+okay but
+i didn't want to allow this
+so that's why we went
+oh no i did i did want to allow this i
+played cb sorry sorry i said this is the
+line i was going to go for
+but i was worried about this position
+although i think black and castle in the
+next move i actually think we're fine
+so like this exists
+but but here at the end we just go rook
+c8 and i think we're fine
+i think we're fine
+um i don't see a clear move for white if
+like queen b1
+and then we go rogue b8
+and we defend b7 that's fine
+um
+did we have to take v2 in the first
+place asks bonsai grow no well no
+no but what do you propose instead i
+mean if we had castled instead
+uh the good thing about cb is that it
+forces white to give up the bishop pair
+here i was worried about bc
+here i was worried about bc because the
+pawn on b7 hangs and if we take on c3
+and say yeah but the rokans but the rook
+can move up to e3 and attack the bishop
+again
+um so so it's not so simple
+bishop d4 with d3
+and then the bishop hangs and then if
+you move the bishop back to the pawn
+hangs
+and white's bishops are good
+and if you go bishop c5 then the other
+pawn hangs so whichever way you slice it
+you're going to lose a pawn here so
+that's why i played cb okay bishop f4 is
+pretty pretty wild
+and here we decided to castle
+um
+was casey for it to threaten a fork
+option
+what do you mean by kc4
+where and
+i don't understand where where you're
+talking about it
+sorry
+was night before
+oh here yeah yeah so night before you
+can give a check on a4 and force the
+knight back and that's a disaster
+because then white can take
+any time your king is uncastled remember
+you have to look at this four
+okay so cb bishop f4 castles
+so we sacrificed one of our pawns back
+but we've castled
+and after c5 i think an instructive
+moment
+where we just basically decided on what
+the top priority was and then
+came up with an idea to carry out our
+plan right so
+we start by saying the bishop is white's
+strongest piece we want to
+get rid of it but it's not easy to get
+rid of it because bishop b7 would
+blunder the pawn on b2 a lot of you
+wanted to go queen a5
+but after queen b3 i wasn't exactly sure
+how black should proceed
+this is the move
+that i feared quite a bit
+the problem is that the b7 pawn hangs
+and uh
+yeah i'll get to e5 in a second but
+you you can't play rook b that really
+hurts you the fact that we can't play
+rook b8 really hurts us so i wasn't sure
+exactly what we would do here uh 94 we
+go queen b7
+and and white as a passer like why why
+are we allowing all of this right so i
+just thought it was simpler and and more
+safe to go rook c8
+okay so e5 why why would you go e5 i
+mean e5 doesn't accomplish anything it
+also weakens as you as you're saying the
+light squares and not to mention that it
+it cuts off the connection between the
+bishop and the pawn
+okay um
+then knight c2 and knight a3
+well let's analyze so here here you want
+here here here
+yeah maybe because knight a3 is coming
+next
+yeah it's possible that this was good
+yep yeah maybe maybe this this is good
+for black but
+i don't know i was i i was too lazy to
+calculate i guess uh
+so now we go b6 we undermine the bishop
+oh sorry sorry keep doing that
+queen a4 attacking the knight queen d7
+defending the knight
+getting rid of the pawn sliding the
+queen over to c7
+the queen circles around to v6 and now
+we intercept the bishop with knight d4
+bang bang bang
+easy
+very very easy
+yeah short game but a lot of a lot of
+interesting moments so hopefully you
+enjoyed
+uh
+yeah so bishop b4 i thought would
+prolong the game i mean white resigned
+but
+bishop b4 would have kept white in the
+game
+so here i was intending to play rook e
+to d8
+uh the point is to get the rook away
+from the queen's
+contact with it and after rook takes p2
+you have the move rook c1 check
+rook d1 and now knight e2 check it's
+simple simple tactics
+and then the rook is toast and black
+white is mated
+yeah a lot of a lot of
+meat there to unpack
+[Music]

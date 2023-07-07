@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.08"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "mhj76"]
+[Result "1-0"]
+[CurrentPosition "8/5Rpk/p6p/1p3Q2/4P3/P1q5/4rPPP/5RK1 b - -"]
+[Timezone "UTC"]
+[ECO "B22"]
+[ECOUrl "https://www.chess.com/openings/Alapin-Sicilian-Defense...3.d4-Nf6-4.Bd3-Nc6-5.Nf3"]
+[UTCDate "2020.12.08"]
+[UTCTime "08:26:12"]
+[WhiteElo "1843"]
+[BlackElo "1992"]
+[TimeControl "300"]
+[Termination "SenseiDanya won - game abandoned"]
+[StartTime "08:26:12"]
+[EndDate "2020.12.08"]
+[EndTime "08:33:42"]
+[Link "https://www.chess.com/game/live/5914794898"]
+
+1. e4 {[%clk 0:05:00]} 1... c5 {[%clk 0:04:58.4]} 2. c3 {[%clk 0:04:58.4]} 2... d6 {[%clk 0:04:57.8]} 3. d4 {[%clk 0:04:53.3]} 3... Nf6 {[%clk 0:04:57.4]} 4. Bd3 {[%clk 0:04:46.3]} 4... Nc6 {[%clk 0:04:51.4]} 5. Nf3 {[%clk 0:04:43]} 5... e6 {[%clk 0:04:48.8]} 6. O-O {[%clk 0:04:35.1]} 6... Be7 {[%clk 0:04:48.2]} 7. Bg5 {[%clk 0:04:20.3]} 7... O-O {[%clk 0:04:46.6]} 8. Nbd2 {[%clk 0:04:19.6]} 8... cxd4 {[%clk 0:04:38]} 9. cxd4 {[%clk 0:04:18.5]} 9... e5 {[%clk 0:04:28.4]} 10. d5 {[%clk 0:04:00.8]} 10... Nb4 {[%clk 0:04:26.8]} 11. Be2 {[%clk 0:03:47.7]} 11... Nfxd5 {[%clk 0:04:24.7]} 12. Bxe7 {[%clk 0:03:42.3]} 12... Nxe7 {[%clk 0:04:22.6]} 13. Nc4 {[%clk 0:03:31.2]} 13... Be6 {[%clk 0:04:11.6]} 14. Nxd6 {[%clk 0:03:28.7]} 14... Qc7 {[%clk 0:03:44.5]} 15. Nb5 {[%clk 0:02:59.6]} 15... Qb6 {[%clk 0:03:38.5]} 16. Nxe5 {[%clk 0:02:47.6]} 16... a6 {[%clk 0:03:20.8]} 17. Nc3 {[%clk 0:02:42.8]} 17... Rad8 {[%clk 0:03:16.5]} 18. Qa4 {[%clk 0:02:27.5]} 18... Qc5 {[%clk 0:03:00.9]} 19. a3 {[%clk 0:01:52.9]} 19... Qxe5 {[%clk 0:02:55.1]} 20. Qxb4 {[%clk 0:01:52.1]} 20... b5 {[%clk 0:02:41.3]} 21. Qxe7 {[%clk 0:01:50.3]} 21... Rd2 {[%clk 0:02:34.6]} 22. Rad1 {[%clk 0:01:44.3]} 22... Rxb2 {[%clk 0:02:31.8]} 23. Rd8 {[%clk 0:01:34.7]} 23... h6 {[%clk 0:02:15.4]} 24. Rxf8+ {[%clk 0:01:28.8]} 24... Kh7 {[%clk 0:02:13]} 25. Rxf7 {[%clk 0:01:26.1]} 25... Qxc3 {[%clk 0:02:03.6]} 26. Qxe6 {[%clk 0:01:24.9]} 26... Rxe2 {[%clk 0:02:01.1]} 27. Qf5+ {[%clk 0:01:13.1]} 1-0
+
+

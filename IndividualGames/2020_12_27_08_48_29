@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.27"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "AlexSem"]
+[Result "1-0"]
+[CurrentPosition "r2kqR2/4Q2p/p5p1/1p1Np3/4p3/4B3/PPP3PP/R5K1 b - -"]
+[Timezone "UTC"]
+[ECO "C70"]
+[ECOUrl "https://www.chess.com/openings/Ruy-Lopez-Opening-Morphy-Defense-Caro-Variation-5.Bb3-Nf6"]
+[UTCDate "2020.12.27"]
+[UTCTime "08:48:29"]
+[WhiteElo "1412"]
+[BlackElo "1469"]
+[TimeControl "600"]
+[Termination "SenseiDanya won by resignation"]
+[StartTime "08:48:29"]
+[EndDate "2020.12.27"]
+[EndTime "08:59:00"]
+[Link "https://www.chess.com/game/live/6069689253"]
+
+1. e4 {[%clk 0:10:00]} 1... e5 {[%clk 0:10:00]} 2. Nf3 {[%clk 0:09:58.4]} 2... Nc6 {[%clk 0:09:58.4]} 3. Bb5 {[%clk 0:09:54]} 3... a6 {[%clk 0:09:57.2]} 4. Ba4 {[%clk 0:09:53]} 4... b5 {[%clk 0:09:55.7]} 5. Bb3 {[%clk 0:09:41.3]} 5... Nf6 {[%clk 0:09:54.7]} 6. d4 {[%clk 0:09:11.7]} 6... d6 {[%clk 0:09:33.3]} 7. Ng5 {[%clk 0:07:55.8]} 7... Bg4 {[%clk 0:08:22.5]} 8. Bxf7+ {[%clk 0:07:21.2]} 8... Ke7 {[%clk 0:08:12.3]} 9. f3 {[%clk 0:07:20.5]} 9... Bh5 {[%clk 0:08:06]} 10. Bxh5 {[%clk 0:07:04.9]} 10... Nxh5 {[%clk 0:08:05.9]} 11. d5 {[%clk 0:06:42.7]} 11... Nb8 {[%clk 0:07:29.5]} 12. Ne6 {[%clk 0:06:41.7]} 12... Qd7 {[%clk 0:07:23.7]} 13. O-O {[%clk 0:06:27.5]} 13... c6 {[%clk 0:07:13.8]} 14. f4 {[%clk 0:06:11.9]} 14... cxd5 {[%clk 0:06:39.5]} 15. Nxf8 {[%clk 0:05:36.4]} 15... Rxf8 {[%clk 0:06:37.2]} 16. Qxh5 {[%clk 0:05:35.2]} 16... Nc6 {[%clk 0:06:23.6]} 17. Nc3 {[%clk 0:05:23.2]} 17... dxe4 {[%clk 0:06:10.4]} 18. Nd5+ {[%clk 0:05:22.1]} 18... Kd8 {[%clk 0:06:02.3]} 19. Be3 {[%clk 0:05:13.4]} 19... g6 {[%clk 0:05:29]} 20. Qg5+ {[%clk 0:04:53.9]} 20... Ne7 {[%clk 0:05:14.1]} 21. fxe5 {[%clk 0:04:45.4]} 21... dxe5 {[%clk 0:05:10.4]} 22. Rxf8+ {[%clk 0:04:44.1]} 22... Qe8 {[%clk 0:05:04.7]} 23. Qxe7+ {[%clk 0:04:43.2]} 1-0
+
+

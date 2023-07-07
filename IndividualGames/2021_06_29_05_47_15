@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.06.29"]
+[Round "-"]
+[White "OhMyLands"]
+[Black "essamahmed62"]
+[Result "1-0"]
+[CurrentPosition "r1b2bk1/3q3r/p2p1p1p/1pnPpP2/2p1P3/2P1B1PR/PPB2PK1/R2Q4 b - -"]
+[Timezone "UTC"]
+[ECO "C88"]
+[ECOUrl "https://www.chess.com/openings/Ruy-Lopez-Opening-Morphy-Defense-Closed-6.Re1-b5-7.Bb3"]
+[UTCDate "2021.06.29"]
+[UTCTime "05:47:15"]
+[WhiteElo "2027"]
+[BlackElo "2133"]
+[TimeControl "600"]
+[Termination "OhMyLands won by resignation"]
+[StartTime "05:47:15"]
+[EndDate "2021.06.29"]
+[EndTime "05:57:27"]
+[Link "https://www.chess.com/game/live/18684616413"]
+
+1. e4 {[%clk 0:09:59]} 1... e5 {[%clk 0:09:58.5]} 2. Nf3 {[%clk 0:09:52.1]} 2... Nc6 {[%clk 0:09:56.8]} 3. Bb5 {[%clk 0:09:51.2]} 3... a6 {[%clk 0:09:55.3]} 4. Ba4 {[%clk 0:09:47.2]} 4... Nf6 {[%clk 0:09:53.8]} 5. O-O {[%clk 0:09:42.1]} 5... b5 {[%clk 0:09:05.3]} 6. Bb3 {[%clk 0:09:40]} 6... Be7 {[%clk 0:09:05.2]} 7. Re1 {[%clk 0:09:08.9]} 7... d6 {[%clk 0:09:02.4]} 8. c3 {[%clk 0:08:54.7]} 8... Na5 {[%clk 0:08:56]} 9. Bc2 {[%clk 0:08:34.7]} 9... c5 {[%clk 0:08:54.4]} 10. d4 {[%clk 0:08:29]} 10... Qc7 {[%clk 0:08:52.1]} 11. Nbd2 {[%clk 0:08:07]} 11... O-O {[%clk 0:08:43.2]} 12. d5 {[%clk 0:07:27.8]} 12... c4 {[%clk 0:08:29.4]} 13. Nf1 {[%clk 0:07:26]} 13... Re8 {[%clk 0:08:27.4]} 14. Ng3 {[%clk 0:07:24.9]} 14... h6 {[%clk 0:08:25.4]} 15. h3 {[%clk 0:06:28.7]} 15... Bf8 {[%clk 0:08:22.3]} 16. Nh2 {[%clk 0:06:00.5]} 16... g6 {[%clk 0:08:16]} 17. Ng4 {[%clk 0:05:29.8]} 17... Nxg4 {[%clk 0:08:02.2]} 18. hxg4 {[%clk 0:05:29]} 18... Qd7 {[%clk 0:07:39.3]} 19. Nf5 {[%clk 0:05:14.4]} 19... gxf5 {[%clk 0:07:15.1]} 20. gxf5 {[%clk 0:05:13.6]} 20... f6 {[%clk 0:07:05.4]} 21. Re3 {[%clk 0:05:06.3]} 21... Re7 {[%clk 0:06:48.5]} 22. Rh3 {[%clk 0:05:03.9]} 22... Rh7 {[%clk 0:06:39.1]} 23. Be3 {[%clk 0:04:51.3]} 23... Nb7 {[%clk 0:06:14.1]} 24. g3 {[%clk 0:04:41.6]} 24... Nc5 {[%clk 0:05:51.9]} 25. Kg2 {[%clk 0:04:31.7]} 1-0
+
+

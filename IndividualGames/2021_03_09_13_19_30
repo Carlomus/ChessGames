@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.09"]
+[Round "-"]
+[White "OhMyLands"]
+[Black "Narvaez_3"]
+[Result "1-0"]
+[CurrentPosition "rnbqk2r/pp3ppp/2pb4/2n3B1/2B5/2N5/PPP1QPPP/2KR2NR b - -"]
+[Timezone "UTC"]
+[ECO "C21"]
+[ECOUrl "https://www.chess.com/openings/Center-Game"]
+[UTCDate "2021.03.09"]
+[UTCTime "13:19:30"]
+[WhiteElo "924"]
+[BlackElo "860"]
+[TimeControl "600"]
+[Termination "OhMyLands won by resignation"]
+[StartTime "13:19:30"]
+[EndDate "2021.03.09"]
+[EndTime "13:26:14"]
+[Link "https://www.chess.com/game/live/9035157235"]
+
+1. e4 {[%clk 0:09:59]} 1... e5 {[%clk 0:09:58.6]} 2. d4 {[%clk 0:09:56.8]} 2... Nf6 {[%clk 0:09:48.8]} 3. dxe5 {[%clk 0:09:24.6]} 3... Nxe4 {[%clk 0:09:47.2]} 4. Bc4 {[%clk 0:08:48.1]} 4... c6 {[%clk 0:09:18]} 5. Qe2 {[%clk 0:07:54.2]} 5... Nc5 {[%clk 0:09:02.2]} 6. Nc3 {[%clk 0:06:41.1]} 6... d5 {[%clk 0:08:50.6]} 7. exd6+ {[%clk 0:06:39.1]} 7... Kd7 {[%clk 0:08:40.1]} 8. Be3 {[%clk 0:05:55.9]} 8... Bxd6 {[%clk 0:08:12.8]} 9. O-O-O {[%clk 0:05:54.5]} 9... Ke8 {[%clk 0:07:58]} 10. Bg5+ {[%clk 0:05:42.7]} 1-0
+
+

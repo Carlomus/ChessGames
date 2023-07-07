@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.06"]
+[Round "-"]
+[White "OhMyLands"]
+[Black "chebatron"]
+[Result "1-0"]
+[CurrentPosition "rn1k1bnr/ppp2ppp/8/4N3/4P1b1/8/PPP2PPP/RNB1KB1R b KQ -"]
+[Timezone "UTC"]
+[ECO "B07"]
+[ECOUrl "https://www.chess.com/openings/Pirc-Defense-Maroczy-Defense"]
+[UTCDate "2021.03.06"]
+[UTCTime "05:20:01"]
+[WhiteElo "772"]
+[BlackElo "691"]
+[TimeControl "600"]
+[Termination "OhMyLands won by resignation"]
+[StartTime "05:20:01"]
+[EndDate "2021.03.06"]
+[EndTime "05:22:05"]
+[Link "https://www.chess.com/game/live/8747119111"]
+
+1. e4 {[%clk 0:10:00]} 1... e5 {[%clk 0:09:59.1]} 2. d4 {[%clk 0:09:58.8]} 2... d6 {[%clk 0:09:50.3]} 3. Nf3 {[%clk 0:09:20.3]} 3... Bg4 {[%clk 0:09:46.8]} 4. dxe5 {[%clk 0:08:39.2]} 4... dxe5 {[%clk 0:09:42.2]} 5. Qxd8+ {[%clk 0:08:32.3]} 5... Kxd8 {[%clk 0:09:40.5]} 6. Nxe5 {[%clk 0:08:23.7]} 1-0
+
+

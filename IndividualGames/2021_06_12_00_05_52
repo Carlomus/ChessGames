@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.06.12"]
+[Round "-"]
+[White "Khaled716"]
+[Black "OhMyLands"]
+[Result "0-1"]
+[CurrentPosition "r1b1k2r/ppppqppp/2n5/8/1PP2B2/3n1N2/1P1NPPPP/R2QKB1R w KQkq -"]
+[Timezone "UTC"]
+[ECO "A52"]
+[ECOUrl "https://www.chess.com/openings/Budapest-Gambit-Adler-Variation-4...Nc6-5.Bf4"]
+[UTCDate "2021.06.12"]
+[UTCTime "00:05:52"]
+[WhiteElo "1882"]
+[BlackElo "1933"]
+[TimeControl "600"]
+[Termination "OhMyLands won by checkmate"]
+[StartTime "00:05:52"]
+[EndDate "2021.06.12"]
+[EndTime "00:09:22"]
+[Link "https://www.chess.com/game/live/17195517073"]
+
+1. d4 {[%clk 0:09:56.9]} 1... Nf6 {[%clk 0:09:54.2]} 2. c4 {[%clk 0:09:52.6]} 2... e5 {[%clk 0:09:23.6]} 3. dxe5 {[%clk 0:09:48.8]} 3... Ng4 {[%clk 0:08:46.1]} 4. Nf3 {[%clk 0:09:43.4]} 4... Nc6 {[%clk 0:08:14.6]} 5. Bf4 {[%clk 0:09:33.6]} 5... Bb4+ {[%clk 0:08:00.3]} 6. Nbd2 {[%clk 0:09:27.6]} 6... Qe7 {[%clk 0:07:53.7]} 7. a3 {[%clk 0:09:19.4]} 7... Ngxe5 {[%clk 0:07:39.3]} 8. axb4 {[%clk 0:09:03.6]} 8... Nd3# {[%clk 0:07:30.6]} 0-1
+
+

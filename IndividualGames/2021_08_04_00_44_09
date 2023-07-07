@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.04"]
+[Round "-"]
+[White "OhMyLands"]
+[Black "JordanFury"]
+[Result "1-0"]
+[CurrentPosition "r1b2Q1k/pp1n3p/8/4p3/2B2B2/1N6/PPP2qPP/R6K b - -"]
+[Timezone "UTC"]
+[ECO "B12"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-Fantasy-Variation-3...e6-4.Nc3-Nf6"]
+[UTCDate "2021.08.04"]
+[UTCTime "00:44:09"]
+[WhiteElo "2087"]
+[BlackElo "1989"]
+[TimeControl "600"]
+[Termination "OhMyLands won by resignation"]
+[StartTime "00:44:09"]
+[EndDate "2021.08.04"]
+[EndTime "00:58:11"]
+[Link "https://www.chess.com/game/live/21776971193"]
+
+1. e4 {[%clk 0:09:58.5]} 1... c6 {[%clk 0:09:58.9]} 2. d4 {[%clk 0:09:46.7]} 2... d5 {[%clk 0:09:58.8]} 3. f3 {[%clk 0:09:26]} 3... e6 {[%clk 0:09:53.1]} 4. Nc3 {[%clk 0:08:53.9]} 4... Nf6 {[%clk 0:09:41.6]} 5. Bd3 {[%clk 0:08:15.7]} 5... Bb4 {[%clk 0:09:13]} 6. Ne2 {[%clk 0:07:40.7]} 6... O-O {[%clk 0:08:57.8]} 7. O-O {[%clk 0:07:39]} 7... Qb6 {[%clk 0:08:47.1]} 8. Kh1 {[%clk 0:07:22.7]} 8... c5 {[%clk 0:08:13]} 9. Na4 {[%clk 0:06:46.7]} 9... Qc7 {[%clk 0:07:56.1]} 10. Bf4 {[%clk 0:06:19.8]} 10... Qc6 {[%clk 0:07:44.4]} 11. Nxc5 {[%clk 0:05:09.9]} 11... Bxc5 {[%clk 0:07:34.3]} 12. dxc5 {[%clk 0:05:08.9]} 12... dxe4 {[%clk 0:07:14.5]} 13. fxe4 {[%clk 0:05:05.4]} 13... Qxc5 {[%clk 0:07:06.8]} 14. e5 {[%clk 0:04:03.5]} 14... Ng4 {[%clk 0:06:56.5]} 15. Nd4 {[%clk 0:02:54.4]} 15... f5 {[%clk 0:06:32.9]} 16. exf6 {[%clk 0:02:46.8]} 16... e5 {[%clk 0:06:22.7]} 17. Nb3 {[%clk 0:02:28.5]} 17... Nf2+ {[%clk 0:06:04.6]} 18. Rxf2 {[%clk 0:02:27.4]} 18... Qxf2 {[%clk 0:06:02.9]} 19. Bc4+ {[%clk 0:02:11.3]} 19... Kh8 {[%clk 0:05:53.8]} 20. Qd6 {[%clk 0:01:38]} 20... Nd7 {[%clk 0:05:36]} 21. fxg7+ {[%clk 0:01:19.3]} 21... Kxg7 {[%clk 0:05:33.5]} 22. Qe7+ {[%clk 0:01:18.3]} 22... Kh8 {[%clk 0:05:25.9]} 23. Qxf8+ {[%clk 0:00:58.4]} 1-0
+
+

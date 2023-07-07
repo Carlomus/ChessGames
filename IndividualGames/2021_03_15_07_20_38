@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.15"]
+[Round "-"]
+[White "OhMyLands"]
+[Black "Cloverstar1"]
+[Result "1-0"]
+[CurrentPosition "7r/pkp4p/2p4Q/8/8/2N5/PPP3PP/R5K1 b - -"]
+[Timezone "UTC"]
+[ECO "B00"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Defense-Kennedy-Variation"]
+[UTCDate "2021.03.15"]
+[UTCTime "07:20:38"]
+[WhiteElo "1040"]
+[BlackElo "1009"]
+[TimeControl "600"]
+[Termination "OhMyLands won by resignation"]
+[StartTime "07:20:38"]
+[EndDate "2021.03.15"]
+[EndTime "07:33:31"]
+[Link "https://www.chess.com/game/live/9531883341"]
+
+1. e4 {[%clk 0:10:00]} 1... e5 {[%clk 0:09:58.6]} 2. d4 {[%clk 0:09:57.6]} 2... Nc6 {[%clk 0:09:42.6]} 3. dxe5 {[%clk 0:09:25.6]} 3... Nxe5 {[%clk 0:09:40.9]} 4. Nc3 {[%clk 0:08:48.8]} 4... Nf6 {[%clk 0:09:28]} 5. f4 {[%clk 0:08:16.6]} 5... Nc6 {[%clk 0:09:02]} 6. e5 {[%clk 0:08:13.9]} 6... Ng8 {[%clk 0:08:51.3]} 7. Nf3 {[%clk 0:07:57.9]} 7... d6 {[%clk 0:08:45.4]} 8. Bb5 {[%clk 0:07:07.9]} 8... Bd7 {[%clk 0:08:36.5]} 9. O-O {[%clk 0:07:00.1]} 9... dxe5 {[%clk 0:08:35.2]} 10. fxe5 {[%clk 0:06:44.6]} 10... Qe7 {[%clk 0:08:10.7]} 11. Nd5 {[%clk 0:05:47.3]} 11... Qc5+ {[%clk 0:08:01.3]} 12. Be3 {[%clk 0:05:41.6]} 12... Nd4 {[%clk 0:06:28.3]} 13. Bxd7+ {[%clk 0:05:12.7]} 13... Kxd7 {[%clk 0:06:24.4]} 14. Nc3 {[%clk 0:04:26.1]} 14... Rd8 {[%clk 0:05:53.5]} 15. Bxd4 {[%clk 0:04:05.8]} 15... Qc6 {[%clk 0:05:45.6]} 16. e6+ {[%clk 0:03:36.5]} 16... fxe6 {[%clk 0:05:39.2]} 17. Ne5+ {[%clk 0:03:34.7]} 17... Kc8 {[%clk 0:05:25.2]} 18. Nxc6 {[%clk 0:03:33.9]} 18... bxc6 {[%clk 0:05:18.1]} 19. Rxf8 {[%clk 0:03:13.1]} 19... Rxf8 {[%clk 0:05:00.6]} 20. Bxg7 {[%clk 0:03:11.4]} 20... Rd8 {[%clk 0:04:48.7]} 21. Qg4 {[%clk 0:03:06.7]} 21... Nh6 {[%clk 0:04:41.7]} 22. Qxe6+ {[%clk 0:03:03.3]} 22... Kb7 {[%clk 0:04:32]} 23. Bxh8 {[%clk 0:03:02.3]} 23... Rxh8 {[%clk 0:04:19]} 24. Qxh6 {[%clk 0:03:01.2]} 1-0
+
+

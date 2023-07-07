@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.04.06"]
+[Round "-"]
+[White "okufa"]
+[Black "OhMyLands"]
+[Result "0-1"]
+[CurrentPosition "5r2/p1Q3pk/7p/5p2/4q3/4BKR1/PP3P1P/4r3 w - -"]
+[Timezone "UTC"]
+[ECO "D02"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Pseudo-Catalan-Variation...4.Bg2-e6-5.O-O-h6"]
+[UTCDate "2021.04.06"]
+[UTCTime "05:10:20"]
+[WhiteElo "1302"]
+[BlackElo "1332"]
+[TimeControl "600"]
+[Termination "OhMyLands won by checkmate"]
+[StartTime "05:10:20"]
+[EndDate "2021.04.06"]
+[EndTime "05:21:03"]
+[Link "https://www.chess.com/game/live/11424814773"]
+
+1. d4 {[%clk 0:10:00]} 1... d5 {[%clk 0:09:54.6]} 2. Nf3 {[%clk 0:09:58.1]} 2... Nf6 {[%clk 0:09:48.3]} 3. g3 {[%clk 0:09:55.9]} 3... Bf5 {[%clk 0:09:26.2]} 4. Bg2 {[%clk 0:09:53.6]} 4... e6 {[%clk 0:09:23.9]} 5. O-O {[%clk 0:09:50.2]} 5... h6 {[%clk 0:09:07.5]} 6. Nc3 {[%clk 0:09:44.9]} 6... Be7 {[%clk 0:08:47.8]} 7. Re1 {[%clk 0:09:43]} 7... O-O {[%clk 0:08:45.6]} 8. Nh4 {[%clk 0:09:30.4]} 8... Bh7 {[%clk 0:08:41.9]} 9. e4 {[%clk 0:09:27]} 9... Nxe4 {[%clk 0:07:37.9]} 10. Nxe4 {[%clk 0:09:23.9]} 10... Bxh4 {[%clk 0:07:36.9]} 11. gxh4 {[%clk 0:09:16]} 11... dxe4 {[%clk 0:07:35]} 12. Bxe4 {[%clk 0:09:07.7]} 12... Nc6 {[%clk 0:06:53.3]} 13. Bxh7+ {[%clk 0:09:00]} 13... Kxh7 {[%clk 0:06:52]} 14. Re4 {[%clk 0:08:28.8]} 14... f5 {[%clk 0:06:21.8]} 15. Rxe6 {[%clk 0:07:43.9]} 15... Nxd4 {[%clk 0:06:17.6]} 16. Re3 {[%clk 0:07:06.1]} 16... Qxh4 {[%clk 0:06:14.3]} 17. Rg3 {[%clk 0:06:25.6]} 17... Rad8 {[%clk 0:06:00.1]} 18. Be3 {[%clk 0:05:39.2]} 18... Nb3 {[%clk 0:05:27.7]} 19. Qf3 {[%clk 0:05:16.2]} 19... Nxa1 {[%clk 0:05:23.2]} 20. Qxb7 {[%clk 0:04:59.8]} 20... Rd1+ {[%clk 0:05:17.4]} 21. Kg2 {[%clk 0:04:56.4]} 21... Nxc2 {[%clk 0:05:16.3]} 22. Qxc7 {[%clk 0:04:51.7]} 22... Ne1+ {[%clk 0:05:11]} 23. Kf1 {[%clk 0:04:45.7]} 23... Nf3+ {[%clk 0:05:07.7]} 24. Ke2 {[%clk 0:04:44.9]} 24... Re1+ {[%clk 0:04:51.2]} 25. Kxf3 {[%clk 0:04:40.2]} 25... Qe4# {[%clk 0:04:50.1]} 0-1
+
+

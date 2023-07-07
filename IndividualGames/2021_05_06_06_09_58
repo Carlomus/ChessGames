@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.05.06"]
+[Round "-"]
+[White "OhMyLands"]
+[Black "abhinlal"]
+[Result "1-0"]
+[CurrentPosition "rnb1kbnr/ppp1qppp/3p4/3NP3/5p2/5N2/PPPPQ1PP/R1B1KB1R b KQkq -"]
+[Timezone "UTC"]
+[ECO "C28"]
+[ECOUrl "https://www.chess.com/openings/Vienna-Game-Falkbeer-Vienna-Gambit"]
+[UTCDate "2021.05.06"]
+[UTCTime "06:09:58"]
+[WhiteElo "1613"]
+[BlackElo "1600"]
+[TimeControl "600"]
+[Termination "OhMyLands won by resignation"]
+[StartTime "06:09:58"]
+[EndDate "2021.05.06"]
+[EndTime "06:17:20"]
+[Link "https://www.chess.com/game/live/14020316139"]
+
+1. e4 {[%clk 0:09:50.6]} 1... e5 {[%clk 0:09:58.3]} 2. Nc3 {[%clk 0:09:20.6]} 2... Nf6 {[%clk 0:09:53.6]} 3. f4 {[%clk 0:08:12.9]} 3... exf4 {[%clk 0:09:18.4]} 4. e5 {[%clk 0:07:35.1]} 4... Qe7 {[%clk 0:09:15.5]} 5. Qe2 {[%clk 0:05:32.8]} 5... Ng8 {[%clk 0:08:52.4]} 6. Nf3 {[%clk 0:05:24.7]} 6... d6 {[%clk 0:08:48.9]} 7. Nd5 {[%clk 0:04:19.7]} 1-0
+
+

@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.09.15"]
+[Round "-"]
+[White "OhMyLands"]
+[Black "benson298"]
+[Result "1-0"]
+[CurrentPosition "rnbqkbnr/pp1ppppp/8/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR b KQkq -"]
+[Timezone "UTC"]
+[ECO "B22"]
+[ECOUrl "https://www.chess.com/openings/Alapin-Sicilian-Defense"]
+[UTCDate "2021.09.15"]
+[UTCTime "00:24:16"]
+[WhiteElo "2168"]
+[BlackElo "2133"]
+[TimeControl "600"]
+[Termination "OhMyLands won - game abandoned"]
+[StartTime "00:24:16"]
+[EndDate "2021.09.15"]
+[EndTime "00:29:26"]
+[Link "https://www.chess.com/game/live/25404611791"]
+
+1. e4 {[%clk 0:10:00]} 1... c5 {[%clk 0:09:57.6]} 2. c3 {[%clk 0:09:54.8]} 1-0
+
+

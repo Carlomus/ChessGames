@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.12.20"]
+[Round "-"]
+[White "CM2029"]
+[Black "FrankfurtAirport"]
+[Result "0-1"]
+[CurrentPosition "r1bk1b1r/pp3ppp/8/2pp4/3n4/P4P2/BPPP2PP/RNB1K1Nn w - -"]
+[Timezone "UTC"]
+[ECO "B20"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Bowdler-Attack-2...Nc6"]
+[UTCDate "2022.12.20"]
+[UTCTime "06:40:40"]
+[WhiteElo "1508"]
+[BlackElo "1431"]
+[TimeControl "900+10"]
+[Termination "FrankfurtAirport won by resignation"]
+[StartTime "06:40:40"]
+[EndDate "2022.12.20"]
+[EndTime "06:51:42"]
+[Link "https://www.chess.com/game/live/65257265471"]
+
+1. e4 {[%clk 0:15:10]} 1... c5 {[%clk 0:15:08.5]} 2. Bc4 {[%clk 0:14:59.6]} 2... Nc6 {[%clk 0:14:59.4]} 3. Qh5 {[%clk 0:15:00.9]} 3... e6 {[%clk 0:14:43.5]} 4. a3 {[%clk 0:14:43.5]} 4... Nf6 {[%clk 0:14:41]} 5. Qh4 {[%clk 0:14:06.7]} 5... Nd4 {[%clk 0:13:11.1]} 6. Kd1 {[%clk 0:13:36.3]} 6... d5 {[%clk 0:12:19.1]} 7. exd5 {[%clk 0:13:16.4]} 7... exd5 {[%clk 0:12:18.5]} 8. Ba2 {[%clk 0:13:12.2]} 8... Ne4 {[%clk 0:09:56.9]} 9. Qxd8+ {[%clk 0:13:12.9]} 9... Kxd8 {[%clk 0:10:06.1]} 10. f3 {[%clk 0:13:18.8]} 10... Nf2+ {[%clk 0:10:04]} 11. Ke1 {[%clk 0:13:03.9]} 11... Nxh1 {[%clk 0:10:12]} 0-1
+
+

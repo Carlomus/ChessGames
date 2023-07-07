@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.11.17"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "richardoha"]
+[Result "1-0"]
+[CurrentPosition "rnb1k1nr/pp1pppbp/2q3p1/1B1N4/1B2P3/8/P1P2PPP/1R1QK1NR b Kkq -"]
+[Timezone "UTC"]
+[ECO "B06"]
+[ECOUrl "https://www.chess.com/openings/Modern-Defense-Standard-Pterodactyl-Eastern-Variation-Rhamphorhynchus-Variation-4...Qa5-5.Bd2-Qxc5-6.Nd5"]
+[UTCDate "2020.11.17"]
+[UTCTime "05:36:27"]
+[WhiteElo "1379"]
+[BlackElo "1353"]
+[TimeControl "300"]
+[Termination "SenseiDanya won by resignation"]
+[StartTime "05:36:27"]
+[EndDate "2020.11.17"]
+[EndTime "05:40:45"]
+[Link "https://www.chess.com/game/live/5761035450"]
+
+1. e4 {[%clk 0:04:59.6]} 1... g6 {[%clk 0:04:59.7]} 2. d4 {[%clk 0:04:58.4]} 2... Bg7 {[%clk 0:04:59.6]} 3. Nc3 {[%clk 0:04:53.3]} 3... c5 {[%clk 0:04:45.1]} 4. dxc5 {[%clk 0:04:35.1]} 4... Qa5 {[%clk 0:04:43.1]} 5. Bd2 {[%clk 0:04:18.7]} 5... Qxc5 {[%clk 0:04:38.5]} 6. Nd5 {[%clk 0:04:10.7]} 6... Bxb2 {[%clk 0:04:22.3]} 7. Rb1 {[%clk 0:04:01.4]} 7... Bg7 {[%clk 0:04:18]} 8. Bb4 {[%clk 0:03:41.2]} 8... Qc6 {[%clk 0:03:08]} 9. Bb5 {[%clk 0:03:39.1]} 1-0
+
+

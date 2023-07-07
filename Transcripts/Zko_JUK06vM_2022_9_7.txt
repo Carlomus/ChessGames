@@ -1,0 +1,356 @@
+[Music]
+we are uh 21.65 let's keep going
+10 minute game
+2238 that is the highest rated player we
+faced
+e4 let's go with a um let's go with the
+cairo
+let's go with the caro
+let's play something a little bit more
+positional
+let's go with the caro the narrow con
+yeah we've been playing the carol pretty
+consistently in the speed run
+all right
+so this is the pawn of attack
+this is
+probably top three in terms of most
+popular weapons against the karo khan if
+you play the caro
+you have to know
+what to do against the pawn of this is
+one of the most reputable and one of the
+most dangerous lines in existence so you
+start by playing knight f6
+and the
+pawn structure that is most closely
+associated with the pawn up is what who
+can tell me what is the
+pawn structure
+type
+that yeah iqp so pano and ib are not
+synonyms the iqp just means isolated
+queen pawn and if at any moment white
+takes on d5 or black takes on c4 the d4
+pawn becomes isolated you get a classic
+iqp pawn structure so for now we're
+developing our pieces knight c6 now
+white has two main moves there's knight
+f3 which is the traditional line the
+other move is bishop g5 so
+traditionally
+the main move here is bishop g4 that
+leads to a forcing line which results in
+an equal end game
+and in terms of playing for a win bishop
+g4 is sub-optimal there is also the more
+conservative option of playing e6
+nothing wrong with that well it's a
+little bit passive but it leads to an
+iqp structure but
+recently there also has been a very
+interesting line that i have seen
+in the database at first i could not
+believe my eyes because it looks like an
+insane move but we're actually going to
+try it and see how it lands against a
+strong player and that is the move not
+pawn e6 but bishop e6
+now the reason that this move should
+cause revulsion in u is because
+it blocks the bishop on f8 but
+the bishop on f8 can be developed in two
+other ways the first
+okay white plays bishop g5 so if white
+takes our knight then we will take with
+the e pawn and our bishop will then have
+a diagonal we're happy we're groovy so
+against bishop g5 the theory is to play
+queen to a5
+we develop our queen to a nice spot
+bishop f6 there we go e takes f6 now i'm
+not aware that this is already i think
+we're out of theory and i think our
+opponent is bluffing us c5 okay
+now this is one of the main ideas for
+white to play c5 so here's the thing
+how do we handle this position with
+black
+now what we need to try to do here is
+attack the d4 pawn this is going to be
+the biggest really the only target in
+white's position the way that we're
+going to do it is as follows we're going
+to play
+we're going to fianchetto our bishop
+then
+if
+we are permitted we're going to put the
+bishop on g4 we're going to try to trade
+the bishop for the knight on f3 and
+eventually we're going to open up the
+diagonal with f5 now we're probably not
+going to be permitted to play all of
+these moves
+but we're going to do our best to play
+as many of them as we can let's start
+with g6
+let's develop our bishop to g7 castles
+castles this is all
+we can all we can execute this very
+quickly castles castles and now we are
+more or less ready to play bishop g4 the
+only problem is that d5 is going to hang
+so we'll need to calculate it carefully
+okay a3
+so let's consider first and foremost the
+move bishop g4 does bishop g4 work here
+so what happens bishop g4
+knight takes d5
+we can just play knight takes d4 yeah it
+works pretty handily i think we can
+safely go bishop g4 that was not hard to
+calculate
+and i think that we are able to achieve
+our ideal setup b4 is not dangerous
+though we can just drop our queen back
+to d8 and in a way that actually helps
+us because now the pawn on d5 is
+protected by the queen bishop e2 and
+what is the completion move of our plan
+what is the final move
+what is the final move of our plan
+yeah now we play the move f5 we open up
+the dark square bishop and our plan has
+worked to perfection
+okay rook b1
+now very important here is not to rush
+with bishop takes f3 that is a move we
+can play a little bit later the problem
+with bishop takes f3 straight away and
+our opponent has just made an incredibly
+strong move by the way
+is that after bishop takes f3 knight
+takes d4 white can snap up the pawn on
+d5 so ideally
+ideally we would make a move
+that would somehow over protect the pawn
+on d5 no such move exists
+so in lieu of that
+we should make
+a move that somehow improves our
+position and i'm thinking of two moves
+queen d7 looks pretty interesting
+rook e8 also looks nice i think these
+moves are largely interchangeable we're
+going to play queen d7 anyway
+and after h3 we can actually consider
+going bishop h5 this pawn on f5
+also contains the strength of
+disallowing g4 queen d2
+okay let me think about this for a
+second
+so again we do not have to rush with
+bishop takes f3 that move
+is on tap there's not much that black
+can
+what i can do about it so i think that
+we should continue improving our
+position but we need to be careful about
+how we do that we play queen d7 here
+white actually has the move b5 which is
+very very annoying
+because after queen d7 b5 if we take on
+f3 white has bc attacking our queen
+so actually queen d7 is not as good
+we have an exchange sacrifice rookie 4
+is very interesting as well
+don't like it as much i think it's
+dubious
+we could play a6 and try to prevent b5
+yes for sure
+we could play a6
+i like that move let's play a6 let's
+prevent b5
+of course a4 uh yeah rook takes c2 is
+interesting too but i i
+don't think the comp is sufficient there
+okay rookie e1
+now i think
+now i think we should play queen d7
+now i think we should play queen d7
+so we're just improving our position
+kind of a cat and mouse game bishop d1
+very good move by our opponent
+this guy's very serious
+rookie four is very interesting here
+but i'm not enthralled by that either
+let's go rook 88 and bring our other
+rook into the game
+maybe rookie 6 was
+stronger he goes king h1
+i mean even here rookie 4 again looks
+very interesting
+rook takes c1 rook takes c1 there there
+there there there
+calculation calculation i think rookie 6
+makes sense
+now the purpose of the move rookie 6 is
+twofold the first is we are tempting
+light into taking on e6
+and here we're gonna go bishop h5 we are
+not going to take on f3 just yet g3 okay
+this has to be bad
+now the second purpose of the move
+rookie six
+aha wait a second take sticks there are
+some tactics there oh
+oh i think i see something sexy
+i think i i think the time has come for
+us to take
+i think the time has come for us to take
+and i'll
+if our opponent falls for
+the concept i will retroactively show
+you how i found it what we are hoping
+for is bishop takes d5 but as a 2200
+the guy sees it sadly he sees it there
+was a a very nice trap there bishop
+takes d5 we had knight f3
+but that idea simply exists as a
+standalone idea so we can make an
+improving move here without worrying
+about bishop takes d5
+so what catches my eye is a couple of
+things rookie four is very interesting
+sacking the exchange
+um and getting a major pawn phalanx
+what else catches maya yeah rookie 4
+looks very interesting
+i actually really like it um
+let me think
+i don't see too many other moves
+unfortunately amazingly he's somehow
+holding on
+queen c6 maybe
+but then queen eight two
+yeah rookie four looks like the way to
+go
+i'm gonna have to accelerate my pace
+here
+because i've got three minutes and i'm
+gonna have to do a little bit less
+talking
+and a little bit more playing
+because the guy is incredibly good
+let's go f5 solidify
+let's go bishop e5 solidify
+no i'm not i'm i'm not too sussed about
+my opponent
+the pace is weird but i'm i'm
+okay if he if he continues to outplay me
+i will definitely be sus now but i think
+i'm doing quite okay actually
+i'm on guard
+just so everybody i'm on guard because
+the guy is definitely out out out
+thinking me i've also been doing a lot
+of talking so
+i'm certainly not suspicious yet at all
+the pace the pace is the only thing
+about his play right now that is weird
+okay when a2 but now i check him now
+ah we're checking h2
+bring the queen in
+very strange play queen b3
+let's go h5
+but now f4 now
+am i not just crushing him
+what is this
+oh he takes on a four goes queen g3
+okay i think
+but bishop h3
+what
+okay really riley
+really riley
+okay i think i now i know where this
+game is going
+king g2 queen e6 rook d4
+okay obviously this is a blatant cheater
+this is like he's not even trying to
+hide i mean four seconds every move rook
+takes d4 four seconds
+watch this four seconds then take stage
+three
+that's hilarious
+what rook f7
+f7
+oh my god
+okay obviously
+now
+here's gonna be the funny thing he's
+gonna take on d5
+i'm gonna make a knight and he's gonna
+move his watch him move his king he's
+gonna go king g2 after four seconds
+no he takes it wow
+has he stopped
+oh i had a good game until bishop h3
+i guess i was just disconcerted because
+i i knew he was
+i could sense that he was cheating
+at that point
+yeah
+that's sad
+okay we're obviously gonna report him
+i was better like he was clearly not
+cheating
+up to a point
+he was clearly not cheating up to a
+point and then he started when he was
+worse he started
+yeah you can definitely sense the moment
+when he started
+h4 and a4 were both top moves
+yeah rook f7 is the second move
+no but the accuracy is going to be low
+he did not cheat the first 24 25 moves
+and then he turned it on at some point
+because that was better
+he played very poorly the first 84.5
+because he played poorly the first stage
+of the game
+but i don't even feel like analyzing
+this is this is disgusting
+this is honestly disgusting so
+yeah he's won all of his games
+he's won all of his games
+so unless this is magnus
+he's a cheater
+no this is i mean it's it's so sad
+that people do this
+um
+all right
+all right guys i'm gonna i'm gonna play
+a good good one tomorrow
+this is just very disheartening
+but i will uh i will get a good game in
+tomorrow i'll have a little bit more
+energy to explain my moves and stuff
+we'll maybe play a 15-minute game
+tomorrow to really so i really am able
+to explain stuff
+uh i am going to raid
+i'm gonna raid alexandra samaganova or
+charlie
+i'm gonna write alexander salaganova
+um
+who forgets a floss thank you thank you
+for reminding me
+and uh
+yeah this guy will get banned
+and i will definitely stream tomorrow
+thank you have a good start to your
+sunday i'll see you guys
+tomorrow bye
+[Music]

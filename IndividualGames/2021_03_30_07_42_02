@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.30"]
+[Round "-"]
+[White "SHOHAG1086"]
+[Black "OhMyLands"]
+[Result "0-1"]
+[CurrentPosition "r2q1rk1/1pp2ppp/pb2p3/8/2n1N3/3P2BN/PPPK3P/2R3R1 w - -"]
+[Timezone "UTC"]
+[ECO "A06"]
+[ECOUrl "https://www.chess.com/openings/Reti-Opening-Tennison-Gambit"]
+[UTCDate "2021.03.30"]
+[UTCTime "07:42:02"]
+[WhiteElo "1264"]
+[BlackElo "1289"]
+[TimeControl "600"]
+[Termination "OhMyLands won by resignation"]
+[StartTime "07:42:02"]
+[EndDate "2021.03.30"]
+[EndTime "07:49:38"]
+[Link "https://www.chess.com/game/live/10829191877"]
+
+1. Nf3 {[%clk 0:09:59.9]} 1... d5 {[%clk 0:09:54.8]} 2. e4 {[%clk 0:09:58.2]} 2... dxe4 {[%clk 0:09:41.8]} 3. Ng5 {[%clk 0:09:57]} 3... Nf6 {[%clk 0:09:10.8]} 4. d3 {[%clk 0:09:54.4]} 4... Nc6 {[%clk 0:07:40.2]} 5. Nc3 {[%clk 0:09:31.9]} 5... Bg4 {[%clk 0:07:27.3]} 6. f3 {[%clk 0:09:21.3]} 6... exf3 {[%clk 0:07:26.5]} 7. gxf3 {[%clk 0:09:19.9]} 7... Bf5 {[%clk 0:07:18.8]} 8. Bh3 {[%clk 0:09:17.5]} 8... Bxh3 {[%clk 0:07:13.3]} 9. Nxh3 {[%clk 0:09:15.8]} 9... e6 {[%clk 0:07:01.1]} 10. Bf4 {[%clk 0:09:12]} 10... Bc5 {[%clk 0:06:44.9]} 11. Nb5 {[%clk 0:08:58.7]} 11... Nd5 {[%clk 0:06:28.2]} 12. Bg3 {[%clk 0:08:53.6]} 12... a6 {[%clk 0:06:24]} 13. Nc3 {[%clk 0:08:35.7]} 13... Ne3 {[%clk 0:05:40.6]} 14. Qd2 {[%clk 0:08:17.7]} 14... Nd4 {[%clk 0:05:39.1]} 15. Rc1 {[%clk 0:07:58]} 15... Nxf3+ {[%clk 0:05:34.4]} 16. Ke2 {[%clk 0:07:40]} 16... Nxd2 {[%clk 0:05:33.6]} 17. Kxd2 {[%clk 0:07:38.9]} 17... O-O {[%clk 0:05:28.2]} 18. Ne4 {[%clk 0:07:30.4]} 18... Bb6 {[%clk 0:05:24.9]} 19. Rhg1 {[%clk 0:07:22.4]} 19... Nc4+ {[%clk 0:05:15.6]} 0-1
+
+

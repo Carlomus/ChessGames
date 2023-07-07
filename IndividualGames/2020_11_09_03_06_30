@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.11.09"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "Reza031"]
+[Result "1-0"]
+[CurrentPosition "r2q1rk1/p3bpQp/1p1pb3/3p4/2B1PP2/2B5/PPP3PP/R4RK1 b - -"]
+[Timezone "UTC"]
+[ECO "C41"]
+[ECOUrl "https://www.chess.com/openings/Philidor-Defense-Exchange-Variation-4.Nxd4"]
+[UTCDate "2020.11.09"]
+[UTCTime "03:06:30"]
+[WhiteElo "1073"]
+[BlackElo "1112"]
+[TimeControl "300"]
+[Termination "SenseiDanya won by checkmate"]
+[StartTime "03:06:30"]
+[EndDate "2020.11.09"]
+[EndTime "03:11:02"]
+[Link "https://www.chess.com/game/live/5710935107"]
+
+1. e4 {[%clk 0:04:59.9]} 1... e5 {[%clk 0:04:53.6]} 2. Nf3 {[%clk 0:04:56.5]} 2... d6 {[%clk 0:04:46.9]} 3. d4 {[%clk 0:04:44.4]} 3... exd4 {[%clk 0:04:41.8]} 4. Nxd4 {[%clk 0:04:43.1]} 4... Nc6 {[%clk 0:04:41.1]} 5. Nc3 {[%clk 0:04:34.5]} 5... Nxd4 {[%clk 0:04:38.7]} 6. Qxd4 {[%clk 0:04:33.5]} 6... Bd7 {[%clk 0:04:30]} 7. Bc4 {[%clk 0:04:12.1]} 7... Ne7 {[%clk 0:04:09]} 8. O-O {[%clk 0:04:07.2]} 8... Nc6 {[%clk 0:04:05.3]} 9. Qd1 {[%clk 0:03:45.1]} 9... Be7 {[%clk 0:04:01.9]} 10. Nd5 {[%clk 0:03:18.7]} 10... O-O {[%clk 0:03:50.9]} 11. f4 {[%clk 0:03:12.4]} 11... Be6 {[%clk 0:03:47.7]} 12. Bd2 {[%clk 0:02:41]} 12... Na5 {[%clk 0:03:40.9]} 13. Bxa5 {[%clk 0:02:39.6]} 13... b6 {[%clk 0:03:38.6]} 14. Bc3 {[%clk 0:02:36.9]} 14... c6 {[%clk 0:03:32.6]} 15. Qd4 {[%clk 0:02:10.6]} 15... cxd5 {[%clk 0:03:27.1]} 16. Qxg7# {[%clk 0:02:09.5]} 1-0
+
+

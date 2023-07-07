@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.11.16"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "Machen13"]
+[Result "1-0"]
+[CurrentPosition "r1bqkbnr/pp1p1ppp/8/2pPN3/8/8/PPP2PPP/RNBQKB1R b KQkq -"]
+[Timezone "UTC"]
+[ECO "B32"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Open-Franco-Sicilian-Variation"]
+[UTCDate "2020.11.16"]
+[UTCTime "07:33:33"]
+[WhiteElo "1347"]
+[BlackElo "1322"]
+[TimeControl "300"]
+[Termination "SenseiDanya won - game abandoned"]
+[StartTime "07:33:33"]
+[EndDate "2020.11.16"]
+[EndTime "07:35:13"]
+[Link "https://www.chess.com/game/live/5754785957"]
+
+1. e4 {[%clk 0:04:59.9]} 1... c5 {[%clk 0:04:59.9]} 2. Nf3 {[%clk 0:04:57.1]} 2... Nc6 {[%clk 0:04:59.8]} 3. d4 {[%clk 0:04:43.5]} 3... e6 {[%clk 0:04:55.6]} 4. d5 {[%clk 0:04:31.9]} 4... exd5 {[%clk 0:04:49.9]} 5. exd5 {[%clk 0:04:31.1]} 5... Ne5 {[%clk 0:04:35.3]} 6. Nxe5 {[%clk 0:04:28]} 1-0
+
+

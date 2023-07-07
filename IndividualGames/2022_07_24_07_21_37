@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.07.24"]
+[Round "-"]
+[White "manzuore"]
+[Black "SenseiDanya"]
+[Result "0-1"]
+[CurrentPosition "rnbqkb1r/pp2pppp/5n2/3p4/8/6P1/PP1PPPBP/RNBQK1NR w KQkq -"]
+[Timezone "UTC"]
+[ECO "A00"]
+[ECOUrl "https://www.chess.com/openings/Kings-Fianchetto-Opening-Slav-Formation-3.c4"]
+[UTCDate "2022.07.24"]
+[UTCTime "07:21:37"]
+[WhiteElo "2067"]
+[BlackElo "2052"]
+[TimeControl "600"]
+[Termination "SenseiDanya won - game abandoned"]
+[StartTime "07:21:37"]
+[EndDate "2022.07.24"]
+[EndTime "07:24:39"]
+[Link "https://www.chess.com/game/live/52386054489"]
+
+1. g3 {[%clk 0:10:00]} 1... d5 {[%clk 0:09:52.8]} 2. Bg2 {[%clk 0:09:58.7]} 2... c6 {[%clk 0:09:28]} 3. c4 {[%clk 0:09:55.5]} 3... Nf6 {[%clk 0:09:03.9]} 4. cxd5 {[%clk 0:09:43]} 4... cxd5 {[%clk 0:09:02.3]} 0-1
+
+

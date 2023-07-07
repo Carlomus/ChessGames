@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.04.28"]
+[Round "-"]
+[White "G-quitto"]
+[Black "OhMyLands"]
+[Result "0-1"]
+[CurrentPosition "r1b1kb1r/pp2pppp/4n3/1n6/4P3/8/PPP3PP/2KR2NR w kq -"]
+[Timezone "UTC"]
+[ECO "A45"]
+[ECOUrl "https://www.chess.com/openings/Trompowsky-Attack-2...Ne4-3.Bf4"]
+[UTCDate "2021.04.28"]
+[UTCTime "09:05:05"]
+[WhiteElo "1552"]
+[BlackElo "1564"]
+[TimeControl "600"]
+[Termination "OhMyLands won by resignation"]
+[StartTime "09:05:05"]
+[EndDate "2021.04.28"]
+[EndTime "09:14:12"]
+[Link "https://www.chess.com/game/live/13339874859"]
+
+1. d4 {[%clk 0:10:00]} 1... Nf6 {[%clk 0:09:55.4]} 2. Bg5 {[%clk 0:09:58.4]} 2... Ne4 {[%clk 0:09:05.9]} 3. Bf4 {[%clk 0:09:47]} 3... Nc6 {[%clk 0:08:13.6]} 4. f3 {[%clk 0:08:59.8]} 4... Nf6 {[%clk 0:07:59.7]} 5. e4 {[%clk 0:08:40.1]} 5... d5 {[%clk 0:07:22.4]} 6. Nc3 {[%clk 0:08:00.9]} 6... dxe4 {[%clk 0:06:50.7]} 7. fxe4 {[%clk 0:07:46.5]} 7... Qxd4 {[%clk 0:05:47.1]} 8. Qxd4 {[%clk 0:07:26.7]} 8... Nxd4 {[%clk 0:05:45.2]} 9. O-O-O {[%clk 0:07:25.6]} 9... Ne6 {[%clk 0:04:41]} 10. Nd5 {[%clk 0:07:09.7]} 10... Nxd5 {[%clk 0:04:27.1]} 11. Bxc7 {[%clk 0:06:44.4]} 11... Ndxc7 {[%clk 0:04:24.9]} 12. Bb5+ {[%clk 0:06:40.3]} 12... Nxb5 {[%clk 0:04:23.9]} 0-1
+
+

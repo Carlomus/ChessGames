@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.11.03"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "nedcamps"]
+[Result "1-0"]
+[CurrentPosition "2r2rk1/p4p1p/2b1pBpQ/1p6/2Pp4/3B4/PP3P1P/R4RK1 b - -"]
+[Timezone "UTC"]
+[ECO "C00"]
+[ECOUrl "https://www.chess.com/openings/Pirc-Defense-Small-Center-Defense"]
+[UTCDate "2020.11.03"]
+[UTCTime "04:11:54"]
+[WhiteElo "790"]
+[BlackElo "862"]
+[TimeControl "300"]
+[Termination "SenseiDanya won by resignation"]
+[StartTime "04:11:54"]
+[EndDate "2020.11.03"]
+[EndTime "04:20:32"]
+[Link "https://www.chess.com/game/live/5677953858"]
+
+1. e4 {[%clk 0:04:59.9]} 1... d6 {[%clk 0:04:45.3]} 2. d4 {[%clk 0:04:56.8]} 2... e6 {[%clk 0:04:30.8]} 3. c4 {[%clk 0:04:31.6]} 3... Bd7 {[%clk 0:04:09.5]} 4. Nc3 {[%clk 0:04:18]} 4... Nf6 {[%clk 0:04:03.9]} 5. Nf3 {[%clk 0:04:08.6]} 5... Be7 {[%clk 0:03:53.3]} 6. Bd3 {[%clk 0:02:49.4]} 6... O-O {[%clk 0:03:34.8]} 7. O-O {[%clk 0:02:47.5]} 7... c5 {[%clk 0:02:30.8]} 8. dxc5 {[%clk 0:02:44.3]} 8... dxc5 {[%clk 0:02:29]} 9. e5 {[%clk 0:02:43.6]} 9... Nh5 {[%clk 0:02:20.2]} 10. g4 {[%clk 0:02:07.1]} 10... Nf6 {[%clk 0:01:56.3]} 11. exf6 {[%clk 0:02:06.1]} 11... Bxf6 {[%clk 0:01:55.7]} 12. g5 {[%clk 0:01:51.5]} 12... Bd4 {[%clk 0:01:43.7]} 13. Nxd4 {[%clk 0:01:50.1]} 13... cxd4 {[%clk 0:01:42.8]} 14. Ne4 {[%clk 0:01:42.2]} 14... Bc6 {[%clk 0:01:41.3]} 15. Qh5 {[%clk 0:01:41.2]} 15... Nd7 {[%clk 0:01:03.6]} 16. Nf6+ {[%clk 0:01:35.5]} 16... Nxf6 {[%clk 0:00:55.2]} 17. gxf6 {[%clk 0:01:34.4]} 17... g6 {[%clk 0:00:50.2]} 18. Qh4 {[%clk 0:01:17.3]} 18... Rc8 {[%clk 0:00:48.6]} 19. Bg5 {[%clk 0:01:15.2]} 19... b5 {[%clk 0:00:44]} 20. Qh6 {[%clk 0:01:13.4]} 20... Qxf6 {[%clk 0:00:28.8]} 21. Bxf6 {[%clk 0:01:10.8]} 1-0
+
+

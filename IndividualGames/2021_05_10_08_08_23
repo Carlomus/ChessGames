@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.05.10"]
+[Round "-"]
+[White "OhMyLands"]
+[Black "leoSWS"]
+[Result "1-0"]
+[CurrentPosition "r1bQk2r/1pp2ppp/p1n5/2p1p3/8/1P2PN2/PBP2PPP/RN2K2R b KQkq -"]
+[Timezone "UTC"]
+[ECO "A01"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Larsen-Attack-Modern-Variation-2.Bb2-Nc6-3.e3"]
+[UTCDate "2021.05.10"]
+[UTCTime "08:08:23"]
+[WhiteElo "1683"]
+[BlackElo "1701"]
+[TimeControl "600"]
+[Termination "OhMyLands won by resignation"]
+[StartTime "08:08:23"]
+[EndDate "2021.05.10"]
+[EndTime "08:10:48"]
+[Link "https://www.chess.com/game/live/14372881469"]
+
+1. b3 {[%clk 0:09:58]} 1... e5 {[%clk 0:09:55.1]} 2. Bb2 {[%clk 0:09:55.9]} 2... Nc6 {[%clk 0:09:53.8]} 3. e3 {[%clk 0:09:11]} 3... Bc5 {[%clk 0:09:51.4]} 4. Bb5 {[%clk 0:09:02.6]} 4... Nge7 {[%clk 0:09:49.6]} 5. Nf3 {[%clk 0:08:35.4]} 5... d6 {[%clk 0:09:47.2]} 6. d4 {[%clk 0:08:21.7]} 6... a6 {[%clk 0:09:41.3]} 7. Bxc6+ {[%clk 0:08:09.4]} 7... Nxc6 {[%clk 0:09:38.7]} 8. dxc5 {[%clk 0:08:08.6]} 8... dxc5 {[%clk 0:09:37.3]} 9. Qxd8+ {[%clk 0:08:07.1]} 1-0
+
+

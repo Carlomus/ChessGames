@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.05.23"]
+[Round "-"]
+[White "OhMyLands"]
+[Black "unyotjr"]
+[Result "1-0"]
+[CurrentPosition "r2q2k1/p2b1rpp/1p1Q1bp1/2p1P3/2P5/2N1B3/PP2B1PP/3R1RK1 b - -"]
+[Timezone "UTC"]
+[ECO "A60"]
+[ECOUrl "https://www.chess.com/openings/Benoni-Defense-Modern-Variation-4.Nc3"]
+[UTCDate "2021.05.23"]
+[UTCTime "08:23:51"]
+[WhiteElo "1798"]
+[BlackElo "1715"]
+[TimeControl "600"]
+[Termination "OhMyLands won by resignation"]
+[StartTime "08:23:51"]
+[EndDate "2021.05.23"]
+[EndTime "08:34:44"]
+[Link "https://www.chess.com/game/live/15497009103"]
+
+1. d4 {[%clk 0:10:00]} 1... Nf6 {[%clk 0:09:54.5]} 2. c4 {[%clk 0:09:58.4]} 2... e6 {[%clk 0:09:53.2]} 3. Nc3 {[%clk 0:09:13.2]} 3... c5 {[%clk 0:09:51.1]} 4. d5 {[%clk 0:08:55.8]} 4... d6 {[%clk 0:09:44.3]} 5. e4 {[%clk 0:08:42.5]} 5... Be7 {[%clk 0:09:29.5]} 6. Bd3 {[%clk 0:08:16.9]} 6... Nbd7 {[%clk 0:09:25]} 7. Nf3 {[%clk 0:07:48.7]} 7... Ng4 {[%clk 0:09:15.9]} 8. O-O {[%clk 0:07:30.3]} 8... Nge5 {[%clk 0:09:07.9]} 9. Nxe5 {[%clk 0:07:13.3]} 9... Nxe5 {[%clk 0:09:01]} 10. Be2 {[%clk 0:07:03.4]} 10... Bf6 {[%clk 0:08:38.1]} 11. f4 {[%clk 0:06:51.8]} 11... Ng6 {[%clk 0:08:24.2]} 12. Be3 {[%clk 0:06:07.8]} 12... O-O {[%clk 0:07:52]} 13. dxe6 {[%clk 0:04:30.8]} 13... Bxe6 {[%clk 0:07:46.7]} 14. f5 {[%clk 0:04:29.7]} 14... Bd7 {[%clk 0:07:23.7]} 15. fxg6 {[%clk 0:04:28]} 15... fxg6 {[%clk 0:07:19.9]} 16. Qxd6 {[%clk 0:03:48.3]} 16... b6 {[%clk 0:06:57.7]} 17. Rad1 {[%clk 0:03:46.5]} 17... Rf7 {[%clk 0:06:16.7]} 18. e5 {[%clk 0:03:29.4]} 1-0
+
+

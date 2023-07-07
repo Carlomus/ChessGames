@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.24"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "Matthilde"]
+[Result "1-0"]
+[CurrentPosition "r1bk3r/ppq3pp/2nb2n1/2p2pN1/2Bp1P2/3P2Q1/PPPBN1PP/2KRR3 b - -"]
+[Timezone "UTC"]
+[ECO "B10"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-Goldman-Variation"]
+[UTCDate "2020.12.24"]
+[UTCTime "08:09:41"]
+[WhiteElo "2291"]
+[BlackElo "2309"]
+[TimeControl "300"]
+[Termination "SenseiDanya won by resignation"]
+[StartTime "08:09:41"]
+[EndDate "2020.12.24"]
+[EndTime "08:13:33"]
+[Link "https://www.chess.com/game/live/6045331111"]
+
+1. e4 {[%clk 0:05:00]} 1... c6 {[%clk 0:04:58.9]} 2. Nc3 {[%clk 0:04:55.4]} 2... d5 {[%clk 0:04:58.8]} 3. Qf3 {[%clk 0:04:51.8]} 3... d4 {[%clk 0:04:49.1]} 4. Bc4 {[%clk 0:04:37.1]} 4... e6 {[%clk 0:04:42]} 5. Nce2 {[%clk 0:04:36.1]} 5... c5 {[%clk 0:04:03.9]} 6. d3 {[%clk 0:04:31.1]} 6... Nc6 {[%clk 0:04:02.7]} 7. Qg3 {[%clk 0:04:29.6]} 7... Nge7 {[%clk 0:03:39.9]} 8. Bd2 {[%clk 0:04:10.7]} 8... Ng6 {[%clk 0:03:36.5]} 9. f4 {[%clk 0:04:09.4]} 9... f5 {[%clk 0:03:26.3]} 10. exf5 {[%clk 0:03:37.1]} 10... exf5 {[%clk 0:03:26.2]} 11. O-O-O {[%clk 0:03:36.5]} 11... Bd6 {[%clk 0:03:10.1]} 12. Nf3 {[%clk 0:03:34.9]} 12... Qc7 {[%clk 0:03:03.2]} 13. Rhe1 {[%clk 0:03:31.1]} 13... Kd8 {[%clk 0:03:01.4]} 14. Ng5 {[%clk 0:03:19.1]} 1-0
+
+

@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.10.28"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "CSGOchessYo"]
+[Result "1-0"]
+[CurrentPosition "r2qkbnr/4pppp/p1bp4/8/1Q1PP3/2NB1N2/1P3PPP/R1B1K2R b KQkq -"]
+[Timezone "UTC"]
+[ECO "B22"]
+[ECOUrl "https://www.chess.com/openings/Alapin-Sicilian-Defense"]
+[UTCDate "2020.10.28"]
+[UTCTime "06:43:42"]
+[WhiteElo "571"]
+[BlackElo "648"]
+[TimeControl "300"]
+[Termination "SenseiDanya won on time"]
+[StartTime "06:43:42"]
+[EndDate "2020.10.28"]
+[EndTime "06:50:56"]
+[Link "https://www.chess.com/game/live/5647083453"]
+
+1. e4 {[%clk 0:04:59.9]} 1... c5 {[%clk 0:04:56]} 2. c3 {[%clk 0:04:53.9]} 2... a6 {[%clk 0:04:53.5]} 3. d4 {[%clk 0:04:45.3]} 3... cxd4 {[%clk 0:04:26]} 4. cxd4 {[%clk 0:04:44]} 4... Nc6 {[%clk 0:04:23.7]} 5. Nc3 {[%clk 0:04:36]} 5... b5 {[%clk 0:04:21.4]} 6. a3 {[%clk 0:04:08]} 6... Bb7 {[%clk 0:03:41.4]} 7. Nf3 {[%clk 0:04:06.6]} 7... d6 {[%clk 0:02:11.5]} 8. Bd3 {[%clk 0:03:22.3]} 8... b4 {[%clk 0:01:42]} 9. axb4 {[%clk 0:03:12.4]} 9... Nxb4 {[%clk 0:01:39]} 10. Qa4+ {[%clk 0:02:54.1]} 10... Bc6 {[%clk 0:00:20.2]} 11. Qxb4 {[%clk 0:02:51.7]} 1-0
+
+

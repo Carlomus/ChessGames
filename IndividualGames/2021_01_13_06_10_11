@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.01.13"]
+[Round "-"]
+[White "badgerchess0"]
+[Black "SenseiDanya"]
+[Result "0-1"]
+[CurrentPosition "rn2k2r/p4ppp/2p1pn2/1p3b2/3Pp3/bP2BP2/PqP1Q1PP/1K1R1BNR w kq -"]
+[Timezone "UTC"]
+[ECO "B12"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-Mieses-Gambit"]
+[UTCDate "2021.01.13"]
+[UTCTime "06:10:11"]
+[WhiteElo "927"]
+[BlackElo "1764"]
+[TimeControl "600"]
+[Termination "SenseiDanya won by checkmate"]
+[StartTime "06:10:11"]
+[EndDate "2021.01.13"]
+[EndTime "06:16:30"]
+[Link "https://www.chess.com/game/live/6221100866"]
+
+1. e4 {[%clk 0:10:00]} 1... c6 {[%clk 0:10:00]} 2. d4 {[%clk 0:09:53]} 2... d5 {[%clk 0:09:58.8]} 3. Be3 {[%clk 0:09:43]} 3... dxe4 {[%clk 0:09:35.3]} 4. Nc3 {[%clk 0:09:24.7]} 4... Nf6 {[%clk 0:09:11.3]} 5. Qe2 {[%clk 0:09:09.3]} 5... Bf5 {[%clk 0:08:14]} 6. O-O-O {[%clk 0:08:54.4]} 6... e6 {[%clk 0:08:01.2]} 7. b3 {[%clk 0:08:33.6]} 7... Qa5 {[%clk 0:07:11.5]} 8. Qc4 {[%clk 0:08:17.7]} 8... b5 {[%clk 0:06:51.5]} 9. Qe2 {[%clk 0:07:39.3]} 9... Qxc3 {[%clk 0:06:43.5]} 10. f3 {[%clk 0:07:18.8]} 10... Ba3+ {[%clk 0:06:41.7]} 11. Kb1 {[%clk 0:07:06.2]} 11... Qb2# {[%clk 0:06:40.8]} 0-1
+
+

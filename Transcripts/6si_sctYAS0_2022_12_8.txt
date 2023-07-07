@@ -1,0 +1,932 @@
+     All right,
+so let's get this
+show on the road.  
+Welcome, everybody, to the
+speedrun game.   Last couple
+of games have been really instructive,
+like, really
+instructive. So we're riding a pretty good
+streak. Um, those watching on YouTube,
+welcome to you as well. I want
+to thank everybody who subscribes and
+supports the channel. We're very close to
+300K subs,   which
+is a big milestone for me. So the
+best way to support the channel, if you like
+the content and you like what I do, is
+just to hit the subscribe button. All right,
+we're playing in
+1140 with the white pieces
+and we continue   to play 
+ my sort of official opening
+recommendations, and we are facing the
+French defense. Okay?   So
+those of you who've watched my
+Speedrun more assiduously, you will
+probably remember what my
+official recommendation is against the
+French. And this is
+a very dangerous line
+that hits,  uh, a
+couple of different,    uh,
+targets at once. On the one hand, it's
+very dangerous from a theoretical
+standpoint. If black is not careful, then
+white can get a big objective advantage. But
+this line also teaches you a lot
+about closed structures
+and a lot about positional chests in
+general. So it's always good to have a line
+like this in your pocket that basically
+forces you to display your knowledge,
+  uh, of certain typical
+structures and certain,   uh, important
+positional ideas. And the line that I'm
+alluding to is not the Tarash, which I
+play at my level. I play the move Nike D
+Two, but a line that I have
+also played over the board. And I think the
+official name for it is the Nimsovich
+French. It starts just
+like an advanced French. We start by
+playing the Move E five. This is the
+advance, and Black
+responds with C five. So this is standard
+fare. And here the Move, which
+is almost automatic for most
+people, is, of course, to support the pawn
+chain by pushing C three. And that
+leads to   very, uh,  theoretical waters.
+The advanced French is a
+totally viable weapon and it's gained a
+lot of popularity in recent years, so even
+at super high level. But
+the line that has slipped through the cracks
+is actually to play this
+without C three and instead
+to develop your pieces as if nothing is the
+matter. So the nimsovich
+French goes knight to
+f three. We simply develop our knight
+and we allow black   to ruin
+our pawn chain by playing
+C takes D Four.  
+So you can go back through
+the first speedrun and look at
+a couple of games in which I played this
+line. I will do a quick overview
+of the basic ideas. Once again, in case this
+is the first time that you're seeing the
+Move Night F three. If it is the first time
+you're seeing night F three, then you should
+be very, very surprised because it seems
+utterly counterintuitive,  
+uh, to allow
+the pawn chain to be destroyed. Let
+alone to sacrifice the pawn on D
+four, which is what we're going to do. And
+here we continue playing as
+though Black is not exerting any pressure
+on D four. We continue developing our
+pieces. Now, people who are less
+experienced in the French, one common
+mistake that I see players making   is that
+they play no, not bishop B six, but
+bishop B five in this position
+is a very common move. At the beginner
+level, that is not a good move. The Bishop
+on B five is not
+futile, and it's not bad because it
+loses a piece. It doesn't lose a piece.
+Queen a five check. There is knight C.
+Three.   So it's bad from a
+conceptual standpoint, the Bishop on B five
+is a total paper tiger, and Blackenge just
+block the pin with bishop D seven. So
+the best square in such
+positions for white's Bishop, and
+we're going to deploy the bishop to that
+square right now is actually D
+three. And there's many
+reasons for that. Anytime you have, you
+know, a pawn on D four like this, putting
+the Bishop behind the pawn is good practice
+ in case Black castle's
+Kingside, which is the likeliest
+direction that Black will eventually castle,
+we will have a Greek gift sacrifice at the
+ready. But I hear the thought that's on your
+mind, doesn't Black just have C four pushing
+the Bishop back to E two? Well,
+they do, but we have
+provoked C four, and because the center
+is relatively closed, we can
+afford in such positions to make
+more than one move with the same piece.
+So what is White achieved
+by provoking the move C
+four? Well, a couple of very
+specific things. First of all, we've
+taken a lot of the pressure off of the
+D four pawn. We no longer have to worry
+about our pawn chain getting destroyed. So
+we can instead focus on more important
+things like quickly
+completing our Kingside development.
+Now, Black's pawn
+chain on the Queen side might seem very
+imposing, and the move B five is actually
+good, but in fact, Black has bitten off a
+lot more than she can
+chew,  okay? And the
+reason for that is that Black is pushing all
+of their pawns on the Queen's side without
+supporting them with his or
+her pieces. And what we can do
+is use our pawns in a kind
+of very typical idea
+to break down the entire
+pawn chain. The Black is building up on the
+Queenside. And the way that we do that is by
+putting pressure simultaneously on
+both the C four pawn
+as well as the B five pawn. And we have
+both pawns that can do that. We play
+the move B three, setting
+up pressure on the C four pawn, and we
+follow up with the move A four. A
+very, very important motif.
+This is kind of classic pawn play
+to break down Black's pawn chain
+as quickly as possible. And we can
+do it without delay. We can castle
+we can take a move and complete our
+Kingside development, but we don't even need
+to do that. We can just straight up play a
+four in this position. And Black is
+already under very
+serious fire on the Queenside.
+And one important tactical detail that you
+should notice is that A six is futile
+here because of A takes B five.
+And Black cannot recapture with the A pawn
+because the rook on a eight hangs. So that's
+part of the reason it's important to do this
+in timely fashion. If we had allowed Black
+to play the move bishop to B seven,  
+which is not played to develop the Bishop to
+an active square, it's played in order to
+defend the rook. A four, while
+still a pretty decent move,
+is a lot less effective on account of
+a six, that move is now possible.
+So here this is rather time
+sensitive. And with the rook on a eight
+undefended, a four is a very powerful
+move.   Bishop a six. So
+our opponent, 
+conceptually, is playing reasonably. 
+  Uh,   he or she is trying
+to protect the pawn
+chain with, uh, the pieces,
+with the minor pieces. But it's not going
+to work because the minor pieces are just
+not very good at keeping
+the pawn chain intact.
+And even though Black is going to avoid
+losing pawns immediately, we're still going
+to break up the pawn chain. So which pawn
+should we take first? Well,
+normally, we should begin by
+eliminating the base of the pawn chain.
+ Step one is to play
+A takes B five, eliminating
+the kind of linchpin on B
+five. Now, step two
+would, of course, be to then take the pawn
+on C four, opening up the center
+and creating a major
+weakness on C four as a result.
+  Now, we can also kind of
+ignore the situation, and we can just
+castle but far more to
+the point and far more kind
+of consecutive is to play the move B takes
+C four. And as a result of the trade,
+black is going to get a massive
+weakness on C four. Bishop
+takes c four. And now, of course, we
+complete the trade with Bishop takes C four.
+  And after D take C four,
+we have achieved precisely
+what we said about to do on the Queen side.
+We have created long
+term permanent weaknesses on the
+queenside. What are those
+weaknesses? Well, the main weakness is this
+pawn on C four. And step three
+is going to involve two
+kind of mini steps we need to complete our
+development. It's going to be hard for us to
+operate to our full capacity without
+castling and without solidifying
+our own pawn chain. How are we going to
+solidify our pawn chain? What move comes to
+mind here as kind of an automatic
+move? If you're a French player with
+White,   what is kind of the general,
+solidifying move that we're going to play at
+some point yeah, that's the move c three.
+Now, you might say, well, wait a second.
+Isn't the C three square? Shouldn't that be
+reserved for the knight? No, the knight
+doesn't go to C three in such positions.
+It's going to go out to D two. Because,
+remember, the ultimate idea, uh,
+is to harass and ultimately win the C
+four pawn. So what's going
+to be the order of operations here? Well, we
+can do things in a bunch of different
+orders. I like the idea. What appeals to
+me is just castling
+kingside first, just to get the king out
+of the danger zone, make sure that there
+are no nasty checks on B
+four. Then after that, to play the
+move C three. And only
+after those two preliminary steps are
+complete can we go
+about the process of
+surrounding and winning the C four
+pawn. So castling first is
+safe, because Black has no good way to
+attack the D four pawn. Rook D
+eight is a very likely move at this
+level. And just in time,
+we follow up with the move C three.
+Notice also in that position,
+that knight takes e five is not
+possible because the knight on F three
+guards the e five font. So our opponent is
+trying to open up the center,
+which is a counterproductive idea
+because Black is lacking in development.
+And this is an important moment
+for me to highlight the idea of flexibility.
+Right. We created
+this entire elaborate
+scheme where we were going to go C
+three, and then we were going to go night
+BD two. But Black's
+last move has changed absolutely
+everything. F six is a huge move, and
+we need to, uh, understand how that
+impacts our course of action. Well, it
+changes our course of action entirely
+because Black is inviting us to open up
+the center. Now, who benefits in the event
+that the center opens up? Well, the side
+that's better developed in the side with
+less pawn weaknesses. And clearly,
+in both cases, that's white. So
+we should actually welcome the
+opening of the center, and
+we should do that just by taking on, um, F
+six and saying, you want to open up the
+center? Thank you very much. I'm going to
+open up the center. And, um, more precisely,
+I'm going to open up the e file on which
+sits a massive pawn weakness on e
+six. Now, combining the two
+previous observations, right, there are two
+big weaknesses in Black's camp the pawn on
+E six, the newly created weakness.
+But nothing happened to the old weakness
+of C four. So putting those
+two things together generates for us
+the move queen to e two, hitting both
+of these pawns at once. That's the classy
+move.   Now, a
+good alternative to queen e two would be the
+simple rookie one. We could say, hey, I
+don't care about the C four pawn. What I
+care about more is the pawn on e six. That's
+the juicy pond. If we win that pawn,
+we're probably going to checkmate black in a
+matter of a couple of moves.
+Furthermore, after queen e two, as, uh, some
+of you are astutely pointing out, there's
+the nasty move. Knight takes d four,
+  and that leads to a
+slightly complicated line. Knight takes d
+four. Knight takes d four. Queen takes d
+four. We grabbed a pawn on e six with
+check. Black plays bishop e
+seven, and I'm not
+entirely sold on the fact
+that white has a crystal clear
+way to capitalize on the attack
+there. So a more
+controlled move in this position
+would just be to play the move rookie one,
+leaving the queen on a defensive spot for
+now, to guard the d four pawn.
+And it's incredibly hard for black to
+defend upon an e six. That is a huge
+weakness. And Black's lack of
+development is really costing her
+here, as you can see, because if
+black had already developed the
+bishop on f eight, then they
+would be able to castle Kingside,
+and we would still take the pawn on e six,
+but black would get a pretty major
+lead in development in that case. Now
+Black just doesn't have the time
+to complete the development. King f seven is
+an attempt to defend
+the pawn on e six, but it's futile.
+The king is not a good defender in these
+kinds of positions. How should we
+proceed in this position?   
+ How should we proceed in this position?
+Yeah, there is a rip move, and of course,
+that move is the simple fork on g
+five,   knocking the king back to
+g eight. The game is not over.
+The game is far from over. We won a
+pawn, but we still need to
+demonstrate some good technique,
+especially considering the fact that we have
+not completed our queen. We haven't even
+started our queensight development, so
+we're going to have to play this accurately
+if we want to win the game fast.  
+Okay, so I'm, um,   anticipating king
+to g eight here. Our opponent is playing
+very fast,    and
+  that's a risky thing to do in a
+position with a king this wide
+open. King e seven. Whoa. 
+ Okay. Our opponent just walks
+right into the pin. That's a
+terrible move,   but how do we
+punish it in the most clinical
+way? What's the order of operations
+here? Well, you might be tempted here by the
+move knight takes e six to set up a
+potential discovery. Knight takes c six is
+okay, but it gives black a new
+lease on life. Knight takes e six, allows
+the king to step away from the
+discovery with king f seven and then go back
+to g eight. A much better
+approach here would be to take on e
+six with the rook, but not because it's a
+check. Right. The fact that it's a check is
+a nice byproduct. What I'm noticing here
+is that there's a pin against the
+knight on uh, C six. So on
+the next move, we can actually pre move D
+five. And that ends the game on the spot
+because it wins the night on C six. And once
+the minor piece is gone, the black king is
+also getting hunted down mercilessly here.
+So D five is the game winning move.
+And we're going to win this game, really,
+without our entire queenside. We won't
+even need most probably our
+night on B one and bishop on C one. That's
+how powerful our existing
+pieces are.   Yeah, it's a
+little bit too late to start thinking, but
+you do often see this at this level
+where people kind of rattle off these
+opening moves, and then by the time it's
+too late, they start thinking,  
+yeah, the game is totally over.
+We're taking the night on the next move, the
+knight cannot move because the queen is
+pinned. And it's going to be checkmate in
+three moves here. It's going to be checkmate
+in three moves. Who can give me the
+entire checkmating line from start to
+finish? And if you're watching on YouTube,
+try to generate that line as well.
+It's a simple mating line,
+but it's always good practice to try
+to visualize these lines in your mind.
+It really gets the wheels turning
+without moving the queen, not DC. And Queen
+d seven. The D seven square is protected by
+the knight on F six. DC.
+Is correct.    And then the
+next move is Washington. Now
+just getting after DC. King c seven.
+What's the mating move?   
+I never said there's a
+moratorium on bringing the queen's side
+pieces out. Bishop F four is the mating
+move. Very good. DC. Check. The knight
+defends the rook, which is very important.  
+And after king C seven, the mating move
+is bishop F four. Technically black as
+bishop D six. That's why it's made in three.
+And Queen takes d six. There is checkmate.
+Simple, straightforward attacking chest,
+bringing the bishop out with a
+devastating check and ending
+the game on the spot.
+Yeah, straightforward game. 
+   And you can see the
+power of   the line that
+we played in the French. It's an incredibly
+powerful line   at, uh, 
+ any level, I would say
+2300 and under.
+So let's quickly go over the game.
+  Um, we
+played     the line
+that I have played previously in The
+Speedrun, and this is what I have played,
+uh, almost exclusively when we faced
+the French in all of across all of the speed
+runs I've had thus far. So E
+five   is the advanced French,
+but now we deviate from standard
+waters with the move night F three.
+And night F three has kind of an
+interesting history. This move has been
+around for a very long time. And Aaron
+Nimzovic, who I'm sure most people watching
+have heard of, he is, of course, one
+of the kind of patriarchal figures
+of modern positional chess. He wrote a very
+famous book called My System in the
+1920s, which kind of laid out a
+lot of the positional concepts that we now
+take for granted. I mean, he was the
+originator of overprotection and
+prophylaxis, and he talked about square
+control and trades. 
+When he released my system, all of these
+concepts were not in the common
+chest vocabulary. So people were
+reading that book with their mouth kind of
+open, like, oh, my God, this is amazing.  
+Now, Night f three was first
+played in the year let me check.  
+It was first played in the year
+1826  
+by an unknown player. And
+Nimzovich was maybe the 7th or the 8th
+guy to play night f three, but he was
+playing it religiously. Nimzovich faced the
+French a lot, and he played knight f three
+exclusively. So it was pretty impressive to
+generate this idea in the early 19
+hundreds. And most of Nimzovich's
+opponents actually did not
+play C takes D four.  
+  So after C takes
+d four, nimzovich was the
+first player to realize
+that the best move in this position
+is not knight takes D four. This just
+defeats the purpose of the line. Does that
+make sense? Night takes d four  
+is not where the party's at black and
+just go, night C six. And this
+begs the question, well, why on earth
+didn't you play C three if this is how you
+want to play? Instead, white needs to
+aim for very rapid development. What is
+the actual move after C takes D four? Who
+can tell me?    No, it's not
+queen takes D four that walks
+into knight C six. Even more blatantly.
+It's bishop d three. Good memory. Bishop d
+three. And the basic
+idea of this line, according to Nimzovich,
+is that the pawn on e five is
+there's no name for this pawn, but it's like
+a clamp pawn. It clamps
+down very effectively on black's
+position, severing the connection
+between the queen side and the kingside,
+making it difficult for black to get her
+pieces out effectively. 
+   In particular, it
+prevents knight f six. It prevents
+bishop d six, and it
+makes it very difficult for black to
+breathe. And white is going to accelerate
+his his kingside development
+as much as possible. So, for example, if
+black just develops normally, let's say
+knight C six, and we have faced this in the
+Speedrun White Castles,  
+and already you can see how difficult it
+is for black to develop comfortably.
+ So if black
+plays, let's say, bishop C five, we are not
+trying to win the pawn back quickly.
+We're trying to win it back eventually.
+And the way that we're going to do that is
+by putting the B one knight on what square.
+Who can tell me what square the knight
+on B one usually belongs on in this line. 
+ So it goes to d two. But what's
+the final destination? 
+Very good. The knight belongs on this very
+nice B three square,  
+where it's out of the way of the bishops.
+It's not obstructing the bishops that's
+important. And it's obviously
+putting pressure on the D four pawn. So
+eventually we're going to win the pawn back.
+Black drops the bishop back to B six.
+And one great thing about this line is that
+it gives you a chance to carry out the Greek
+gift sacrifice. A ton of people end up
+castling here and this loses the game
+on the spot to a classic
+instance of the Greek gift. Bishop h
+seven night. G five. Check. And you know the
+drill. King G six, queen G four, et
+cetera. So you can definitely
+win your fair share of games
+in this line with a Greek gift sacrifice.
+Now, obviously, Black does not need to fall
+for the Greek gift. And if we go
+back to this position, which is actually
+in my analysis, this is a legitimate
+theoretical position in this line, the way
+the black can avoid the Greek gift is either
+by delaying castling, black can play bishop
+d seven, or black can
+situate a knight on g six and
+prevent the bishop from taking on h seven.
+But at this point, white can already win the
+pawn back. And after bishop G six,
+HG night,   uh, I think the move here
+is actually to throw in H
+three to, uh, take the sting out
+of queen H four. And
+according to the engine, the engine
+sometimes gives a small edge for White when
+we're going to take back on D four, and
+we're going to support the knight with C
+three, and we're going to leave black with
+this terrible French bishop on C eight.
+So there's a lot of theory in this
+line and black has many ways to
+equalize, but nonetheless, there's a good
+amount of meat on the bone in this
+line.   Um, now,
+I'm sure we're going to face the French
+again, and we're going to face it at a
+higher level. So remember, the kind of idea
+of the speedrun is for me to introduce
+opening ideas slowly. When we're at like
+twelve to 1300, I'm talking more about
+concepts, I'm talking about some basic
+theory. And as we rise through the
+ranks, I'll start talking more
+specifically and give you actual lines
+and actual analysis.   So
+the basic idea of this line is to develop
+your kingside very quickly and make sure
+that whatever you do, you don't give up the
+pawn on E five easily.  
+Now, at a high level, people
+who understand the French understand that
+one of Black's main weapons in these types
+of positions is a, um, move like F, uh, six.
+Black can try to physically get rid of the E
+five pawn, but white's not
+giving that pawn away easily. And
+here, white has the very strong response,
+bishop B five,   you might say. Well,
+wait a second, didn't I mention earlier that
+bishop B five is a
+misplaced bishop in this line? Well, again,
+the situation has changed completely
+as a result of the move F six
+and here. Bishop B five should make perfect
+sense to you're. Taking the sting
+out of FTAC C five. Now, Knight takes E
+five is incredibly strong because you're
+attacking from both sides. Queen H five is a
+threat, and Knight takes C Six is a
+threat. So Bishop B five is a
+prophylactic measure against Ftec
+five. Okay? So
+F six is not a panacea either.
+It's a risky move, and if Black
+knows what what they're doing,   uh,
+then he can get away with it. But
+in any case, our
+opponent took a different approach. Knight c
+six. Bishop d three. And our opponent
+decided not to take on D four at all, and
+instead to push C four, which already
+gives White a, uh, sizable
+advantage after the move bishop E two.
+  This is already a
+sizable advantage for White, according to
+the engine. I've analyzed this line because
+it's very, very common at the lower levels
+to push C four. So
+I think b five is a, uh, further
+inaccuracy. I don't think it's a terrible
+move, but I actually think Black's main
+mistake,   uh, early in the opening was
+this move, queen B six. I feel like after A
+four, Black's Queenside is already
+collapsing. And it would
+not be too radical to say that Black is
+borderline lost here. Like with the queen
+side totally gone,  
+black's Kingside is undeveloped. It's
+plus over minus at this point.
+So I think the last chance for
+Black to keep his queen side relatively
+well protected was to play
+what? Who can tell me a decent move for
+Black here that allows them to
+keep the queenside   
+  more or less
+defended?    
+And you might remember what I mentioned
+about A four and why A four is so
+strong in this position. Yeah, bishop B
+seven, or maybe bishop D seven. The engine
+likes putting the bishop on D seven, which
+makes some sense. It's a little bit more
+centralized than the bishop on B seven.
+And after A four, Black plays a
+six and Black holds on
+the queen side is still
+intact. And then Black will try to
+get these Kingside pieces out. Nike
+e seven. Night F five is a very typical
+maneuver in the French. White is
+better. And from White side,
+I wouldn't even rush with a four.
+  White has this
+interesting move in such positions to
+actually just push the H pawn.
+And your idea is to push
+it all the way to H five and maybe
+even to H six to provoke dark square
+weaknesses on the Kingside.  And
+the secondary idea is to prevent the Black
+Knight from jumping into G six, which
+is a super typical kind of parking spot in
+these positions.  Furthermore, you also
+take the sting out of the move knight F
+five, because now the GPA comes
+to the rescue with G four.
+So, without the pawn on
+H five, if you think about it,
+let's make a couple of random moves.
+Let's say White plays c three.
+And White plays a developing move, and
+black puts the net on F five. Here
+the move. G. Four. And this is very common
+in the French. You should remember this. G
+four in this version is not
+effective. Who can tell me why?
+What does black have in
+response to G four here   that
+he wouldn't have had with the pawn already
+on h five? Yeah, there is this very nasty
+move night h four, and you've bitten
+off more than you can chew on the king side
+because after the trade,
+you've got all of these weird kind of
+weaknesses on the king side, you can't go
+knight F three. This pawn is sticking out
+like a sore thumb. Black can go H five
+later. So compared
+to the position   after
+the pawn appears on h five here, after G
+four, the rook controls H four. So the
+knight is pushed back to E seven or back to
+h six. So this is
+why closed positions are difficult to
+play, because they're all of these, like,
+subtleties. And everything really
+does boil down to
+  to, uh, nuances and to
+to who can position their pieces better, who
+understands more ideas about the position.
+  And, uh, this is a good example of
+that. How does bishop D seven solve
+the A takes B five? Weakness asks
+taper knight. Well, it solves the problem
+because after A four A six, the
+queen and the rook are connected. So A takes
+B five is no longer
+effective. You're not losing the rook on
+a eight. You can just recapture with the
+queen.   And of course, with the bishop
+still on C eight, the rook is unprotected.
+So queen B six is a good move.
+Conceptually. Our opponent
+understood that he needs to protect the pawn
+chain on the kings on the queen side,
+but forgot, I would imagine, that
+A six is no longer effective
+with the rook on a eight. Unprotected.
+Dark Tiger asks, was A
+four B four, B three?
+That's a mouthful, a valid
+continuation. So I would say not as
+much. And the reason why
+consists in the move B four. The
+presence of this move would make a four
+futile. And now, if you were to play B
+three after C three, black has
+buried your entire queenside under a
+pile of rubble. This is a nightmare scenario
+because you're never getting your night out
+without sacrificing it. This is what you
+want to avoid. And I could show you
+a bunch of games like this.   
+And if you play C three,
+then black and again try to bury you
+with the move B three, this is not quite as
+disastrous, but clearly white
+has not achieved, uh,  anything positive on
+the queen side. Clearly, white has not
+achieved anything positive. So in this case,
+you actually want to fix the root of the
+pawn chain first so that
+black can't play B four or run
+the risk of losing the C four pawn.
+So in any case, queen B six, a four,
+bishop A six. Now
+we clear the shrubbery on the
+queenside and we leave Black
+with a massive pawn
+weakness on C four, as well as a wide
+open queen side that we can use to
+infiltrate, uh, later on with the
+move rook B one. So I think the
+main theme of the middle game
+was how we managed to switch
+at the drop of a hat from one plan
+to another, right? So our initial plan,
+which we would have put into effect after a
+move like rook D eight, was to first play C
+three   and then play night
+BD two and surround
+the pawn on C four, which is really easy to
+do because black can't defend this pawn.
+If queen B five,
+then the simplest move here, I think, is
+just queen to e two.
+And I should point out that black can try
+to go knight D five and counterattack the
+c three pawn. But here we can kind
+of switch gears a little bit and go night
+to e four.   Very
+typical square in this particular type of
+structure.   And there is
+basically no rush to win the pawn on C
+four. We can use the other knight
+and drop it back to d two.
+So notice how we apportion the rolls here.
+The knight defends c three and contest the d
+six square, while the other knight is going
+to drop back and win the c four pawn. So
+Black's not going to give away the pond that
+easily. So if you play night ft two
+here, black might go knight A
+five.   But at this point, we
+can clear off the d six square.
+Another very typical idea in the
+French bishop c one to a three.
+Devastating move. Absolutely
+devastating because after the
+trade, 96 is a
+totally unstoppable idea. Black's
+also falling apart here on the queen side,
+that knight on a five is very poorly
+defended. White's going to go rook to b
+one and dislodge the queen. This is
+plus five already, so so it
+gets bad really, really quickly. In any
+case, our opponent goes f six and
+we switch gears here. We just grab the pawn
+on f six. Maybe not the best move,
+but definitely the simplest approach to the
+position. And we switch from attacking
+the c four pawn to attacking
+the more relevant weakness, which
+is of course, e six because that's the pawn
+which is standing between our pieces and
+Black's king. Now, king f seven
+is clearly a decisive mistake.
+And after ni g five, check, king e seven
+loses immediately. It accelerates the
+process. King g eight would have allowed
+black to stay in the game for a bit
+longer here. We would have taken on e six
+with the knight. And on the next move, we
+can switch back to our old idea. We
+can go queen e two and win the pawn
+on C four. So this is
+obviously a totally
+indefensible position for black. It's around
+plus four.   But
+perhaps black can hold on here.
+I don't know. The engines
+suggest h five. That tells you all you need
+to know about this position. Rick Gava
+asks, could we go queeny two instead
+of rookie one? Absolutely. And
+I even pointed this out. The reason I
+rejected queeny two is because I didn't want
+to deal with the complications after night
+64. And to
+reiterate the line that I presented during
+the game, this position I was not entirely
+sure how to evaluate. Because as
+winning as it looks for white, there is only
+one piece in the attack. It's the queen. So,
+with the engine on, I see that white is, in
+fact, completely winning, but not with
+queen c six. Check. This would be a very
+hasty move.  
+Notice that after king f seven, the rooks
+are connected, and white loses the attack.
+The move is actually just rookie one. Simple
+chess attack. The bishop on e
+seven   force the black queen
+to return to d seven. And what has been the
+consequence of that? Well, now the c four
+pawn is finally unprotected. We could
+grab it, and on the next
+move, bishop a three is going to
+create devastating threats against
+blacks. Bishop on e seven.
+Okay.    Um,   and
+notice that black also can't castle. That's
+a very important function of keeping
+the queen on this diagonal.    So,
+in any case, this was winning. But
+we decided to play it even simpler with
+rookie one. Perhaps black should have played
+a move like 98 to at
+least try to cling to this pawn on e six.
+But my idea here was just to go c three
+and revert back to our initial idea.
+Bishop b seven. Just go night BD two. At
+least here, black and castle. And the game
+continues. At least here, the game
+continues. But with an extra pawn, black's
+position is in shambles. The pawn on e six
+is a terrible weakness. We've got
+a beautiful pawn chain on the queen side.
+This is around plus three, so the game goes
+on. But white is obviously, technically
+winning. So a simple
+game,   nothing special. But
+nonetheless, I think a good illustration of
+basic ideas and I'm not commentating
+past this point. This is all very
+obvious. I think a good illustration
+of    nice, uh,   
+play with a close center,
+typical ideas in the NIMS of
+its French, which is the first time that
+we faced the french, was this game.
+And takeaways involve
+ideas of attacking what may seem
+to be an imposing pawn chain on the queen
+side. So it's not always about how
+much space your opponent controls. It's
+also about how well defended the pawn chain
+is. And you can use your pawns, in many
+cases, to    what I would call
+clear the straubbery, just, like, blast
+through,    uh, what seems
+to be an imposing pawn chain. And as a
+consequence of that, you often leave your
+opponent with just a jumble of weaknesses
+that you can then attack. And the most
+common way of doing that is by pushing
+B three and then pushing A four. And
+very importantly, if you're on the black
+side of a position like this, make sure that
+the rook on A eight is protected so that you
+can push a six and at least support
+the pun on B five.   All
+right? So that's what I'll say,
+folks. I would get another game in,
+but, um, I think it's getting pretty late.
+I have lost in a speedrun, but it's only
+been to cheaters.  

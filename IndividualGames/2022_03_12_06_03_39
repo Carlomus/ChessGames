@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.03.12"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "The_Rockdok"]
+[Result "1-0"]
+[CurrentPosition "2r3k1/pp5p/4Q3/q2p4/1b1B4/3P4/1P4PP/5RK1 b - -"]
+[Timezone "UTC"]
+[ECO "C02"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Advance-Nimzowitsch-System"]
+[UTCDate "2022.03.12"]
+[UTCTime "06:03:39"]
+[WhiteElo "1713"]
+[BlackElo "1733"]
+[TimeControl "600"]
+[Termination "SenseiDanya won by checkmate"]
+[StartTime "06:03:39"]
+[EndDate "2022.03.12"]
+[EndTime "06:17:42"]
+[Link "https://www.chess.com/game/live/40804125591"]
+
+1. e4 {[%clk 0:09:58]} 1... e6 {[%clk 0:09:59]} 2. d4 {[%clk 0:09:48.9]} 2... d5 {[%clk 0:09:58.3]} 3. e5 {[%clk 0:09:45.2]} 3... c5 {[%clk 0:09:57]} 4. Nf3 {[%clk 0:09:38.9]} 4... Bd7 {[%clk 0:09:56.1]} 5. Bd3 {[%clk 0:09:16.8]} 5... Nc6 {[%clk 0:09:53.9]} 6. O-O {[%clk 0:09:07.3]} 6... cxd4 {[%clk 0:09:50.8]} 7. Bf4 {[%clk 0:08:44.7]} 7... Qb6 {[%clk 0:09:48]} 8. Nbd2 {[%clk 0:08:17.6]} 8... Nb4 {[%clk 0:09:25.5]} 9. Nb3 {[%clk 0:08:04.7]} 9... Nxd3 {[%clk 0:08:35.4]} 10. cxd3 {[%clk 0:07:55.4]} 10... Rc8 {[%clk 0:08:18.8]} 11. Rc1 {[%clk 0:07:36.7]} 11... Ne7 {[%clk 0:08:06.1]} 12. Nfxd4 {[%clk 0:06:35.5]} 12... Nc6 {[%clk 0:07:42.6]} 13. Be3 {[%clk 0:06:28.3]} 13... Qa6 {[%clk 0:06:27.8]} 14. Nxc6 {[%clk 0:06:05.2]} 14... Bxc6 {[%clk 0:05:17.2]} 15. Nd4 {[%clk 0:05:22.5]} 15... Qxa2 {[%clk 0:04:52.9]} 16. Qe2 {[%clk 0:04:30.8]} 16... Qa5 {[%clk 0:04:41.4]} 17. f4 {[%clk 0:04:15.2]} 17... Bb4 {[%clk 0:04:19.7]} 18. f5 {[%clk 0:04:13.3]} 18... O-O {[%clk 0:04:12.1]} 19. fxe6 {[%clk 0:04:01.8]} 19... fxe6 {[%clk 0:04:09]} 20. Nxe6 {[%clk 0:04:00.2]} 20... Rxf1+ {[%clk 0:04:01.2]} 21. Rxf1 {[%clk 0:03:59.4]} 21... Bd7 {[%clk 0:03:40.9]} 22. Nxg7 {[%clk 0:03:38.5]} 22... Kxg7 {[%clk 0:03:36.8]} 23. e6 {[%clk 0:02:57.2]} 23... Bxe6 {[%clk 0:03:32.7]} 24. Bd4+ {[%clk 0:02:56]} 24... Kg8 {[%clk 0:03:15.6]} 25. Qxe6# {[%clk 0:02:54.1]} 1-0
+
+

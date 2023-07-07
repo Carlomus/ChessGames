@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.09"]
+[Round "-"]
+[White "vipin2256"]
+[Black "OhMyLands"]
+[Result "0-1"]
+[CurrentPosition "r1bqkb1r/pp3pp1/2n2n1p/3pp3/8/1B1P1Q1N/PPP2PPP/RNB1K2R w KQkq -"]
+[Timezone "UTC"]
+[ECO "B10"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-Hillbilly-Attack-2...d5"]
+[UTCDate "2021.03.09"]
+[UTCTime "12:32:30"]
+[WhiteElo "805"]
+[BlackElo "867"]
+[TimeControl "600"]
+[Termination "OhMyLands won - game abandoned"]
+[StartTime "12:32:30"]
+[EndDate "2021.03.09"]
+[EndTime "12:37:38"]
+[Link "https://www.chess.com/game/live/9032202993"]
+
+1. e4 {[%clk 0:09:53.7]} 1... c6 {[%clk 0:09:58.7]} 2. Bc4 {[%clk 0:09:49.2]} 2... d5 {[%clk 0:09:47.1]} 3. exd5 {[%clk 0:09:46.6]} 3... cxd5 {[%clk 0:09:45.5]} 4. Bb3 {[%clk 0:09:44.2]} 4... Nc6 {[%clk 0:09:13.6]} 5. Qf3 {[%clk 0:09:41.2]} 5... Nf6 {[%clk 0:08:42.4]} 6. Nh3 {[%clk 0:09:36.7]} 6... e5 {[%clk 0:08:27.5]} 7. d3 {[%clk 0:09:28]} 7... h6 {[%clk 0:07:51.4]} 0-1
+
+

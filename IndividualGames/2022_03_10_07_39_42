@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.03.10"]
+[Round "-"]
+[White "SenseiDanya"]
+[Black "bigbalu"]
+[Result "1-0"]
+[CurrentPosition "r1bR1k1r/p4ppp/1p2p3/4P1B1/6nQ/8/PPP2bPP/2K2B1R b - -"]
+[Timezone "UTC"]
+[ECO "C47"]
+[ECOUrl "https://www.chess.com/openings/Four-Knights-Game"]
+[UTCDate "2022.03.10"]
+[UTCTime "07:39:42"]
+[WhiteElo "1688"]
+[BlackElo "1674"]
+[TimeControl "600"]
+[Termination "SenseiDanya won by checkmate"]
+[StartTime "07:39:42"]
+[EndDate "2022.03.10"]
+[EndTime "07:46:25"]
+[Link "https://www.chess.com/game/live/40636823143"]
+
+1. e4 {[%clk 0:09:59.7]} 1... e5 {[%clk 0:09:58.6]} 2. Nf3 {[%clk 0:09:58]} 2... Nf6 {[%clk 0:09:57.2]} 3. Nc3 {[%clk 0:09:47.7]} 3... Nc6 {[%clk 0:09:55.7]} 4. d4 {[%clk 0:09:46.5]} 4... exd4 {[%clk 0:09:51.9]} 5. Nxd4 {[%clk 0:09:45.4]} 5... Nxd4 {[%clk 0:09:49.5]} 6. Qxd4 {[%clk 0:09:43.4]} 6... b6 {[%clk 0:09:35]} 7. e5 {[%clk 0:09:37.1]} 7... Qe7 {[%clk 0:09:29.9]} 8. Bg5 {[%clk 0:08:24]} 8... Qe6 {[%clk 0:08:57.9]} 9. O-O-O {[%clk 0:07:32.3]} 9... Bc5 {[%clk 0:08:47.5]} 10. Qh4 {[%clk 0:06:40.5]} 10... Ng4 {[%clk 0:08:20.9]} 11. Nd5 {[%clk 0:06:20.9]} 11... Bxf2 {[%clk 0:07:15.8]} 12. Nxc7+ {[%clk 0:06:17.4]} 12... Kf8 {[%clk 0:07:13]} 13. Nxe6+ {[%clk 0:06:15]} 13... dxe6 {[%clk 0:07:11.2]} 14. Rd8# {[%clk 0:06:13.2]} 1-0
+
+

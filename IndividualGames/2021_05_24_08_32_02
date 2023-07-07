@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.05.24"]
+[Round "-"]
+[White "OhMyLands"]
+[Black "Giyantojkt"]
+[Result "1-0"]
+[CurrentPosition "r4R2/1p3Rk1/1pnp2np/8/2B5/8/PPP3PP/7K b - -"]
+[Timezone "UTC"]
+[ECO "C25"]
+[ECOUrl "https://www.chess.com/openings/Vienna-Game-Zhuravlev-Countergambit"]
+[UTCDate "2021.05.24"]
+[UTCTime "08:32:02"]
+[WhiteElo "1806"]
+[BlackElo "1793"]
+[TimeControl "600"]
+[Termination "OhMyLands won by checkmate"]
+[StartTime "08:32:02"]
+[EndDate "2021.05.24"]
+[EndTime "08:46:40"]
+[Link "https://www.chess.com/game/live/15583991739"]
+
+1. e4 {[%clk 0:10:00]} 1... e5 {[%clk 0:09:59.9]} 2. Nc3 {[%clk 0:09:56.3]} 2... Bb4 {[%clk 0:09:49.9]} 3. f4 {[%clk 0:09:06]} 3... exf4 {[%clk 0:09:41.9]} 4. Nf3 {[%clk 0:08:47.6]} 4... h6 {[%clk 0:09:21.3]} 5. Bc4 {[%clk 0:07:35.6]} 5... Nf6 {[%clk 0:09:08.2]} 6. O-O {[%clk 0:06:31]} 6... O-O {[%clk 0:08:59.4]} 7. e5 {[%clk 0:06:29.2]} 7... Nh7 {[%clk 0:08:18.1]} 8. Nd5 {[%clk 0:05:38.4]} 8... Bc5+ {[%clk 0:08:09.7]} 9. d4 {[%clk 0:05:33.1]} 9... Bb6 {[%clk 0:07:50]} 10. Bxf4 {[%clk 0:05:08.4]} 10... d6 {[%clk 0:07:41.7]} 11. Kh1 {[%clk 0:04:07.6]} 11... dxe5 {[%clk 0:07:12.8]} 12. Nxe5 {[%clk 0:03:54.3]} 12... Be6 {[%clk 0:07:01.9]} 13. Nxb6 {[%clk 0:03:13.6]} 13... axb6 {[%clk 0:06:52.6]} 14. d5 {[%clk 0:03:00.8]} 14... Bf5 {[%clk 0:06:04.3]} 15. Bxh6 {[%clk 0:02:48.6]} 15... Bg6 {[%clk 0:05:47.5]} 16. d6 {[%clk 0:01:59.8]} 16... Qxd6 {[%clk 0:05:36.7]} 17. Qxd6 {[%clk 0:01:55.6]} 17... cxd6 {[%clk 0:05:30.7]} 18. Nxg6 {[%clk 0:01:54.8]} 18... gxh6 {[%clk 0:05:29.3]} 19. Nxf8 {[%clk 0:01:52.6]} 19... Nxf8 {[%clk 0:05:06.3]} 20. Rxf7 {[%clk 0:01:51.4]} 20... Ng6 {[%clk 0:04:55]} 21. Raf1 {[%clk 0:01:20]} 21... Nc6 {[%clk 0:04:50.6]} 22. Rf8+ {[%clk 0:01:08.3]} 22... Kg7 {[%clk 0:04:31.2]} 23. R1f7# {[%clk 0:01:02.5]} 1-0
+
+
